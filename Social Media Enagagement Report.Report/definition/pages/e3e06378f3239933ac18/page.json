@@ -1,0 +1,172 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/1.3.0/schema.json",
+  "name": "e3e06378f3239933ac18",
+  "displayName": "Facebook",
+  "displayOption": "FitToPage",
+  "height": 720,
+  "width": 1280,
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "a9c6960a8eed2b7a214b",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Dataset"
+              }
+            },
+            "Property": "Platform"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "d",
+              "Entity": "Dataset",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "d"
+                          }
+                        },
+                        "Property": "Platform"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'Facebook'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User"
+      }
+    ]
+  },
+  "objects": {
+    "background": [
+      {
+        "properties": {
+          "color": {
+            "solid": {
+              "color": {
+                "expr": {
+                  "Literal": {
+                    "Value": "'#F2F4F8'"
+                  }
+                }
+              }
+            }
+          },
+          "transparency": {
+            "expr": {
+              "Literal": {
+                "Value": "0D"
+              }
+            }
+          },
+          "image": {
+            "image": {
+              "name": {
+                "expr": {
+                  "Literal": {
+                    "Value": "''"
+                  }
+                }
+              },
+              "url": {
+                "expr": {
+                  "Literal": {
+                    "Value": "''"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "0bc71b969e1b39950bc7",
+      "target": "e3054e6f5f51a08345ce",
+      "type": "DataFilter"
+    },
+    {
+      "source": "0bc71b969e1b39950bc7",
+      "target": "4ecd32ab6b0da20ab923",
+      "type": "DataFilter"
+    },
+    {
+      "source": "e3054e6f5f51a08345ce",
+      "target": "0bc71b969e1b39950bc7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "e3054e6f5f51a08345ce",
+      "target": "4ecd32ab6b0da20ab923",
+      "type": "DataFilter"
+    },
+    {
+      "source": "817da944b0b31d35cb71",
+      "target": "0bc71b969e1b39950bc7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "817da944b0b31d35cb71",
+      "target": "4ecd32ab6b0da20ab923",
+      "type": "DataFilter"
+    },
+    {
+      "source": "817da944b0b31d35cb71",
+      "target": "e3054e6f5f51a08345ce",
+      "type": "DataFilter"
+    },
+    {
+      "source": "b4818fa06b5921c7f992",
+      "target": "0bc71b969e1b39950bc7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "b4818fa06b5921c7f992",
+      "target": "e3054e6f5f51a08345ce",
+      "type": "DataFilter"
+    },
+    {
+      "source": "b4818fa06b5921c7f992",
+      "target": "4ecd32ab6b0da20ab923",
+      "type": "DataFilter"
+    },
+    {
+      "source": "4ecd32ab6b0da20ab923",
+      "target": "e3054e6f5f51a08345ce",
+      "type": "DataFilter"
+    },
+    {
+      "source": "4ecd32ab6b0da20ab923",
+      "target": "0bc71b969e1b39950bc7",
+      "type": "DataFilter"
+    }
+  ]
+}

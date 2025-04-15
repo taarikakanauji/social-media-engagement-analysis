@@ -1,0 +1,77 @@
+table Measure
+	lineageTag: 0c7abf8b-426f-4636-b79a-787047445338
+
+	measure 'Total Posts' = COUNT('Dataset'[Post_ID])
+		formatString: 0
+		lineageTag: d62b36c8-c364-426c-a36b-9f653dccc56d
+
+	measure Impressions = SUM('Dataset'[Impressions])
+		formatString: #,0
+		lineageTag: f46be4fd-3b1a-470e-a746-0be8c128138d
+
+	measure 'Total likes' = SUM('Dataset'[Likes])
+		formatString: 0
+		lineageTag: 90560ab4-91a2-4d06-a261-78b651b6a2c1
+
+	measure 'Total Comments' = SUM('Dataset'[Comments])
+		formatString: 0
+		lineageTag: 53393d54-2492-4383-b3dc-4aa1f3cc4a35
+
+	measure 'Total Shares' = SUM('Dataset'[Shares])
+		formatString: 0
+		lineageTag: 5b22d105-bf3f-4f3c-b34b-cd625c7b74a5
+
+	measure Engagements = [Total likes] + [Total Shares] +[Total Comments]
+		formatString: #,0
+		lineageTag: 249cc876-1fce-4d92-8ea2-9e35bfce24cc
+
+	measure 'Engagement Past Month (INPERIOD)' = ```
+			
+			CALCULATE(
+			    [Engagements], 
+			    DATESINPERIOD(
+			        'Date Table (DAX)'[Date], 
+			        EOMONTH(MAX('Date Table (DAX)'[Date]), 
+			        -1), 
+			        -1, 
+			        MONTH)
+			)
+			```
+		formatString: 0
+		lineageTag: 6d583cde-018b-4c73-a50f-88561cd8cd20
+
+	measure 'Engagement Current Month (MTD)' = ```
+			
+			CALCULATE(
+			    [Engagements],
+			    DATESMTD( 'Date Table (DAX)'[Date])
+			)
+			
+			
+			```
+		formatString: 0
+		lineageTag: 2fff3585-905a-49cb-8be5-8134736e173e
+
+	measure 'MoM Engagement %' =
+			
+			CALCULATE(
+			    DIVIDE(
+			    ([Engagement Current Month (MTD)] - [Engagement Past Month (INPERIOD)]),
+			    [Engagement Past Month (INPERIOD)]
+			    )
+			)
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: 6b1764d9-1596-4d13-a37a-4deeb7dfdb60
+
+	partition Measure = m
+		mode: import
+		source =
+				let
+				    Source = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i44FAA==", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [Column1 = _t]),
+				    #"Changed Type" = Table.TransformColumnTypes(Source,{{"Column1", type text}}),
+				    #"Removed Columns" = Table.RemoveColumns(#"Changed Type",{"Column1"})
+				in
+				    #"Removed Columns"
+
+	annotation PBI_ResultType = Table
+

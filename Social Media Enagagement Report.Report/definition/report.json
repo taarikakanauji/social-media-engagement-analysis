@@ -1,0 +1,120 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/1.2.0/schema.json",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "CY24SU10",
+      "reportVersionAtImport": "5.62",
+      "type": "SharedResources"
+    },
+    "customTheme": {
+      "name": "Custom3142945987898219.json",
+      "reportVersionAtImport": "5.62",
+      "type": "RegisteredResources"
+    }
+  },
+  "layoutOptimization": "None",
+  "objects": {
+    "section": [
+      {
+        "properties": {
+          "verticalAlignment": {
+            "expr": {
+              "Literal": {
+                "Value": "'Top'"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "outspacePane": [
+      {
+        "properties": {
+          "expanded": {
+            "expr": {
+              "Literal": {
+                "Value": "false"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "resourcePackages": [
+    {
+      "name": "SharedResources",
+      "type": "SharedResources",
+      "items": [
+        {
+          "name": "CY24SU10",
+          "path": "BaseThemes/CY24SU10.json",
+          "type": "BaseTheme"
+        }
+      ]
+    },
+    {
+      "name": "RegisteredResources",
+      "type": "RegisteredResources",
+      "items": [
+        {
+          "name": "Custom3142945987898219.json",
+          "path": "Custom3142945987898219.json",
+          "type": "CustomTheme"
+        },
+        {
+          "name": "post9925798840649938.png",
+          "path": "post9925798840649938.png",
+          "type": "Image"
+        },
+        {
+          "name": "like25805375279711595.png",
+          "path": "like25805375279711595.png",
+          "type": "Image"
+        },
+        {
+          "name": "comment2867482516776807.png",
+          "path": "comment2867482516776807.png",
+          "type": "Image"
+        },
+        {
+          "name": "share2514248414441107.png",
+          "path": "share2514248414441107.png",
+          "type": "Image"
+        },
+        {
+          "name": "RESET1435519822152348.png",
+          "path": "RESET1435519822152348.png",
+          "type": "Image"
+        },
+        {
+          "name": "insta7854838368532348.png",
+          "path": "insta7854838368532348.png",
+          "type": "Image"
+        },
+        {
+          "name": "twitter040506520752753405.png",
+          "path": "twitter040506520752753405.png",
+          "type": "Image"
+        },
+        {
+          "name": "facebook399981643785556.png",
+          "path": "facebook399981643785556.png",
+          "type": "Image"
+        },
+        {
+          "name": "home4735526060859585.png",
+          "path": "home4735526060859585.png",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "useStylableVisualContainerHeader": true,
+    "defaultDrillFilterOtherVisuals": true,
+    "allowChangeFilterTypes": true,
+    "useEnhancedTooltips": true,
+    "useDefaultAggregateDisplayName": true
+  }
+}

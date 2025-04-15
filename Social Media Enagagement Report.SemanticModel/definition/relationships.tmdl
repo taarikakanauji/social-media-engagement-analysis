@@ -1,0 +1,4 @@
+relationship 684741b9-2edd-3c19-629e-48d77e289865
+	fromColumn: Dataset.Date
+	toColumn: 'Date Table (DAX)'.Date
+

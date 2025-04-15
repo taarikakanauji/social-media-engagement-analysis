@@ -1,0 +1,48 @@
+table Parameter
+	lineageTag: 9deb12a0-4f06-4964-a4e1-28e82ec3ba6a
+
+	column Parameter
+		lineageTag: 80bcf455-db66-44c3-a02f-c37d1e652f11
+		summarizeBy: none
+		sourceColumn: [Value1]
+		sortByColumn: 'Parameter Order'
+
+		relatedColumnDetails
+			groupByColumn: 'Parameter Fields'
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Parameter Fields'
+		isHidden
+		lineageTag: d5f1dd22-9b0f-45ff-8c13-88e8be1237dc
+		summarizeBy: none
+		sourceColumn: [Value2]
+		sortByColumn: 'Parameter Order'
+
+		extendedProperty ParameterMetadata =
+				{
+				  "version": 3,
+				  "kind": 2
+				}
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Parameter Order'
+		isHidden
+		formatString: 0
+		lineageTag: f8a26851-8693-4090-9b73-871b9b1fb61b
+		summarizeBy: sum
+		sourceColumn: [Value3]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Parameter = calculated
+		mode: import
+		source =
+				{
+				    ("Engagements", NAMEOF('Measure'[Engagements]), 0),
+				    ("Impressions", NAMEOF('Measure'[Impressions]), 1)
+				}
+
+	annotation PBI_Id = 94ec0ee6ebdf4d7b82890e6a3c0e73ca
+

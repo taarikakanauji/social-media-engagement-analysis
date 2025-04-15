@@ -1,0 +1,166 @@
+table Dataset
+	lineageTag: 8a5c9f1c-a6fb-4595-9783-7246d2fd2a51
+
+	column Date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 89dad7bc-6e9e-40d9-b6fa-ca67ffdf851b
+		summarizeBy: none
+		sourceColumn: Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Platform
+		dataType: string
+		lineageTag: b38dae84-9c80-45a6-a3c9-d8fd21fe3328
+		summarizeBy: none
+		sourceColumn: Platform
+
+		annotation SummarizationSetBy = Automatic
+
+	column Post_ID
+		dataType: string
+		lineageTag: cae42557-a4af-4c93-a083-e888998b6962
+		summarizeBy: none
+		sourceColumn: Post_ID
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Post Type'
+		dataType: string
+		lineageTag: 4432dc73-99b7-4ee1-9158-bdaeb3e3930d
+		summarizeBy: none
+		sourceColumn: Post Type
+
+		annotation SummarizationSetBy = Automatic
+
+	column Likes
+		dataType: int64
+		formatString: 0
+		lineageTag: 09601371-4f48-4b38-8bec-926a1d5b9f76
+		summarizeBy: sum
+		sourceColumn: Likes
+
+		annotation SummarizationSetBy = Automatic
+
+	column Comments
+		dataType: int64
+		formatString: 0
+		lineageTag: 30c715ed-87e9-40c2-a1cd-b0853d26cae1
+		summarizeBy: sum
+		sourceColumn: Comments
+
+		annotation SummarizationSetBy = Automatic
+
+	column Shares
+		dataType: int64
+		formatString: 0
+		lineageTag: c8686099-a4fe-4564-b8c5-168122e5e94c
+		summarizeBy: sum
+		sourceColumn: Shares
+
+		annotation SummarizationSetBy = Automatic
+
+	column Impressions
+		dataType: int64
+		formatString: 0
+		lineageTag: 1445eab6-0138-4990-9f09-20e687f051a4
+		summarizeBy: sum
+		sourceColumn: Impressions
+
+		annotation SummarizationSetBy = Automatic
+
+	column Followers
+		dataType: int64
+		formatString: 0
+		lineageTag: 068d9b3c-4750-4550-b3d9-a36dd2c14845
+		summarizeBy: sum
+		sourceColumn: Followers
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Audience Age'
+		dataType: int64
+		formatString: 0
+		lineageTag: 097beb2b-a1a0-496f-a8b1-6fd93306b465
+		summarizeBy: sum
+		sourceColumn: Audience Age
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Audience Gender'
+		dataType: string
+		lineageTag: 16701056-396f-404b-a30e-7da79426e8a3
+		summarizeBy: none
+		sourceColumn: Audience Gender
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Audience Location'
+		dataType: string
+		lineageTag: 11649202-72db-4008-be49-c8fae29c8860
+		summarizeBy: none
+		sourceColumn: Audience Location
+
+		annotation SummarizationSetBy = Automatic
+
+	column Sentiment
+		dataType: string
+		lineageTag: 0358e785-a70a-4340-b4c1-aa0b96ed1a7f
+		summarizeBy: none
+		sourceColumn: Sentiment
+
+		annotation SummarizationSetBy = Automatic
+
+	column Reach
+		dataType: int64
+		formatString: 0
+		lineageTag: 2320c90a-d5e4-4575-a474-2c9412e3565c
+		summarizeBy: sum
+		sourceColumn: Reach
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Engagement Rate'
+		dataType: double
+		lineageTag: ac88ee4f-4118-4740-8dd1-fc16907012d8
+		summarizeBy: sum
+		sourceColumn: Engagement Rate
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Age Group' = ```
+			
+			 SWITCH(
+			    TRUE(),
+			    'Dataset'[Audience Age] <18, "Teen",
+			    'Dataset'[Audience Age]>=18 && 'Dataset'[Audience Age]<30,"Young Adult",
+			    'Dataset'[Audience Age]>=30 && 'Dataset'[Audience Age]<50,"Adult",
+			    'Dataset'[Audience Age]>=50,"Senior",
+			    "Out of Range"
+			 )
+			```
+		lineageTag: 0fb9e964-96ea-448d-b775-318eed01b341
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Dataset = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("E:\PORTFOLIO\POWER BI\Social Media Engagement Report\dataset\Dataset.csv"),[Delimiter=",", Columns=15, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Date", type date}, {"Platform", type text}, {"Post_ID", type text}, {"Post Type", type text}, {"Likes", Int64.Type}, {"Comments", Int64.Type}, {"Shares", Int64.Type}, {"Impressions", Int64.Type}, {"Followers", Int64.Type}, {"Audience Age", Int64.Type}, {"Audience Gender", type text}, {"Audience Location", type text}, {"Sentiment", type text}, {"Reach", Int64.Type}, {"Engagement Rate", type number}}),
+				    #"Sorted Rows" = Table.Sort(#"Changed Type",{{"Date", Order.Descending}})
+				in
+				    #"Sorted Rows"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
