@@ -1,0 +1,2006 @@
+Date,Platform,Post_ID,Post Type,Likes,Comments,Shares,Impressions,Followers,Audience Age,Audience Gender,Audience Location,Sentiment,Reach,Engagement Rate
+6/24/2023,Twitter,Post_21,Carousel,82,226,230,18356,46608,29,Other,United Kingdom,Negative,1842,31.32
+8/27/2023,Instagram,Post_33,Video,759,105,124,25779,139448,48,Male,Greece,Neutral,3884,28.78
+4/11/2023,Instagram,Post_74,Video,872,53,481,75072,193951,55,Male,United States Virgin Islands,Neutral,849,104.71
+5/13/2023,Instagram,Post_56,Image,884,99,366,37714,168918,54,Other,Zambia,Neutral,3519,24.13
+10/13/2023,Facebook,Post_58,Carousel,572,247,258,31439,13152,33,Other,Afghanistan,Neutral,2032,44.69
+6/30/2023,Twitter,Post_55,Video,271,273,280,23572,7103,59,Female,Djibouti,Neutral,2667,39.67
+2/28/2023,Instagram,Post_63,Image,395,9,392,83056,51652,41,Other,Jamaica,Neutral,1553,77.53
+5/24/2023,Twitter,Post_60,Text,530,152,434,73620,45493,63,Other,Gibraltar,Neutral,1498,56.88
+3/8/2023,Instagram,Post_9,Video,4,280,23,61426,160214,23,Male,Estonia,Neutral,3695,39.84
+6/20/2023,Twitter,Post_80,Video,206,156,352,74976,24061,46,Other,Guatemala,Positive,2508,28.55
+6/2/2023,Twitter,Post_40,Image,79,294,331,55876,40715,33,Female,Lao People's Democratic Republic,Positive,1831,34.68
+8/17/2023,Twitter,Post_62,Video,584,294,429,70767,46608,23,Other,Jordan,Positive,3927,14.62
+12/28/2023,Instagram,Post_14,Image,451,126,211,57361,174070,48,Male,Sudan,Positive,4829,20.23
+4/4/2023,Twitter,Post_68,Image,949,102,452,59350,23048,47,Female,Nepal,Negative,3477,19.07
+11/12/2023,Facebook,Post_13,Image,812,253,302,55753,32342,63,Male,Kazakhstan,Negative,2901,16.27
+4/9/2023,Twitter,Post_79,Video,402,8,414,96153,12980,24,Female,Macao,Negative,2101,34.79
+9/20/2023,Instagram,Post_19,Image,47,89,121,8893,40242,33,Male,United States Minor Outlying Islands,Neutral,3020,31.69
+3/23/2023,Facebook,Post_8,Text,745,122,352,62575,22616,57,Female,Armenia,Neutral,2284,38.31
+1/30/2023,Instagram,Post_39,Text,236,0,331,86760,43280,65,Female,Slovakia (Slovak Republic),Neutral,3443,10.02
+2/12/2023,Twitter,Post_32,Image,166,251,258,55830,49378,56,Other,Oman,Negative,678,189.53
+7/28/2023,Instagram,Post_6,Image,888,38,103,25937,191639,35,Other,China,Negative,1726,61.53
+10/31/2023,Instagram,Post_55,Carousel,451,8,185,88411,100623,49,Other,Sierra Leone,Negative,668,198.5
+6/14/2023,Twitter,Post_86,Text,392,67,80,70960,17791,32,Other,New Zealand,Positive,2192,20.03
+9/4/2023,Instagram,Post_52,Carousel,134,47,125,78770,134169,57,Other,Latvia,Positive,3579,41.72
+2/12/2023,Instagram,Post_84,Text,282,206,46,13972,97902,23,Other,Costa Rica,Negative,707,72.14
+10/18/2023,Instagram,Post_49,Image,609,156,13,41388,122856,44,Male,Reunion,Positive,2125,58.73
+7/3/2023,Twitter,Post_12,Carousel,851,33,293,78531,32341,53,Other,Bangladesh,Positive,1144,94.32
+2/9/2023,Instagram,Post_92,Video,456,37,14,63919,70414,40,Male,Gabon,Negative,2797,28.03
+7/23/2023,Facebook,Post_60,Image,285,106,312,50937,32393,47,Male,Pitcairn Islands,Neutral,501,214.37
+7/18/2023,Facebook,Post_99,Text,495,292,107,3343,55529,27,Other,Mexico,Neutral,925,166.38
+1/24/2023,Facebook,Post_32,Text,304,198,223,49546,97639,33,Other,Afghanistan,Neutral,3265,22.63
+10/11/2023,Facebook,Post_26,Text,629,61,461,57686,71980,35,Female,Kiribati,Negative,4876,12.1
+12/12/2023,Twitter,Post_36,Text,103,28,239,62842,13954,20,Female,Czech Republic,Negative,3004,25.2
+7/7/2023,Facebook,Post_85,Image,413,41,421,16664,80131,35,Male,Cocos (Keeling) Islands,Negative,2309,37.98
+11/8/2023,Instagram,Post_98,Carousel,920,37,348,55912,111761,57,Female,Gambia,Negative,1509,83.9
+10/15/2023,Twitter,Post_84,Carousel,702,170,117,56550,9244,53,Male,Aruba,Neutral,1056,83.05
+5/17/2023,Instagram,Post_17,Text,844,43,33,97865,30239,37,Male,Somalia,Positive,3937,38
+6/7/2023,Facebook,Post_2,Video,190,94,78,56353,55245,64,Female,Liechtenstein,Neutral,3635,18.87
+3/5/2023,Instagram,Post_75,Image,551,162,422,87730,43218,34,Female,Moldova,Neutral,3917,36.92
+3/4/2023,Twitter,Post_18,Video,928,232,314,1095,32627,21,Male,Moldova,Neutral,4580,25.24
+10/17/2023,Facebook,Post_81,Text,188,185,43,65611,25324,18,Male,Hong Kong,Neutral,4631,13.06
+12/13/2023,Twitter,Post_77,Text,937,192,470,94506,26066,47,Other,Rwanda,Negative,3626,22.67
+12/14/2023,Twitter,Post_49,Text,162,255,47,23353,13266,47,Male,United States Virgin Islands,Negative,4242,21.97
+3/19/2023,Twitter,Post_1,Text,722,259,454,12535,44201,48,Other,Nicaragua,Positive,1378,49.13
+9/24/2023,Facebook,Post_18,Video,166,175,357,22321,25214,40,Female,Malaysia,Neutral,798,147.74
+8/21/2023,Twitter,Post_59,Text,607,242,390,27828,44849,64,Other,Saint Martin,Negative,3335,23.51
+1/12/2023,Instagram,Post_67,Image,73,208,431,65026,70893,25,Female,Central African Republic,Neutral,1080,52.41
+12/23/2023,Instagram,Post_32,Video,495,256,135,97551,34707,62,Female,Congo,Neutral,1213,68.67
+7/29/2023,Instagram,Post_5,Video,584,54,207,13228,160173,20,Female,Bouvet Island (Bouvetoya),Positive,2401,56.6
+10/19/2023,Instagram,Post_37,Text,964,296,148,71613,51315,52,Female,Brunei Darussalam,Neutral,2405,23.41
+9/3/2023,Twitter,Post_50,Text,762,201,10,90468,32797,26,Other,Egypt,Neutral,2033,55.88
+11/1/2023,Facebook,Post_77,Text,679,203,359,41369,92348,39,Female,Argentina,Negative,1150,56.17
+5/10/2023,Twitter,Post_52,Video,279,200,395,22558,39329,44,Male,Norfolk Island,Negative,2409,42.38
+8/12/2023,Twitter,Post_35,Image,299,190,370,95762,26256,31,Female,Korea,Negative,4835,17.15
+3/26/2023,Twitter,Post_16,Carousel,26,204,269,48589,12837,59,Other,Iceland,Positive,1169,93.93
+10/19/2023,Facebook,Post_97,Carousel,310,87,476,65041,13319,53,Male,Turkey,Positive,4464,18.44
+7/8/2023,Facebook,Post_1,Carousel,261,124,234,37916,78580,34,Female,Sudan,Positive,4202,13.64
+6/21/2023,Twitter,Post_3,Carousel,768,7,3,27630,16082,47,Other,French Guiana,Positive,1056,94.22
+9/5/2023,Facebook,Post_80,Text,653,296,335,88395,89869,25,Female,Afghanistan,Positive,660,164.09
+8/25/2023,Facebook,Post_1,Video,640,229,452,86167,29388,30,Male,Kazakhstan,Positive,2517,38.14
+2/3/2023,Twitter,Post_36,Image,50,101,352,82112,23694,49,Other,Lebanon,Positive,1971,18.62
+6/11/2023,Facebook,Post_9,Video,161,135,397,3301,75794,51,Other,El Salvador,Neutral,705,158.44
+1/15/2023,Twitter,Post_72,Text,895,142,15,89456,48615,59,Male,Reunion,Negative,1125,100.98
+2/15/2023,Facebook,Post_80,Carousel,354,1,391,63897,51861,62,Female,Chad,Positive,3141,37.15
+6/1/2023,Twitter,Post_15,Video,912,29,54,75638,21126,23,Female,Cyprus,Positive,3944,12.35
+2/3/2023,Twitter,Post_1,Video,747,147,270,10275,49194,25,Male,Finland,Neutral,1897,23.46
+7/9/2023,Instagram,Post_56,Image,176,124,191,77152,178123,41,Other,Cote d'Ivoire,Negative,1268,93.45
+10/4/2023,Instagram,Post_10,Image,991,218,450,42481,190561,41,Other,Brazil,Negative,2664,43.62
+10/9/2023,Twitter,Post_68,Carousel,71,167,428,71368,29504,34,Female,United States Minor Outlying Islands,Negative,2404,17.05
+6/17/2023,Facebook,Post_80,Image,771,141,190,11851,68611,23,Male,Antigua and Barbuda,Positive,2674,18.55
+6/12/2023,Instagram,Post_72,Carousel,814,72,66,91023,104835,23,Male,Algeria,Positive,2795,39.75
+2/16/2023,Twitter,Post_9,Image,847,173,30,55445,31304,33,Female,Cote d'Ivoire,Negative,3487,36.56
+3/24/2023,Twitter,Post_35,Image,593,82,380,91671,49723,30,Female,Germany,Negative,1161,103.45
+11/13/2023,Facebook,Post_18,Text,487,145,110,38096,55478,22,Female,Morocco,Negative,2356,53.65
+7/16/2023,Facebook,Post_84,Image,391,22,434,46572,51259,21,Female,Uganda,Neutral,656,96.19
+6/2/2023,Instagram,Post_61,Video,521,84,125,68896,83891,32,Male,Singapore,Neutral,4301,19.86
+7/2/2023,Twitter,Post_44,Video,558,57,216,63845,41963,45,Other,Gibraltar,Positive,1615,37.28
+1/27/2023,Twitter,Post_21,Carousel,709,166,73,41661,31868,33,Other,Kiribati,Positive,890,125.84
+4/21/2023,Twitter,Post_21,Carousel,923,292,60,81112,46420,50,Male,Iran,Positive,3159,32.32
+6/17/2023,Twitter,Post_99,Video,904,170,466,67619,49790,56,Male,Argentina,Positive,807,85.87
+9/24/2023,Twitter,Post_44,Text,537,130,174,4160,9273,50,Male,Aruba,Positive,4703,22.58
+11/5/2023,Facebook,Post_22,Image,12,101,24,63847,32469,55,Female,Paraguay,Positive,2912,35.44
+8/24/2023,Instagram,Post_97,Carousel,441,69,308,49857,134813,56,Other,Saudi Arabia,Positive,1251,44.2
+3/15/2023,Instagram,Post_15,Text,869,252,357,66565,68072,59,Male,Hungary,Positive,3404,17.45
+11/14/2023,Twitter,Post_24,Text,318,142,317,60274,12042,31,Other,New Caledonia,Positive,2040,37.4
+4/19/2023,Instagram,Post_10,Video,685,135,292,94334,37657,42,Male,Grenada,Negative,1012,72.53
+1/13/2023,Twitter,Post_31,Carousel,77,174,270,4639,40352,62,Female,Slovakia (Slovak Republic),Neutral,784,120.41
+10/26/2023,Twitter,Post_2,Carousel,356,33,66,35054,8857,37,Female,Bulgaria,Positive,1081,32.65
+11/12/2023,Instagram,Post_61,Video,602,55,227,51930,154897,27,Female,Lao People's Democratic Republic,Positive,3107,42.42
+4/13/2023,Twitter,Post_3,Image,903,150,126,87449,24786,38,Other,Estonia,Positive,4896,25.12
+12/29/2023,Twitter,Post_44,Image,177,80,128,67389,30946,57,Male,Mauritius,Positive,2226,55.44
+3/12/2023,Instagram,Post_92,Image,13,11,10,80690,106428,59,Female,Saint Helena,Positive,786,12.09
+3/30/2023,Instagram,Post_53,Text,98,70,111,88304,91702,37,Female,Barbados,Negative,4778,12.7
+5/10/2023,Facebook,Post_30,Video,259,130,468,49806,55245,44,Male,Haiti,Negative,3988,12.14
+5/24/2023,Twitter,Post_3,Video,620,161,301,68395,49892,54,Female,Tonga,Positive,578,202.77
+3/4/2023,Facebook,Post_6,Video,364,88,492,52801,65155,65,Other,Mauritania,Positive,980,48.98
+2/9/2023,Twitter,Post_67,Image,219,87,441,73064,11341,42,Other,Mali,Positive,4951,22.18
+6/24/2023,Twitter,Post_92,Video,397,172,489,86834,13883,19,Other,Jersey,Positive,1828,58.92
+7/6/2023,Twitter,Post_61,Video,465,53,404,30245,13893,26,Other,Gibraltar,Positive,2601,12.69
+9/26/2023,Twitter,Post_80,Image,304,138,456,2594,28374,28,Other,Solomon Islands,Neutral,1064,101.32
+7/14/2023,Facebook,Post_53,Image,0,73,136,27526,95062,63,Male,Switzerland,Neutral,2049,16.35
+8/20/2023,Twitter,Post_39,Video,626,87,10,9359,43331,43,Male,Venezuela,Neutral,2905,30.26
+1/25/2023,Instagram,Post_87,Image,827,160,379,3492,90728,64,Male,Belize,Neutral,2806,17.21
+9/21/2023,Instagram,Post_11,Text,222,119,188,66171,51315,20,Other,Wallis and Futuna,Negative,1586,69.36
+2/23/2023,Twitter,Post_2,Carousel,23,201,90,32747,20485,42,Other,French Southern Territories,Neutral,3722,22.41
+6/21/2023,Instagram,Post_32,Carousel,261,135,202,84861,150491,24,Male,Aruba,Neutral,876,133.56
+7/28/2023,Facebook,Post_41,Video,567,199,268,1387,66124,39,Male,Sri Lanka,Neutral,2734,47.73
+7/7/2023,Facebook,Post_54,Carousel,55,49,236,1222,10700,25,Male,Ukraine,Positive,2919,29.6
+10/15/2023,Facebook,Post_61,Image,348,145,75,20727,72068,34,Male,Bhutan,Positive,3905,29.37
+10/24/2023,Twitter,Post_72,Video,481,225,244,52857,10564,64,Other,British Virgin Islands,Positive,595,112.94
+8/17/2023,Instagram,Post_73,Carousel,874,80,244,87150,154157,26,Male,Ukraine,Positive,4528,12.9
+8/2/2023,Facebook,Post_96,Carousel,540,8,249,19704,45158,35,Female,Holy See (Vatican City State),Positive,3934,23.03
+8/28/2023,Instagram,Post_56,Text,294,289,442,39937,119901,22,Other,Russian Federation,Positive,2319,47.52
+7/22/2023,Facebook,Post_73,Carousel,540,191,275,48937,11301,55,Female,Dominican Republic,Positive,3752,12.98
+10/19/2023,Facebook,Post_84,Text,260,156,330,94801,47908,23,Other,Denmark,Neutral,2047,24.28
+3/2/2023,Facebook,Post_57,Text,165,134,292,31082,89924,39,Male,Bolivia,Neutral,3433,5.39
+8/30/2023,Instagram,Post_50,Carousel,482,167,395,67779,196174,52,Other,Myanmar,Negative,2469,28.92
+2/18/2023,Instagram,Post_47,Video,306,104,133,98429,64029,44,Male,Comoros,Neutral,3850,14.49
+8/2/2023,Facebook,Post_47,Text,478,138,31,85186,33824,51,Other,Cyprus,Positive,3820,16.54
+2/26/2023,Twitter,Post_20,Image,286,294,93,29898,42448,60,Other,Grenada,Positive,4521,5.91
+2/24/2023,Facebook,Post_19,Text,314,157,300,59758,44349,61,Male,United States Minor Outlying Islands,Positive,738,102.71
+1/5/2023,Facebook,Post_38,Text,728,174,287,83825,41085,20,Female,British Indian Ocean Territory (Chagos Archipelago),Positive,3584,26.31
+3/11/2023,Twitter,Post_89,Video,859,118,135,25757,37473,50,Other,Cameroon,Neutral,2516,18.16
+8/7/2023,Twitter,Post_100,Text,839,140,232,67514,19977,25,Male,Belize,Neutral,4313,26.15
+7/17/2023,Instagram,Post_37,Carousel,259,201,101,43103,120164,28,Female,Bangladesh,Neutral,3293,25.57
+7/3/2023,Instagram,Post_14,Image,798,110,310,57053,51683,22,Female,Guernsey,Neutral,3751,23.25
+9/3/2023,Instagram,Post_50,Carousel,588,141,289,77000,60788,56,Female,Romania,Negative,1808,24.78
+9/18/2023,Facebook,Post_63,Carousel,814,156,331,11676,63621,42,Female,Andorra,Neutral,526,145.63
+3/26/2023,Twitter,Post_91,Carousel,269,226,444,3963,38243,51,Male,Ukraine,Neutral,2551,38.34
+10/4/2023,Instagram,Post_76,Video,853,187,441,19605,158434,60,Female,Trinidad and Tobago,Neutral,3180,19.94
+11/16/2023,Facebook,Post_66,Text,685,241,347,23467,77829,55,Female,Nauru,Neutral,3069,21.83
+12/18/2023,Instagram,Post_22,Text,220,223,220,38359,39147,65,Female,Reunion,Neutral,3137,23.72
+3/18/2023,Instagram,Post_71,Video,942,258,418,48730,117264,50,Other,United States Minor Outlying Islands,Neutral,4643,16.13
+9/7/2023,Twitter,Post_44,Video,938,156,139,92987,5854,46,Female,Korea,Positive,2651,25.91
+10/13/2023,Facebook,Post_6,Text,255,283,104,35346,91618,55,Other,Haiti,Neutral,4789,15.74
+5/28/2023,Twitter,Post_55,Video,733,136,214,93072,27690,35,Male,Botswana,Neutral,3421,23.06
+4/6/2023,Instagram,Post_17,Carousel,724,17,373,33321,38714,47,Other,Saint Martin,Neutral,1632,68.14
+8/9/2023,Facebook,Post_23,Carousel,472,44,106,9827,24238,60,Female,Micronesia,Positive,2594,45.68
+7/23/2023,Twitter,Post_99,Carousel,856,5,457,17585,21424,62,Female,Northern Mariana Islands,Positive,3685,31.34
+11/2/2023,Twitter,Post_78,Image,730,222,0,35276,43184,29,Female,Italy,Positive,1783,16.55
+5/28/2023,Instagram,Post_66,Image,858,23,464,78036,46797,18,Male,Cambodia,Positive,1378,89.84
+3/9/2023,Twitter,Post_21,Carousel,635,97,480,21691,22021,48,Female,Brazil,Positive,1971,46.47
+5/8/2023,Facebook,Post_100,Image,182,51,246,94733,75182,30,Other,Andorra,Positive,1591,82.28
+3/15/2023,Instagram,Post_61,Carousel,410,109,278,24950,23730,65,Female,Ecuador,Positive,4279,35.94
+8/28/2023,Twitter,Post_2,Video,420,102,449,2145,43266,41,Male,Christmas Island,Neutral,3738,36.17
+8/23/2023,Instagram,Post_58,Text,903,264,125,45851,21993,31,Male,Russian Federation,Neutral,3134,32.2
+3/21/2023,Instagram,Post_24,Carousel,386,215,250,5782,154328,52,Male,Peru,Neutral,1643,45.22
+3/13/2023,Facebook,Post_68,Text,40,283,179,70780,47908,58,Other,Pitcairn Islands,Neutral,3690,29.51
+6/22/2023,Twitter,Post_58,Video,549,281,458,54888,42837,47,Male,Cuba,Neutral,4828,8
+7/24/2023,Twitter,Post_14,Text,926,39,119,95766,13238,28,Male,Comoros,Neutral,1684,71.02
+10/17/2023,Instagram,Post_78,Carousel,194,194,468,33542,129612,30,Female,Saint Vincent and the Grenadines,Positive,4074,9.52
+11/2/2023,Instagram,Post_71,Video,506,0,331,52591,122024,36,Other,Montserrat,Neutral,2389,22.06
+9/13/2023,Twitter,Post_2,Image,902,31,58,72406,29120,43,Male,Yemen,Neutral,1889,60.46
+4/17/2023,Facebook,Post_60,Video,579,101,49,87429,55897,29,Male,Monaco,Neutral,2904,33.92
+6/19/2023,Facebook,Post_95,Image,589,177,57,13939,65868,53,Other,Bhutan,Neutral,805,149.32
+8/9/2023,Facebook,Post_3,Image,660,84,6,50594,99978,26,Female,Lithuania,Negative,1664,30.29
+3/23/2023,Twitter,Post_79,Video,157,213,132,13039,26338,34,Male,Dominica,Negative,3120,21.73
+10/31/2023,Instagram,Post_79,Video,190,102,146,49592,61854,44,Female,Martinique,Neutral,1024,106.45
+12/23/2023,Instagram,Post_24,Carousel,607,17,155,33854,53233,36,Female,Libyan Arab Jamahiriya,Neutral,1837,64.13
+10/12/2023,Facebook,Post_93,Image,851,110,284,17526,55977,46,Female,Bolivia,Positive,1782,24.69
+2/9/2023,Instagram,Post_96,Carousel,969,154,393,11355,96995,46,Male,Anguilla,Neutral,3742,26.86
+1/26/2023,Facebook,Post_34,Carousel,712,214,442,50457,55267,41,Male,Martinique,Neutral,3464,27.77
+12/30/2023,Facebook,Post_34,Video,162,236,299,16874,42206,18,Other,Greenland,Neutral,1758,15.24
+7/31/2023,Facebook,Post_44,Image,917,179,273,64557,76415,55,Female,New Caledonia,Neutral,1343,90.32
+6/25/2023,Facebook,Post_59,Video,884,125,408,94542,12495,26,Female,Seychelles,Neutral,3451,27.41
+6/18/2023,Facebook,Post_47,Text,885,216,46,7668,15525,64,Female,Finland,Negative,3012,39.08
+2/21/2023,Facebook,Post_97,Text,571,133,390,91354,26625,26,Other,Egypt,Negative,1046,61.28
+9/18/2023,Instagram,Post_57,Image,281,139,190,65048,41862,62,Female,Norfolk Island,Negative,4160,24.69
+4/14/2023,Twitter,Post_53,Carousel,864,157,434,73445,44383,57,Other,New Caledonia,Negative,715,131.05
+6/22/2023,Facebook,Post_69,Video,905,43,27,41048,73464,24,Female,Saint Barthelemy,Positive,990,104.34
+7/13/2023,Instagram,Post_12,Carousel,887,46,296,80150,88549,20,Male,Greece,Positive,3198,20.86
+8/21/2023,Twitter,Post_20,Carousel,379,123,283,96474,9802,61,Male,Chad,Positive,3774,8.93
+5/3/2023,Twitter,Post_25,Video,241,16,478,11774,31820,33,Female,Montserrat,Negative,2671,36.09
+3/24/2023,Twitter,Post_39,Video,137,281,216,51964,6731,51,Male,Swaziland,Negative,526,147.72
+5/4/2023,Instagram,Post_12,Carousel,370,158,260,65903,137171,37,Male,Guatemala,Negative,1124,126.69
+3/7/2023,Instagram,Post_89,Carousel,92,90,227,75123,124792,57,Female,Oman,Neutral,4475,16.54
+10/27/2023,Twitter,Post_78,Carousel,53,276,461,20186,27303,32,Male,Kazakhstan,Negative,1303,86.11
+6/24/2023,Instagram,Post_43,Text,470,238,131,50630,108559,25,Other,Ukraine,Negative,2177,18.24
+10/19/2023,Facebook,Post_79,Video,82,260,468,69337,59315,31,Other,Equatorial Guinea,Negative,4628,14.67
+11/30/2023,Instagram,Post_5,Carousel,637,229,202,34998,120923,41,Male,Pitcairn Islands,Positive,2466,44.61
+12/7/2023,Facebook,Post_96,Image,266,77,416,28814,98367,58,Female,Hungary,Positive,3616,28.51
+1/16/2023,Instagram,Post_39,Text,669,160,303,90013,176819,36,Female,Mauritania,Positive,3191,33.91
+12/17/2023,Instagram,Post_70,Text,700,252,393,51346,191088,64,Female,Belgium,Neutral,3219,20.97
+3/5/2023,Facebook,Post_20,Text,547,24,59,87769,83885,24,Female,Palestinian Territory,Neutral,1543,51.91
+7/23/2023,Instagram,Post_38,Image,203,27,34,63923,43452,33,Male,American Samoa,Neutral,1990,69.6
+9/3/2023,Twitter,Post_34,Video,553,108,484,80062,15730,40,Other,Brunei Darussalam,Neutral,4692,25.51
+11/24/2023,Facebook,Post_21,Image,31,35,52,55859,61596,41,Female,Bhutan,Neutral,4358,6.88
+12/13/2023,Facebook,Post_69,Text,637,60,19,78709,49771,35,Male,United States Virgin Islands,Neutral,1186,102.53
+8/3/2023,Instagram,Post_97,Image,531,140,85,81159,116018,51,Other,Kazakhstan,Neutral,3535,27.33
+4/25/2023,Twitter,Post_51,Image,895,3,32,68593,47416,61,Other,Cayman Islands,Neutral,1692,16.9
+12/15/2023,Facebook,Post_37,Video,257,211,474,11420,15525,35,Other,Uruguay,Negative,4982,26.11
+6/4/2023,Instagram,Post_28,Carousel,286,280,238,61178,176272,49,Female,Maldives,Negative,4104,15.45
+2/13/2023,Twitter,Post_32,Image,693,190,44,71036,17730,33,Male,Cameroon,Negative,2507,44.83
+8/29/2023,Facebook,Post_34,Carousel,578,161,330,38798,34967,19,Female,Germany,Positive,2972,43.1
+8/18/2023,Twitter,Post_13,Video,269,113,209,17084,39578,52,Other,New Zealand,Positive,4844,10.09
+8/18/2023,Instagram,Post_54,Carousel,688,285,217,96766,76874,46,Male,Mali,Positive,1033,70.76
+12/6/2023,Twitter,Post_42,Video,114,113,125,9428,5101,60,Female,Cape Verde,Positive,3576,22.09
+12/28/2023,Instagram,Post_79,Video,150,184,141,78305,151804,42,Other,Western Sahara,Positive,2493,50.54
+7/7/2023,Instagram,Post_54,Carousel,591,16,13,94080,121577,38,Male,Netherlands Antilles,Positive,4489,6.64
+11/25/2023,Instagram,Post_86,Image,498,248,240,11210,178570,60,Other,New Caledonia,Positive,2025,25.48
+8/25/2023,Instagram,Post_62,Image,303,257,362,28799,171529,26,Other,Liechtenstein,Positive,3633,29.34
+10/28/2023,Instagram,Post_63,Video,680,239,53,47468,153197,37,Female,Yemen,Positive,3907,12.54
+6/30/2023,Twitter,Post_51,Text,184,186,190,72500,12742,45,Male,Bangladesh,Negative,3976,32.37
+10/8/2023,Facebook,Post_59,Video,142,9,42,49015,33872,28,Male,Cuba,Negative,3686,35.32
+4/11/2023,Twitter,Post_57,Image,913,157,327,27896,36632,41,Male,Bermuda,Negative,3275,12.15
+9/19/2023,Twitter,Post_32,Text,885,155,23,14716,19607,62,Other,Latvia,Neutral,2297,21.07
+5/23/2023,Twitter,Post_64,Image,919,233,460,67795,39484,30,Male,Vietnam,Neutral,2698,42.44
+1/15/2023,Instagram,Post_78,Image,662,135,262,16655,108007,53,Female,British Virgin Islands,Negative,3244,32.43
+4/5/2023,Instagram,Post_68,Video,241,250,78,82635,88665,37,Female,Vanuatu,Negative,1718,54.02
+5/1/2023,Facebook,Post_80,Image,31,236,493,96690,98375,47,Other,Croatia,Negative,1005,49.55
+1/27/2023,Facebook,Post_6,Text,891,184,65,36656,86664,62,Male,Bolivia,Negative,2402,10.7
+1/24/2023,Instagram,Post_2,Text,540,52,189,41446,30230,41,Female,Ukraine,Negative,767,175.23
+1/18/2023,Twitter,Post_13,Image,802,193,9,74366,10755,61,Female,Belize,Neutral,1202,111.4
+4/18/2023,Instagram,Post_95,Carousel,620,66,83,5624,166134,65,Other,Rwanda,Neutral,4117,26.09
+9/4/2023,Instagram,Post_9,Video,279,120,444,10002,119845,53,Male,Saint Helena,Negative,3771,17.32
+10/30/2023,Twitter,Post_25,Carousel,37,23,486,55924,19495,59,Male,Bahamas,Neutral,1872,26.82
+2/19/2023,Twitter,Post_86,Text,32,264,109,62499,15367,30,Male,Latvia,Neutral,3562,15.38
+2/5/2023,Twitter,Post_80,Text,883,70,166,93597,19505,35,Female,Reunion,Neutral,3862,38.04
+1/22/2023,Instagram,Post_38,Video,941,284,251,37277,155456,50,Female,Nicaragua,Neutral,830,123.01
+8/26/2023,Twitter,Post_87,Carousel,932,254,3,33943,33605,39,Female,Netherlands,Neutral,2889,45.17
+9/10/2023,Twitter,Post_31,Text,378,105,474,44045,29363,22,Female,Saint Vincent and the Grenadines,Neutral,783,92.85
+6/19/2023,Facebook,Post_69,Video,827,36,1,30745,92150,30,Female,Georgia,Neutral,4815,5.48
+7/14/2023,Twitter,Post_25,Text,352,210,354,57280,15325,41,Male,Maldives,Neutral,4767,29.7
+7/8/2023,Twitter,Post_36,Carousel,464,86,327,16114,48691,58,Male,South Africa,Neutral,2159,18.67
+12/6/2023,Facebook,Post_7,Image,14,156,63,28628,63945,40,Male,Haiti,Negative,2439,42.6
+11/8/2023,Twitter,Post_93,Video,211,21,295,72732,13398,53,Male,France,Neutral,4850,14.93
+10/27/2023,Instagram,Post_67,Image,539,96,471,44725,138664,21,Other,Sri Lanka,Negative,3482,18.52
+11/18/2023,Instagram,Post_61,Carousel,409,221,42,90378,76656,53,Other,Maldives,Neutral,3226,43.37
+6/10/2023,Facebook,Post_21,Image,233,266,258,12332,25691,62,Other,Afghanistan,Neutral,1209,105.71
+4/4/2023,Twitter,Post_99,Image,610,223,33,76664,39857,42,Other,Qatar,Negative,2729,18.18
+7/7/2023,Instagram,Post_26,Image,137,51,332,55432,49958,46,Other,Iran,Negative,2670,26.63
+5/7/2023,Twitter,Post_12,Image,630,276,437,77127,30715,30,Other,Kenya,Negative,4978,21.05
+7/29/2023,Instagram,Post_28,Carousel,351,61,145,91482,50857,24,Female,Djibouti,Negative,4893,3.07
+8/2/2023,Instagram,Post_46,Image,21,152,466,82574,178454,42,Male,Zambia,Negative,4413,28.67
+1/15/2023,Twitter,Post_99,Carousel,716,274,311,96723,35142,21,Female,Serbia,Negative,3952,24.19
+12/10/2023,Twitter,Post_73,Image,767,150,174,93219,7455,21,Female,Gabon,Negative,3715,19.35
+7/14/2023,Instagram,Post_13,Video,327,181,108,84432,180911,29,Male,Afghanistan,Negative,2863,32.31
+9/29/2023,Facebook,Post_14,Carousel,270,190,459,99396,87376,41,Male,Lithuania,Negative,915,111.69
+6/7/2023,Facebook,Post_72,Video,763,200,146,20576,91419,45,Male,Estonia,Negative,1401,72.88
+3/2/2023,Facebook,Post_73,Carousel,416,19,411,87157,94595,41,Female,Mauritius,Positive,2301,32.33
+12/11/2023,Twitter,Post_9,Text,879,62,78,50164,19166,54,Female,Falkland Islands (Malvinas),Positive,3796,29.14
+2/26/2023,Twitter,Post_33,Carousel,501,258,154,71131,25068,32,Other,Western Sahara,Positive,2202,26.98
+10/21/2023,Facebook,Post_61,Video,468,115,117,31589,96441,26,Other,Macao,Positive,4653,12.79
+5/27/2023,Facebook,Post_15,Carousel,93,79,0,81242,92042,40,Female,Bouvet Island (Bouvetoya),Neutral,2268,29.54
+12/28/2023,Facebook,Post_46,Image,198,31,361,2866,85134,63,Female,Afghanistan,Neutral,4695,25.07
+9/13/2023,Facebook,Post_77,Image,768,285,480,23737,94081,49,Male,Zambia,Positive,1836,37.04
+12/15/2023,Facebook,Post_65,Text,449,274,116,85457,26969,24,Female,Costa Rica,Neutral,1568,65.56
+7/27/2023,Facebook,Post_81,Carousel,236,113,41,19701,85419,40,Other,Costa Rica,Neutral,2985,15.04
+12/20/2023,Facebook,Post_84,Carousel,810,108,146,14668,75645,47,Female,Mayotte,Neutral,3682,39.82
+1/13/2023,Twitter,Post_7,Text,438,144,411,71393,24072,34,Male,Grenada,Neutral,2360,41.57
+1/30/2023,Instagram,Post_88,Text,300,121,494,56504,152275,34,Male,Lithuania,Positive,3262,35.41
+6/8/2023,Instagram,Post_79,Text,994,115,85,83913,24347,49,Male,British Indian Ocean Territory (Chagos Archipelago),Positive,4529,16.1
+4/7/2023,Instagram,Post_8,Video,789,32,9,53951,20750,19,Male,Kazakhstan,Positive,3390,19.56
+4/27/2023,Facebook,Post_48,Text,702,15,192,66440,32131,36,Male,Sweden,Negative,4277,9.1
+5/26/2023,Twitter,Post_65,Video,697,219,447,33728,39916,49,Other,Guadeloupe,Positive,4454,32.4
+12/5/2023,Twitter,Post_75,Text,914,188,107,62234,27263,65,Female,Denmark,Positive,2994,16.33
+9/21/2023,Instagram,Post_7,Video,231,207,379,72075,194021,35,Male,Georgia,Positive,2598,22.4
+12/9/2023,Twitter,Post_76,Text,428,175,229,8247,33201,22,Other,Saint Vincent and the Grenadines,Neutral,2287,15.35
+7/12/2023,Facebook,Post_10,Image,810,229,34,67872,81062,48,Female,Palestinian Territory,Neutral,1149,57.01
+2/5/2023,Facebook,Post_29,Video,459,61,390,95166,29405,44,Male,Isle of Man,Neutral,3613,33.74
+3/9/2023,Instagram,Post_21,Image,853,212,421,25194,154235,18,Male,Cuba,Neutral,2946,23.79
+11/12/2023,Twitter,Post_68,Image,874,273,275,80531,9730,44,Female,Greenland,Neutral,1100,132.73
+9/9/2023,Twitter,Post_54,Text,426,300,106,12209,12888,63,Female,Lao People's Democratic Republic,Neutral,1218,29.72
+12/17/2023,Twitter,Post_65,Text,21,59,247,88956,8674,30,Female,Malaysia,Neutral,4639,16.04
+6/18/2023,Facebook,Post_83,Carousel,925,29,74,55098,10129,58,Female,Armenia,Negative,4301,23.2
+5/16/2023,Instagram,Post_100,Video,740,31,62,36139,39152,55,Female,Turks and Caicos Islands,Negative,4290,16.81
+3/24/2023,Instagram,Post_70,Carousel,532,176,33,22673,194527,43,Other,Rwanda,Negative,2168,53.27
+6/26/2023,Facebook,Post_89,Carousel,595,284,207,4031,43735,65,Female,Bermuda,Negative,1302,91.86
+12/2/2023,Instagram,Post_96,Video,397,275,291,55125,185737,35,Other,Iraq,Negative,928,120.91
+9/13/2023,Facebook,Post_85,Carousel,711,150,403,87932,63235,32,Other,Portugal,Negative,1517,37.11
+1/19/2023,Facebook,Post_19,Text,924,100,172,36917,42886,45,Male,Bosnia and Herzegovina,Negative,2060,41.55
+10/1/2023,Instagram,Post_10,Carousel,275,208,80,84101,153021,62,Female,Bangladesh,Negative,1915,50.39
+3/8/2023,Facebook,Post_96,Image,227,34,343,33965,36579,18,Male,United Arab Emirates,Negative,2708,28.36
+8/4/2023,Facebook,Post_59,Text,946,71,97,69542,36600,47,Other,Mozambique,Negative,4007,31
+6/19/2023,Facebook,Post_14,Text,669,216,326,23524,27032,31,Female,Lebanon,Negative,3481,34.16
+7/28/2023,Twitter,Post_45,Carousel,429,283,92,33169,21298,19,Female,Botswana,Neutral,4342,14.99
+1/26/2023,Instagram,Post_81,Video,550,253,378,32823,30614,20,Other,Lesotho,Neutral,1497,85.37
+10/31/2023,Twitter,Post_98,Video,864,283,340,14023,38243,43,Other,China,Positive,2746,49.85
+11/21/2023,Facebook,Post_25,Carousel,20,7,247,22350,34521,40,Other,Jamaica,Positive,2407,11.38
+3/4/2023,Facebook,Post_74,Video,895,216,449,93412,30734,60,Male,Iceland,Positive,4981,5.06
+5/20/2023,Instagram,Post_37,Video,688,47,484,87818,177511,39,Other,Sao Tome and Principe,Negative,3096,31.56
+8/13/2023,Instagram,Post_5,Image,923,25,68,6263,44298,48,Male,Liberia,Negative,4423,17.95
+5/18/2023,Instagram,Post_29,Video,604,27,107,33867,115917,64,Female,Uganda,Negative,2519,24.93
+6/8/2023,Facebook,Post_100,Video,371,64,439,50962,86661,48,Male,Northern Mariana Islands,Negative,1292,54.64
+10/23/2023,Instagram,Post_83,Carousel,908,248,476,69472,155027,61,Female,United Arab Emirates,Negative,4890,16.03
+8/18/2023,Facebook,Post_86,Image,193,85,103,83876,83147,46,Other,Martinique,Positive,4727,23.76
+6/13/2023,Instagram,Post_100,Image,110,84,341,86756,33135,25,Other,Nauru,Positive,4210,28.48
+7/13/2023,Instagram,Post_67,Image,307,92,85,66558,94009,34,Female,Tonga,Positive,4547,14.01
+11/26/2023,Facebook,Post_82,Carousel,772,255,71,95860,58887,28,Male,Seychelles,Positive,3867,15
+8/5/2023,Facebook,Post_85,Carousel,836,273,454,33976,65485,65,Other,Panama,Positive,1122,87.08
+3/6/2023,Twitter,Post_92,Text,829,13,387,19839,35876,26,Female,Croatia,Positive,2509,22.16
+8/31/2023,Instagram,Post_56,Text,98,59,54,48457,121577,25,Other,Sao Tome and Principe,Positive,3956,12.56
+12/17/2023,Twitter,Post_74,Text,96,3,449,35850,29769,47,Other,Svalbard & Jan Mayen Islands,Positive,2630,35.44
+2/6/2023,Twitter,Post_25,Video,831,178,495,86371,31553,46,Other,Burundi,Negative,4782,9.62
+8/13/2023,Instagram,Post_13,Text,634,89,105,62836,86322,24,Male,Mauritania,Negative,1614,85.44
+12/24/2023,Facebook,Post_80,Video,472,209,31,78105,69698,38,Female,Greenland,Negative,2324,54
+2/23/2023,Facebook,Post_21,Text,827,163,274,80113,79338,22,Male,Serbia,Negative,889,103.82
+1/22/2023,Facebook,Post_81,Image,987,178,289,1397,15497,35,Male,Liberia,Negative,1750,17.71
+4/14/2023,Instagram,Post_24,Carousel,530,104,111,7386,103299,62,Other,Germany,Negative,2520,42.3
+6/29/2023,Facebook,Post_17,Text,779,177,71,26949,55416,57,Male,Iceland,Negative,4972,16.49
+10/7/2023,Twitter,Post_32,Video,777,103,376,68677,7095,39,Female,Saint Helena,Negative,3176,6.52
+4/26/2023,Twitter,Post_20,Text,239,245,48,94501,49691,59,Other,Qatar,Negative,3144,33.68
+1/27/2023,Instagram,Post_76,Carousel,852,211,201,37982,83396,49,Female,Mayotte,Negative,922,99.67
+4/25/2023,Instagram,Post_60,Image,886,23,254,33777,97660,52,Male,Palestinian Territory,Positive,2479,22.15
+10/28/2023,Twitter,Post_44,Video,691,251,422,49387,39770,64,Other,Uganda,Negative,2560,45.98
+2/7/2023,Twitter,Post_60,Text,804,279,123,70217,34833,47,Other,Andorra,Negative,1560,101.35
+9/28/2023,Instagram,Post_69,Image,810,18,306,45363,22883,56,Male,Myanmar,Neutral,4139,38.1
+3/9/2023,Facebook,Post_79,Image,693,104,120,62121,82719,60,Male,Luxembourg,Neutral,2009,31.81
+2/27/2023,Twitter,Post_4,Image,957,241,317,43770,26296,18,Other,Bhutan,Positive,2925,17.23
+4/16/2023,Twitter,Post_31,Video,50,104,105,24125,19470,50,Male,French Guiana,Positive,3466,30.53
+8/9/2023,Facebook,Post_96,Text,184,176,76,89692,16000,26,Male,Faroe Islands,Positive,3829,30.87
+8/23/2023,Twitter,Post_34,Carousel,969,127,331,83641,17730,57,Female,Benin,Positive,2839,27.62
+3/2/2023,Instagram,Post_97,Carousel,132,160,4,42656,85829,42,Other,Zimbabwe,Neutral,4501,11.86
+3/27/2023,Facebook,Post_64,Image,759,192,259,89421,14078,53,Female,Tunisia,Neutral,2042,30.71
+6/29/2023,Facebook,Post_58,Carousel,653,105,25,57417,26155,64,Male,United Arab Emirates,Neutral,1717,87.59
+2/22/2023,Twitter,Post_49,Image,423,73,62,50789,39099,48,Male,Guernsey,Neutral,2646,17.16
+9/9/2023,Twitter,Post_24,Text,865,186,83,77192,12570,62,Other,Norfolk Island,Negative,2443,56.98
+12/18/2023,Twitter,Post_39,Text,11,211,71,94187,14063,32,Female,North Macedonia,Negative,3805,22.16
+8/21/2023,Instagram,Post_92,Image,557,51,443,91412,107948,27,Other,Egypt,Negative,4941,27.81
+6/23/2023,Facebook,Post_25,Image,644,201,452,1361,99536,62,Other,American Samoa,Negative,3160,44.84
+4/27/2023,Facebook,Post_2,Image,978,185,477,49610,20504,55,Other,Chad,Positive,4611,8.54
+2/21/2023,Twitter,Post_43,Video,489,168,351,61086,29233,21,Male,Ukraine,Positive,3790,14.46
+6/21/2023,Twitter,Post_15,Text,344,284,318,20561,22897,46,Other,Lesotho,Neutral,3236,16.97
+3/5/2023,Facebook,Post_71,Text,153,156,308,72351,93468,29,Other,South Georgia and the South Sandwich Islands,Negative,1236,59.22
+8/30/2023,Facebook,Post_47,Carousel,438,253,308,6289,47625,25,Female,Belgium,Positive,4194,27.3
+6/23/2023,Facebook,Post_52,Image,142,129,236,61458,21214,40,Other,Indonesia,Neutral,4409,11.82
+5/19/2023,Twitter,Post_99,Video,50,83,285,81321,44549,30,Other,El Salvador,Neutral,2813,22.5
+10/29/2023,Instagram,Post_38,Text,273,186,11,69431,126033,24,Male,Cyprus,Neutral,1537,84.97
+2/28/2023,Instagram,Post_57,Text,919,144,284,39772,85449,28,Other,Tonga,Positive,2446,52.09
+7/31/2023,Instagram,Post_77,Text,800,257,90,22804,110304,47,Male,Iran,Neutral,4482,4.42
+8/24/2023,Instagram,Post_34,Video,306,260,211,75551,40292,61,Male,Trinidad and Tobago,Neutral,4003,15.19
+12/19/2023,Instagram,Post_27,Video,259,298,130,35768,101293,65,Other,Norfolk Island,Negative,1734,13.03
+10/8/2023,Instagram,Post_89,Text,791,104,434,96193,88424,54,Female,Philippines,Neutral,4514,20.62
+10/12/2023,Instagram,Post_10,Video,143,163,410,21336,37880,42,Other,Saint Martin,Neutral,4232,26.72
+6/10/2023,Facebook,Post_30,Text,350,120,139,94066,58654,33,Female,Micronesia,Neutral,635,139.37
+8/28/2023,Facebook,Post_100,Text,829,238,225,62367,51861,36,Other,Taiwan,Neutral,2303,52.15
+5/8/2023,Twitter,Post_23,Text,867,286,229,9871,34833,22,Female,Palau,Neutral,2973,23.95
+12/1/2023,Twitter,Post_30,Carousel,4,295,177,16567,6787,60,Male,San Marino,Negative,2035,31.99
+2/28/2023,Instagram,Post_73,Video,834,13,156,65751,133844,19,Male,Grenada,Negative,856,107.48
+10/25/2023,Instagram,Post_40,Carousel,37,116,409,30840,142948,29,Male,Denmark,Negative,556,211.15
+7/2/2023,Facebook,Post_51,Image,560,115,159,47719,21171,45,Other,Western Sahara,Negative,3273,15.73
+7/1/2023,Twitter,Post_96,Text,844,93,375,60871,39822,42,Female,Andorra,Negative,4669,29.62
+9/1/2023,Facebook,Post_40,Text,864,275,283,92693,38617,29,Female,Costa Rica,Neutral,1210,41.4
+11/3/2023,Instagram,Post_90,Video,393,211,284,74710,64894,44,Other,Kenya,Neutral,4935,19.9
+8/10/2023,Instagram,Post_57,Image,922,217,48,9723,71325,46,Male,China,Neutral,1523,48.92
+5/25/2023,Facebook,Post_78,Image,128,269,163,85759,26220,35,Female,Algeria,Neutral,2093,45.15
+10/5/2023,Twitter,Post_39,Video,587,148,140,24816,20485,21,Female,Gabon,Negative,2695,19.52
+6/28/2023,Twitter,Post_78,Text,589,57,87,24387,31120,26,Other,Sweden,Negative,3619,36.2
+11/11/2023,Facebook,Post_93,Text,510,183,382,49035,55158,50,Male,Guatemala,Negative,1831,30.31
+8/11/2023,Facebook,Post_44,Text,377,214,221,74199,83016,45,Male,Norway,Negative,4759,27.97
+9/19/2023,Instagram,Post_78,Text,885,140,366,4907,74516,56,Other,Guinea-Bissau,Negative,2283,19.1
+8/31/2023,Twitter,Post_61,Image,381,59,391,14261,43767,18,Female,American Samoa,Negative,1611,11.61
+4/22/2023,Facebook,Post_19,Carousel,40,186,484,51288,28639,43,Female,British Indian Ocean Territory (Chagos Archipelago),Negative,2148,58.47
+5/11/2023,Facebook,Post_97,Video,175,200,65,82612,78291,43,Female,Macao,Negative,2708,27.51
+12/27/2023,Instagram,Post_98,Video,26,163,349,39302,137362,31,Female,Lao People's Democratic Republic,Negative,3749,25.93
+11/9/2023,Instagram,Post_46,Carousel,337,221,115,20469,99257,47,Female,Norfolk Island,Negative,1306,61.33
+12/29/2023,Instagram,Post_77,Video,934,70,268,99671,48879,26,Male,Nepal,Positive,1531,72.57
+11/29/2023,Instagram,Post_50,Carousel,940,74,481,59409,50450,33,Female,Kuwait,Positive,2852,25.67
+9/24/2023,Twitter,Post_3,Image,106,108,35,67407,6421,58,Male,French Guiana,Positive,3470,34.67
+2/13/2023,Facebook,Post_84,Video,969,280,130,63436,23463,49,Other,Seychelles,Positive,3300,18.27
+8/2/2023,Facebook,Post_21,Carousel,87,300,387,11579,13871,32,Other,Guinea,Neutral,2595,28.21
+9/10/2023,Twitter,Post_16,Text,355,128,222,70728,15325,45,Female,Norfolk Island,Neutral,4414,6.66
+10/1/2023,Instagram,Post_93,Image,22,83,391,54599,197550,62,Other,Slovenia,Neutral,4588,22.21
+8/21/2023,Facebook,Post_71,Video,563,165,427,32858,74347,48,Female,Falkland Islands (Malvinas),Negative,4588,29.53
+6/29/2023,Twitter,Post_72,Video,149,137,449,3955,38501,50,Male,Cambodia,Positive,4220,13.82
+2/26/2023,Twitter,Post_87,Carousel,793,84,20,40759,16744,35,Male,United States Minor Outlying Islands,Positive,1494,62.78
+1/6/2023,Twitter,Post_67,Carousel,723,19,447,74068,40999,52,Male,Palau,Positive,4486,19.86
+12/2/2023,Twitter,Post_86,Image,340,203,169,68121,48934,53,Male,Nepal,Neutral,3362,21.06
+5/22/2023,Instagram,Post_17,Image,276,281,257,58583,57548,32,Female,Venezuela,Neutral,2248,19.17
+2/16/2023,Twitter,Post_39,Text,709,180,33,86354,25645,38,Female,Belgium,Positive,771,75.62
+1/23/2023,Facebook,Post_42,Carousel,389,42,403,41603,29058,64,Other,Namibia,Positive,1509,46.26
+6/15/2023,Instagram,Post_75,Text,253,206,138,7767,66548,28,Other,French Polynesia,Positive,929,58.45
+12/10/2023,Instagram,Post_5,Carousel,298,168,289,4157,28011,56,Female,Fiji,Positive,1013,104.54
+9/10/2023,Instagram,Post_90,Carousel,456,103,191,73971,151600,61,Female,Burkina Faso,Positive,859,43.42
+8/17/2023,Twitter,Post_9,Image,414,104,228,69103,25679,43,Male,Aruba,Positive,1869,59.98
+3/8/2023,Facebook,Post_25,Video,903,31,275,57122,33783,22,Male,China,Negative,2940,14.63
+5/10/2023,Facebook,Post_89,Text,286,276,68,7736,67803,59,Other,Mexico,Negative,1518,52.04
+9/16/2023,Twitter,Post_44,Carousel,607,107,16,34514,13228,38,Other,Gabon,Negative,824,147.33
+4/24/2023,Instagram,Post_85,Video,122,198,314,15402,91468,57,Male,Cote d'Ivoire,Negative,3425,14.07
+5/15/2023,Facebook,Post_100,Image,686,150,432,21339,29389,52,Male,Nauru,Negative,1214,65.32
+2/26/2023,Twitter,Post_41,Carousel,632,31,421,17575,31277,26,Other,Vietnam,Negative,2761,54.15
+9/9/2023,Twitter,Post_24,Image,743,38,252,50048,20436,51,Female,North Macedonia,Negative,3795,23.61
+7/19/2023,Facebook,Post_50,Carousel,633,229,469,65295,69327,45,Female,Brazil,Positive,3479,26.24
+9/30/2023,Facebook,Post_9,Text,407,22,129,46940,33974,49,Other,Ecuador,Positive,3064,39.62
+2/20/2023,Twitter,Post_33,Carousel,548,55,141,39751,35325,39,Other,Austria,Neutral,3099,7.16
+8/26/2023,Facebook,Post_89,Carousel,96,103,275,45276,99951,58,Male,Latvia,Neutral,1730,68.84
+11/25/2023,Twitter,Post_39,Carousel,257,246,469,34509,12430,48,Female,Hungary,Positive,1836,25.65
+3/4/2023,Facebook,Post_73,Video,626,181,260,78774,69713,55,Female,Israel,Negative,3441,40.71
+9/21/2023,Twitter,Post_74,Image,382,267,392,26921,49118,56,Male,Croatia,Neutral,3924,23.01
+5/4/2023,Facebook,Post_28,Text,564,270,163,9528,85909,29,Other,Turks and Caicos Islands,Neutral,3184,25.16
+5/28/2023,Twitter,Post_20,Image,791,96,80,4669,5207,36,Male,Canada,Neutral,4798,23.09
+6/11/2023,Instagram,Post_46,Image,113,113,386,86763,142778,38,Female,Congo,Neutral,872,152.29
+4/26/2023,Facebook,Post_86,Carousel,438,291,362,64851,96008,53,Male,Tokelau,Neutral,3612,34.08
+4/5/2023,Facebook,Post_68,Text,991,198,410,85575,42836,60,Male,Saint Barthelemy,Positive,4911,24.09
+8/19/2023,Instagram,Post_61,Text,7,252,494,59471,187582,60,Female,Benin,Positive,4762,8.5
+1/4/2023,Twitter,Post_79,Video,638,213,327,8038,6839,38,Male,Papua New Guinea,Positive,1837,37.78
+4/3/2023,Facebook,Post_77,Video,902,99,462,80154,59041,49,Female,Saint Vincent and the Grenadines,Neutral,1222,33.63
+12/12/2023,Twitter,Post_61,Text,174,178,452,62634,34349,44,Other,Papua New Guinea,Neutral,3344,36.48
+4/14/2023,Instagram,Post_68,Video,656,173,80,88496,28181,59,Other,Guinea,Neutral,4542,24.31
+11/22/2023,Twitter,Post_3,Text,891,173,315,34347,38831,28,Other,Denmark,Neutral,2575,26.25
+5/29/2023,Facebook,Post_35,Text,777,153,373,85494,38189,65,Female,Micronesia,Positive,1222,51.8
+5/8/2023,Instagram,Post_70,Carousel,459,50,189,85797,98235,47,Female,Ghana,Positive,1802,12.49
+5/8/2023,Facebook,Post_9,Text,968,255,270,98354,40829,40,Male,Greenland,Neutral,4513,7.47
+6/8/2023,Twitter,Post_62,Video,40,282,142,5249,33198,47,Other,Lesotho,Neutral,547,235.83
+12/26/2023,Instagram,Post_79,Video,118,152,60,50737,170305,64,Male,Mozambique,Positive,1259,36.14
+10/1/2023,Instagram,Post_57,Video,267,86,58,9459,92530,53,Female,Palestinian Territory,Positive,2107,30.94
+3/1/2023,Facebook,Post_16,Image,810,167,183,8796,92249,31,Male,Guinea,Positive,548,164.05
+5/2/2023,Facebook,Post_48,Video,159,30,413,79558,32562,38,Male,Myanmar,Neutral,3736,37.53
+11/3/2023,Instagram,Post_67,Carousel,963,20,119,89259,100169,44,Male,Christmas Island,Positive,3802,24.07
+4/3/2023,Twitter,Post_20,Video,739,70,448,82601,36758,37,Other,Suriname,Neutral,2670,34.64
+10/5/2023,Facebook,Post_47,Carousel,599,18,168,9967,36746,23,Female,Oman,Neutral,1696,63.56
+8/11/2023,Instagram,Post_23,Image,117,8,313,90822,43434,51,Male,Zambia,Neutral,3857,21.16
+6/25/2023,Facebook,Post_58,Text,361,294,460,29271,94595,51,Female,Philippines,Neutral,761,164.13
+8/5/2023,Facebook,Post_94,Image,996,153,88,7568,78291,48,Male,Saint Lucia,Neutral,4212,15.15
+10/17/2023,Instagram,Post_25,Image,469,119,475,52934,37268,24,Male,Iraq,Neutral,577,286.31
+10/19/2023,Facebook,Post_49,Video,851,127,255,32489,69382,21,Other,Sao Tome and Principe,Neutral,4574,10.89
+7/8/2023,Facebook,Post_50,Text,342,237,211,33951,59079,38,Female,Peru,Neutral,3866,17.49
+10/19/2023,Twitter,Post_16,Image,455,98,360,7787,25154,26,Other,Mexico,Neutral,3248,44.37
+6/29/2023,Twitter,Post_90,Text,266,204,42,94688,33198,30,Other,North Macedonia,Neutral,1727,43.95
+12/15/2023,Twitter,Post_20,Video,594,40,7,55997,28253,41,Male,Papua New Guinea,Neutral,2663,12.62
+11/25/2023,Facebook,Post_76,Image,549,283,397,18415,11558,64,Other,Montserrat,Neutral,4930,22.21
+3/12/2023,Instagram,Post_4,Video,890,278,466,35530,85426,61,Female,Antigua and Barbuda,Neutral,1666,28.09
+11/15/2023,Twitter,Post_33,Carousel,911,77,338,32474,12948,54,Other,Saint Vincent and the Grenadines,Neutral,664,117.62
+8/21/2023,Instagram,Post_58,Video,187,14,461,94069,157922,38,Male,Cayman Islands,Positive,1460,69.93
+8/23/2023,Facebook,Post_58,Text,282,91,438,49156,12538,64,Other,Gabon,Negative,2370,30.84
+6/22/2023,Twitter,Post_95,Text,537,186,356,75147,12980,19,Male,Norway,Neutral,3145,38.79
+4/16/2023,Instagram,Post_4,Image,319,239,186,78245,133294,18,Male,Montenegro,Neutral,1045,27.94
+10/24/2023,Twitter,Post_92,Text,213,46,87,70576,6218,48,Male,Kiribati,Negative,4980,19.18
+3/12/2023,Instagram,Post_43,Carousel,430,240,456,6215,185955,47,Male,Jordan,Negative,803,144.46
+7/5/2023,Instagram,Post_36,Image,620,82,7,25662,104380,40,Other,Brunei Darussalam,Negative,1469,18.79
+7/1/2023,Instagram,Post_43,Text,124,0,327,20975,181365,47,Female,Rwanda,Neutral,2657,51.9
+9/28/2023,Instagram,Post_5,Image,852,246,324,28819,27065,26,Other,Brazil,Positive,620,23.87
+11/20/2023,Facebook,Post_23,Carousel,790,232,435,50407,99198,21,Female,British Virgin Islands,Positive,1653,71.32
+10/22/2023,Twitter,Post_43,Text,405,38,94,88352,33989,21,Other,Suriname,Positive,4792,17.24
+9/4/2023,Twitter,Post_64,Carousel,82,285,6,73972,32685,47,Other,Myanmar,Positive,3619,21.06
+9/30/2023,Twitter,Post_38,Image,818,47,487,89360,23245,48,Male,Nepal,Negative,4487,13.95
+9/3/2023,Facebook,Post_66,Carousel,663,42,449,14017,41867,41,Other,Gibraltar,Negative,3988,29.41
+8/27/2023,Facebook,Post_24,Carousel,846,163,350,55703,69322,45,Male,Bosnia and Herzegovina,Neutral,4670,14.95
+7/9/2023,Facebook,Post_59,Text,329,87,476,82809,23699,20,Female,Turkmenistan,Neutral,1212,38.94
+3/11/2023,Instagram,Post_52,Text,390,57,409,64503,154328,60,Female,Denmark,Negative,3490,11.29
+11/17/2023,Instagram,Post_63,Image,200,56,122,84924,191245,39,Female,Cook Islands,Negative,2270,30.4
+3/22/2023,Instagram,Post_80,Image,407,243,349,46677,188390,20,Female,Dominican Republic,Negative,3171,27.78
+6/27/2023,Instagram,Post_62,Video,951,295,495,92912,164362,52,Other,Malawi,Negative,3327,32.16
+10/7/2023,Twitter,Post_2,Text,653,182,1,42909,43857,19,Female,Christmas Island,Positive,2724,48.13
+7/4/2023,Facebook,Post_75,Carousel,121,233,355,2579,35892,38,Female,Oman,Negative,3644,23.96
+3/4/2023,Instagram,Post_32,Video,550,13,54,40698,174669,63,Female,Cook Islands,Negative,3930,11.96
+12/4/2023,Instagram,Post_41,Video,828,207,148,80703,29195,35,Female,Puerto Rico,Negative,3063,33.73
+8/2/2023,Facebook,Post_44,Text,62,99,331,92682,69053,64,Female,Peru,Neutral,4966,23.52
+3/21/2023,Instagram,Post_100,Video,80,62,8,48184,131168,28,Other,Saint Lucia,Neutral,1244,115.59
+11/5/2023,Facebook,Post_100,Image,287,50,80,35465,87798,34,Other,Lithuania,Neutral,1407,63.4
+9/3/2023,Facebook,Post_94,Carousel,576,167,65,96962,82232,57,Other,Somalia,Neutral,2187,26.98
+5/8/2023,Facebook,Post_69,Text,414,278,158,65155,30919,64,Other,Denmark,Neutral,645,148.37
+6/25/2023,Twitter,Post_7,Text,515,256,62,40559,29491,33,Male,Nepal,Neutral,3479,28.37
+3/2/2023,Twitter,Post_3,Text,791,50,85,81903,42211,65,Female,Samoa,Neutral,847,100.59
+7/21/2023,Instagram,Post_58,Carousel,760,49,204,68852,61276,33,Male,Philippines,Neutral,699,115.02
+6/22/2023,Instagram,Post_52,Image,992,31,127,16631,140460,64,Other,Malawi,Neutral,2795,33.2
+11/27/2023,Twitter,Post_92,Carousel,527,60,498,49855,34349,44,Female,Western Sahara,Neutral,2035,15.18
+10/5/2023,Instagram,Post_85,Video,510,273,3,79034,198171,31,Female,Iceland,Neutral,2191,23.92
+5/13/2023,Facebook,Post_4,Image,246,199,322,72839,70205,26,Female,Slovenia,Neutral,1464,70.7
+3/17/2023,Twitter,Post_53,Carousel,78,92,233,43704,32035,34,Male,New Caledonia,Positive,1038,104.72
+2/2/2023,Facebook,Post_6,Image,133,135,244,6974,23047,22,Male,Solomon Islands,Neutral,4597,23.78
+5/23/2023,Facebook,Post_28,Carousel,575,194,375,25563,23951,29,Other,British Indian Ocean Territory (Chagos Archipelago),Neutral,2663,31.51
+3/26/2023,Twitter,Post_89,Video,452,265,78,75541,48615,64,Male,Chile,Neutral,2543,37.79
+5/20/2023,Instagram,Post_24,Image,502,258,442,5250,96111,56,Female,Mayotte,Neutral,2575,30.68
+10/15/2023,Twitter,Post_39,Carousel,663,253,108,13388,33207,62,Female,Tajikistan,Neutral,4412,24.27
+8/13/2023,Facebook,Post_37,Carousel,865,224,401,94919,35153,26,Female,Cyprus,Neutral,1372,68.08
+9/6/2023,Instagram,Post_100,Text,916,124,144,19782,101412,26,Female,Venezuela,Neutral,2651,8.15
+9/5/2023,Facebook,Post_81,Text,582,269,400,88477,80202,56,Other,Eritrea,Neutral,4572,21.63
+6/15/2023,Instagram,Post_94,Video,672,176,77,93855,193744,58,Male,Saint Martin,Neutral,2824,32.58
+2/25/2023,Facebook,Post_32,Image,602,249,160,97189,12940,46,Male,Uzbekistan,Neutral,3098,40.35
+2/8/2023,Instagram,Post_20,Image,404,165,9,67041,148987,53,Other,Ukraine,Neutral,2909,33
+3/29/2023,Instagram,Post_38,Image,407,168,262,44122,75806,42,Other,Switzerland,Neutral,1561,49.84
+7/23/2023,Facebook,Post_35,Image,831,166,71,29678,12833,40,Female,Sao Tome and Principe,Neutral,4320,5.56
+12/9/2023,Twitter,Post_62,Image,452,161,218,51261,46907,56,Male,Timor-Leste,Neutral,2770,30.36
+7/17/2023,Instagram,Post_67,Image,896,72,427,65784,26792,37,Female,Zimbabwe,Neutral,3995,21.05
+8/30/2023,Instagram,Post_17,Image,134,81,451,96382,108190,23,Male,Tuvalu,Neutral,2869,44.09
+4/30/2023,Facebook,Post_10,Text,302,280,258,29515,67212,18,Female,Belize,Neutral,4368,12.04
+11/16/2023,Twitter,Post_17,Carousel,388,206,100,36916,35386,49,Female,Zimbabwe,Neutral,2577,15.6
+4/26/2023,Twitter,Post_73,Video,503,96,459,84827,24514,47,Female,Turks and Caicos Islands,Neutral,2945,37.62
+9/23/2023,Instagram,Post_44,Video,48,65,265,48853,182063,45,Female,Cambodia,Neutral,1740,78.1
+8/15/2023,Instagram,Post_62,Text,341,287,475,40821,97387,52,Other,Eritrea,Neutral,4344,31.24
+3/28/2023,Instagram,Post_62,Text,371,212,399,72688,22883,44,Other,Samoa,Neutral,2277,50.55
+12/3/2023,Facebook,Post_29,Image,370,99,432,98084,76680,62,Female,Aruba,Positive,4420,33.55
+9/21/2023,Facebook,Post_40,Image,410,161,275,79895,84098,50,Other,Ireland,Negative,1414,83.31
+1/23/2023,Instagram,Post_82,Carousel,853,91,70,99983,30832,44,Female,Svalbard & Jan Mayen Islands,Negative,2913,15.76
+8/2/2023,Instagram,Post_92,Image,787,138,232,99089,25400,50,Female,Papua New Guinea,Negative,583,190.39
+6/22/2023,Facebook,Post_87,Video,766,146,381,13764,67215,49,Male,Iceland,Negative,2518,7.07
+3/26/2023,Instagram,Post_35,Image,230,183,275,63090,127481,43,Other,Australia,Positive,3042,25.71
+2/23/2023,Facebook,Post_74,Carousel,889,111,128,15000,72245,57,Other,Tunisia,Negative,772,146.11
+7/30/2023,Twitter,Post_47,Text,371,273,269,73020,15053,32,Male,Andorra,Negative,3553,36.56
+9/26/2023,Twitter,Post_92,Text,761,199,64,26745,5471,41,Male,Niger,Negative,4761,27.14
+7/11/2023,Facebook,Post_93,Video,519,113,34,27823,14897,37,Other,Spain,Neutral,3123,40.76
+12/26/2023,Facebook,Post_100,Image,972,188,265,68101,67776,63,Other,Burkina Faso,Neutral,749,73.56
+5/23/2023,Facebook,Post_93,Carousel,283,56,434,58559,26611,20,Other,Wallis and Futuna,Neutral,749,148.06
+12/13/2023,Twitter,Post_33,Carousel,573,181,64,45145,47625,46,Male,Vanuatu,Negative,556,256.12
+7/28/2023,Instagram,Post_99,Video,120,162,414,17346,29866,38,Other,Turkmenistan,Negative,1030,37.77
+10/16/2023,Facebook,Post_77,Text,40,250,421,93056,88365,22,Male,Ghana,Positive,1582,17.64
+9/6/2023,Facebook,Post_24,Image,925,270,133,43842,31811,38,Other,South Africa,Positive,2455,54.13
+5/27/2023,Instagram,Post_13,Text,602,17,272,45811,169315,21,Other,Cote d'Ivoire,Positive,1727,51.01
+11/22/2023,Instagram,Post_97,Video,837,240,52,90435,29627,27,Male,Saint Barthelemy,Positive,3278,15.71
+11/29/2023,Facebook,Post_73,Carousel,955,131,329,9928,89261,48,Male,Paraguay,Neutral,3484,38.63
+1/30/2023,Facebook,Post_16,Carousel,817,42,490,90508,86541,53,Other,Lebanon,Positive,1388,69.38
+1/13/2023,Twitter,Post_75,Text,804,142,263,97212,19949,29,Male,Liberia,Positive,1532,37.01
+1/9/2023,Instagram,Post_42,Video,958,272,187,25261,49958,38,Male,Maldives,Positive,3367,47.31
+9/9/2023,Twitter,Post_69,Video,415,285,347,9467,43378,41,Female,Ukraine,Positive,4700,15.3
+9/9/2023,Facebook,Post_2,Text,897,4,73,96347,91188,52,Other,Algeria,Positive,4507,19.88
+12/10/2023,Twitter,Post_21,Image,356,123,458,85090,26134,34,Female,Liechtenstein,Neutral,774,42.51
+4/9/2023,Twitter,Post_48,Carousel,577,50,62,5851,24597,18,Male,Falkland Islands (Malvinas),Positive,1759,57.42
+8/29/2023,Facebook,Post_10,Image,417,299,492,14457,21714,21,Male,Gambia,Positive,3810,39.48
+7/27/2023,Twitter,Post_32,Image,786,56,269,15556,8385,38,Male,Palau,Positive,3107,20.34
+6/22/2023,Twitter,Post_96,Image,653,21,432,3859,47941,53,Male,Poland,Positive,957,82.55
+5/6/2023,Instagram,Post_65,Text,21,179,466,30769,191532,56,Other,Solomon Islands,Positive,3330,12.1
+6/10/2023,Facebook,Post_40,Image,951,34,209,89029,49892,46,Female,Guinea,Neutral,4885,20.9
+12/31/2023,Facebook,Post_62,Image,400,244,302,64041,24503,30,Female,Malaysia,Neutral,2684,28.99
+6/26/2023,Twitter,Post_71,Text,659,198,161,82576,33776,47,Male,Norway,Neutral,3607,20.71
+1/24/2023,Facebook,Post_47,Image,223,100,118,16908,55777,27,Male,Niue,Negative,675,143.11
+1/26/2023,Instagram,Post_88,Video,256,159,184,55399,56953,65,Other,Haiti,Positive,1858,52.74
+2/20/2023,Facebook,Post_94,Text,479,40,441,64165,93291,55,Male,Kiribati,Positive,2139,40.77
+1/9/2023,Instagram,Post_16,Video,761,282,330,26030,55748,54,Other,Kenya,Neutral,3815,18.95
+2/13/2023,Facebook,Post_3,Video,671,180,468,25381,44741,59,Male,Colombia,Neutral,3011,31.29
+7/21/2023,Facebook,Post_10,Image,409,252,18,2835,30670,22,Female,Kuwait,Neutral,4578,11.4
+5/16/2023,Twitter,Post_96,Text,544,228,381,6117,24915,54,Male,Nauru,Neutral,910,95.05
+7/2/2023,Facebook,Post_45,Video,879,86,129,84722,98976,39,Other,Argentina,Negative,1564,65.09
+10/19/2023,Facebook,Post_91,Text,772,124,397,18431,35498,20,Female,Israel,Negative,712,158.57
+10/10/2023,Facebook,Post_78,Carousel,914,142,128,3521,71767,40,Other,Paraguay,Positive,1289,50.12
+11/20/2023,Facebook,Post_88,Image,15,3,397,99301,90111,45,Other,Jersey,Negative,4946,29.98
+10/13/2023,Twitter,Post_94,Text,316,53,185,21656,25733,25,Female,Lebanon,Negative,1074,103.54
+5/24/2023,Facebook,Post_17,Image,538,80,239,59232,28720,45,Female,Jersey,Neutral,4810,19.17
+8/14/2023,Twitter,Post_75,Text,823,142,396,28186,19607,22,Male,Bahamas,Neutral,1426,54.49
+10/1/2023,Instagram,Post_84,Video,330,153,433,43174,134190,33,Male,Hong Kong,Neutral,3583,28.52
+12/15/2023,Instagram,Post_52,Text,712,239,107,16168,61587,51,Male,French Guiana,Neutral,4534,36.04
+3/31/2023,Facebook,Post_100,Text,151,82,473,13421,82177,59,Female,Iraq,Neutral,3755,27
+10/24/2023,Instagram,Post_76,Carousel,440,48,389,96702,30134,21,Female,Morocco,Neutral,2672,49.66
+4/29/2023,Instagram,Post_97,Image,851,157,125,48614,42794,34,Male,Comoros,Negative,1594,82.37
+5/10/2023,Facebook,Post_42,Video,145,182,391,14721,98380,44,Male,Ireland,Neutral,3541,29.54
+4/24/2023,Facebook,Post_81,Image,384,124,278,24912,57706,27,Male,Qatar,Neutral,4766,15.17
+6/11/2023,Facebook,Post_19,Text,697,169,260,76901,25317,50,Female,Brunei Darussalam,Neutral,2658,24.3
+3/6/2023,Facebook,Post_73,Image,318,61,95,7478,20675,21,Other,Heard Island and McDonald Islands,Neutral,2646,28.87
+11/8/2023,Twitter,Post_58,Image,894,299,271,27898,21266,47,Other,Burkina Faso,Neutral,4651,22.58
+5/30/2023,Twitter,Post_71,Image,570,48,423,36910,27303,47,Other,Mali,Negative,2850,28.88
+10/8/2023,Facebook,Post_4,Carousel,308,71,21,66042,56211,53,Other,Northern Mariana Islands,Negative,2466,49.59
+9/25/2023,Facebook,Post_70,Text,426,107,422,58452,27971,34,Male,Seychelles,Negative,1667,45.71
+12/13/2023,Instagram,Post_15,Image,410,132,233,26034,196770,42,Female,Brazil,Neutral,1386,45.67
+7/23/2023,Facebook,Post_70,Text,656,272,479,97014,38393,26,Other,Falkland Islands (Malvinas),Neutral,3755,23.41
+12/26/2023,Facebook,Post_59,Image,158,68,457,58479,72440,39,Male,Romania,Negative,4694,20.3
+2/22/2023,Twitter,Post_77,Video,442,192,390,50063,19154,35,Other,Gambia,Positive,850,104.59
+8/30/2023,Twitter,Post_28,Image,774,107,245,39080,12055,23,Female,Belgium,Positive,3927,31.07
+4/9/2023,Twitter,Post_1,Carousel,437,292,254,15651,17127,47,Male,Heard Island and McDonald Islands,Positive,3938,22.78
+2/26/2023,Facebook,Post_68,Image,862,256,46,19014,27971,53,Other,French Polynesia,Positive,788,128.3
+3/3/2023,Instagram,Post_64,Carousel,394,43,215,94224,115917,56,Other,Norway,Positive,1261,58.68
+10/16/2023,Instagram,Post_42,Text,386,250,330,27747,151892,34,Male,Zambia,Negative,656,139.48
+8/29/2023,Facebook,Post_43,Text,269,49,220,24166,55267,38,Female,Somalia,Positive,4412,7.62
+10/5/2023,Instagram,Post_24,Carousel,183,129,3,78529,123285,39,Male,Bangladesh,Negative,1204,82.81
+8/9/2023,Facebook,Post_81,Carousel,168,46,367,79167,35153,42,Male,Israel,Negative,3778,17.81
+4/4/2023,Facebook,Post_12,Image,4,32,434,25842,49661,50,Male,Cape Verde,Neutral,1698,17.31
+3/9/2023,Instagram,Post_58,Carousel,965,80,192,88941,170744,65,Female,Kazakhstan,Neutral,4820,27.9
+12/10/2023,Twitter,Post_44,Image,699,34,96,23268,13924,45,Other,Saint Barthelemy,Neutral,3116,40.5
+5/16/2023,Instagram,Post_34,Video,153,257,167,77664,120461,31,Other,Haiti,Neutral,1020,64.41
+2/5/2023,Twitter,Post_3,Carousel,590,206,88,45252,38904,53,Male,Central African Republic,Negative,3556,15.13
+3/7/2023,Twitter,Post_57,Text,15,21,313,70095,33468,48,Other,Congo,Negative,3759,34.74
+7/28/2023,Facebook,Post_72,Text,397,278,102,42969,45158,31,Other,Bangladesh,Negative,3357,19.99
+7/14/2023,Twitter,Post_27,Image,736,215,361,57956,13726,33,Other,Portugal,Negative,846,132.03
+10/20/2023,Facebook,Post_80,Text,12,70,118,44794,65850,46,Female,Cayman Islands,Neutral,2850,26.39
+8/15/2023,Twitter,Post_20,Carousel,812,117,264,30480,46827,20,Female,Mauritius,Positive,2060,57.91
+1/15/2023,Instagram,Post_30,Carousel,352,107,386,13020,32944,61,Male,Guatemala,Negative,4733,21.49
+11/28/2023,Instagram,Post_66,Image,859,79,149,61371,122729,39,Male,Mauritius,Negative,543,119.71
+2/4/2023,Instagram,Post_18,Text,841,121,482,91754,53856,55,Female,Anguilla,Negative,4925,3.45
+1/20/2023,Instagram,Post_91,Text,997,287,37,62797,162061,45,Other,Yemen,Neutral,3313,24.57
+5/16/2023,Instagram,Post_25,Image,478,64,469,45919,73204,65,Other,Uganda,Neutral,1134,43.39
+4/8/2023,Instagram,Post_49,Carousel,950,233,193,12961,64258,42,Male,Argentina,Neutral,3063,29.06
+12/17/2023,Twitter,Post_64,Video,972,103,383,50171,42211,24,Female,Turkmenistan,Positive,4987,23.3
+1/10/2023,Twitter,Post_23,Video,484,150,80,47457,15846,60,Female,Svalbard & Jan Mayen Islands,Neutral,1488,33.06
+8/3/2023,Facebook,Post_84,Text,526,174,348,7687,42327,49,Female,French Southern Territories,Neutral,1507,83.81
+9/20/2023,Instagram,Post_33,Video,26,294,463,47134,157729,57,Male,Ghana,Neutral,4794,29.93
+5/26/2023,Twitter,Post_47,Video,297,112,19,49043,24061,43,Male,Timor-Leste,Neutral,1353,33.56
+1/22/2023,Facebook,Post_7,Text,216,27,189,46590,15583,56,Male,Czech Republic,Negative,4022,18.32
+11/9/2023,Twitter,Post_48,Text,604,98,138,60514,6361,20,Other,Singapore,Negative,2301,46.37
+6/16/2023,Twitter,Post_95,Video,400,64,182,78990,8028,39,Female,Luxembourg,Negative,2335,17.43
+3/25/2023,Facebook,Post_45,Video,216,131,67,85777,96916,42,Female,French Southern Territories,Positive,4216,27.94
+11/28/2023,Instagram,Post_17,Video,219,245,329,44392,60410,61,Other,Kazakhstan,Positive,4725,15.47
+3/30/2023,Facebook,Post_4,Carousel,396,10,158,80816,75861,33,Female,Croatia,Positive,3655,31.24
+12/24/2023,Instagram,Post_53,Image,146,69,429,76003,133928,26,Female,Lesotho,Positive,3784,37
+6/6/2023,Facebook,Post_17,Text,761,3,263,35022,63742,56,Other,Jordan,Negative,826,111.99
+7/1/2023,Facebook,Post_57,Carousel,788,257,361,61746,25757,48,Other,Isle of Man,Negative,1516,26.52
+5/13/2023,Instagram,Post_51,Image,742,44,318,31613,51637,45,Female,Falkland Islands (Malvinas),Negative,1585,69.91
+1/2/2023,Facebook,Post_2,Video,561,14,97,4678,39006,39,Female,Italy,Positive,2896,37.88
+2/10/2023,Twitter,Post_60,Carousel,682,221,183,51432,45968,61,Other,Algeria,Neutral,2044,55.14
+4/17/2023,Twitter,Post_77,Video,196,267,135,32996,10348,21,Other,Bosnia and Herzegovina,Neutral,3594,43.63
+2/10/2023,Instagram,Post_26,Video,181,19,48,94984,120461,28,Male,Sao Tome and Principe,Neutral,4508,18.23
+7/22/2023,Facebook,Post_34,Carousel,951,246,58,50092,90159,40,Female,Saint Kitts and Nevis,Negative,3608,39.52
+8/25/2023,Facebook,Post_100,Image,425,208,29,25261,73464,28,Male,Tanzania,Positive,564,277.48
+7/31/2023,Facebook,Post_12,Carousel,504,231,163,99502,59823,48,Male,Martinique,Positive,4551,18.28
+2/19/2023,Instagram,Post_3,Image,350,218,277,60952,156633,58,Female,Cocos (Keeling) Islands,Positive,2979,42.03
+4/19/2023,Facebook,Post_21,Carousel,270,155,226,18056,71338,42,Female,Nigeria,Negative,2771,17.76
+5/25/2023,Twitter,Post_98,Image,47,9,440,61734,41988,20,Female,Vanuatu,Neutral,2893,33.6
+12/30/2023,Facebook,Post_87,Image,720,119,261,96541,24813,45,Male,Tuvalu,Neutral,2016,23.36
+3/12/2023,Twitter,Post_18,Video,83,112,155,7927,8817,29,Other,Nauru,Negative,2093,63.83
+5/9/2023,Facebook,Post_77,Text,396,107,40,55121,24372,42,Male,Vanuatu,Negative,3480,34.2
+7/2/2023,Twitter,Post_21,Carousel,522,134,293,51829,17730,44,Male,Azerbaijan,Negative,1895,67.49
+4/3/2023,Instagram,Post_41,Carousel,249,299,396,51459,126173,32,Male,Georgia,Neutral,4387,22.82
+3/30/2023,Facebook,Post_93,Text,910,195,491,2628,98386,24,Male,Ecuador,Neutral,2389,24.99
+3/4/2023,Instagram,Post_19,Carousel,230,22,347,33609,54293,54,Female,Tuvalu,Neutral,4813,17.45
+2/24/2023,Facebook,Post_55,Text,278,131,51,24466,33889,53,Female,Bahamas,Neutral,1228,93.65
+12/9/2023,Facebook,Post_1,Text,457,154,288,13177,27171,22,Other,Guam,Neutral,1137,41.07
+12/5/2023,Facebook,Post_47,Text,832,146,325,53180,52266,39,Male,Greece,Neutral,897,124.08
+9/19/2023,Instagram,Post_51,Text,700,72,107,53290,147533,48,Other,Kiribati,Neutral,1673,87.03
+10/25/2023,Twitter,Post_71,Carousel,533,202,490,15115,8257,52,Other,South Georgia and the South Sandwich Islands,Positive,4450,27.71
+7/29/2023,Instagram,Post_46,Text,679,96,355,67559,96708,64,Other,Cape Verde,Positive,3604,20.17
+11/5/2023,Facebook,Post_68,Image,735,47,152,56334,63880,46,Female,Suriname,Negative,3227,48.44
+4/23/2023,Instagram,Post_26,Carousel,749,190,62,19990,52023,30,Male,Niger,Negative,2373,17.66
+9/4/2023,Facebook,Post_84,Text,788,19,91,28731,72068,47,Male,Syrian Arab Republic,Positive,787,93.65
+6/23/2023,Facebook,Post_80,Carousel,759,262,395,41738,45446,38,Female,Russian Federation,Positive,1322,81.69
+4/12/2023,Twitter,Post_22,Carousel,323,276,61,63151,20742,29,Female,Montenegro,Neutral,4989,28.56
+12/1/2023,Twitter,Post_74,Carousel,638,109,331,50012,20498,57,Male,Mozambique,Neutral,2988,19.31
+5/2/2023,Facebook,Post_74,Video,196,213,25,67470,69223,53,Other,Russian Federation,Negative,1930,46.48
+11/19/2023,Twitter,Post_66,Carousel,855,105,447,87937,36338,41,Female,Botswana,Negative,1021,116.65
+3/6/2023,Instagram,Post_51,Text,522,285,307,13382,94049,47,Male,Bahamas,Negative,1439,48.3
+4/5/2023,Facebook,Post_44,Image,972,277,201,36107,36102,32,Male,Trinidad and Tobago,Positive,3288,25.03
+10/29/2023,Twitter,Post_57,Video,426,246,16,90427,45718,51,Male,Falkland Islands (Malvinas),Neutral,4042,11.83
+6/1/2023,Instagram,Post_84,Carousel,406,144,1,51408,174978,52,Male,Bolivia,Positive,4890,13.52
+6/5/2023,Instagram,Post_28,Carousel,433,198,103,53747,179869,35,Other,Zambia,Neutral,2059,56.63
+6/26/2023,Twitter,Post_36,Carousel,69,137,363,96859,7654,39,Other,Kazakhstan,Neutral,1634,39.6
+6/2/2023,Instagram,Post_94,Carousel,442,47,13,8875,110304,53,Female,Heard Island and McDonald Islands,Positive,3926,35.86
+12/31/2023,Twitter,Post_17,Text,894,257,441,61519,44565,63,Male,Guinea,Negative,656,120.27
+4/8/2023,Instagram,Post_92,Image,569,74,483,32256,46165,19,Female,Saint Kitts and Nevis,Negative,3545,33.2
+1/14/2023,Instagram,Post_47,Video,162,128,86,58281,196770,30,Other,Cyprus,Negative,1523,78.59
+12/21/2023,Twitter,Post_100,Image,23,177,110,84426,13883,26,Male,Niger,Negative,1679,67.72
+2/11/2023,Facebook,Post_83,Image,860,75,74,64959,53284,49,Male,Turks and Caicos Islands,Positive,3689,30.63
+3/18/2023,Instagram,Post_99,Video,872,145,308,23409,45378,31,Male,Israel,Positive,851,29.02
+4/13/2023,Twitter,Post_54,Video,722,8,14,17441,29407,18,Other,Faroe Islands,Positive,2101,52.59
+1/24/2023,Twitter,Post_43,Video,503,293,108,19473,23994,30,Other,Senegal,Positive,3861,33.57
+11/5/2023,Twitter,Post_3,Image,623,269,479,33715,45866,40,Male,Syrian Arab Republic,Positive,751,139.41
+12/27/2023,Twitter,Post_4,Image,334,215,397,87384,15476,23,Female,Albania,Positive,4041,14.48
+7/24/2023,Twitter,Post_8,Video,333,199,114,60572,39449,57,Male,Seychelles,Positive,1968,18.14
+4/6/2023,Twitter,Post_94,Carousel,213,180,396,89688,41963,36,Female,Suriname,Positive,4389,4.76
+3/18/2023,Facebook,Post_2,Carousel,817,208,425,71899,56751,42,Other,Germany,Positive,1260,19.92
+4/5/2023,Facebook,Post_84,Text,313,108,114,28942,93521,59,Female,Cuba,Positive,4356,5.14
+9/5/2023,Facebook,Post_31,Image,568,60,297,38655,51072,44,Male,Georgia,Neutral,4095,13.19
+2/4/2023,Twitter,Post_56,Image,809,65,142,41374,11334,63,Male,South Georgia and the South Sandwich Islands,Neutral,2330,60.3
+6/28/2023,Twitter,Post_50,Carousel,944,56,95,36284,41804,36,Other,Kazakhstan,Neutral,4760,10.55
+10/12/2023,Instagram,Post_2,Video,1,265,1,11456,179798,61,Other,Turkmenistan,Neutral,4440,22.86
+7/13/2023,Instagram,Post_65,Text,720,157,445,40069,161364,59,Female,Taiwan,Negative,2705,21.48
+6/24/2023,Facebook,Post_81,Text,208,37,457,69680,68896,49,Other,French Polynesia,Neutral,1491,78.34
+6/8/2023,Instagram,Post_55,Video,443,1,265,13726,173822,32,Female,Nauru,Negative,836,45.57
+8/30/2023,Twitter,Post_89,Video,506,129,348,77404,41730,53,Male,Botswana,Negative,2885,34.42
+2/24/2023,Instagram,Post_67,Text,292,208,359,62026,171529,52,Male,Zimbabwe,Negative,4082,36.43
+10/13/2023,Instagram,Post_15,Text,913,268,438,31060,103277,59,Male,Latvia,Negative,3385,13.56
+7/4/2023,Instagram,Post_46,Image,845,83,328,38644,163746,62,Other,Pakistan,Neutral,2142,43.04
+9/28/2023,Instagram,Post_91,Carousel,233,21,38,91010,126176,62,Female,Solomon Islands,Neutral,3820,15.37
+10/17/2023,Twitter,Post_36,Image,872,160,256,99045,10237,43,Other,Cyprus,Negative,4825,25.26
+7/22/2023,Twitter,Post_1,Carousel,776,113,342,5361,35386,58,Other,New Caledonia,Negative,4047,22.58
+1/19/2023,Instagram,Post_69,Image,144,133,79,46968,21175,62,Female,Mali,Negative,4176,26.27
+1/17/2023,Facebook,Post_88,Carousel,137,60,491,16109,14994,49,Other,Saint Vincent and the Grenadines,Positive,1683,50.56
+4/10/2023,Facebook,Post_31,Text,854,149,11,99557,15314,47,Male,Hungary,Positive,3327,19.12
+4/16/2023,Twitter,Post_71,Image,50,250,363,29683,35244,31,Male,Costa Rica,Neutral,4041,34.69
+5/23/2023,Facebook,Post_55,Text,173,26,427,43770,32956,24,Female,Mauritius,Neutral,3780,32.88
+12/14/2023,Twitter,Post_56,Video,63,158,444,65735,12837,45,Male,Slovenia,Neutral,2266,44.26
+7/18/2023,Twitter,Post_19,Image,36,229,485,50151,29424,47,Male,Serbia,Neutral,2243,40.35
+7/19/2023,Facebook,Post_40,Video,379,123,377,38667,99374,37,Male,Senegal,Neutral,3249,21.18
+4/19/2023,Facebook,Post_95,Text,387,97,75,55206,68874,65,Other,Svalbard & Jan Mayen Islands,Neutral,2076,36.56
+10/5/2023,Instagram,Post_54,Carousel,661,156,391,95400,74123,42,Female,Niue,Neutral,4264,28.21
+6/13/2023,Instagram,Post_78,Image,216,199,275,67124,153159,18,Other,Ukraine,Neutral,3824,13
+4/15/2023,Instagram,Post_50,Video,509,278,92,13043,130328,55,Other,Botswana,Neutral,3143,14.32
+8/11/2023,Facebook,Post_37,Text,363,66,414,9547,55162,37,Other,Sudan,Negative,4230,18.18
+1/2/2023,Instagram,Post_50,Text,703,166,230,93714,35383,50,Other,Trinidad and Tobago,Negative,2194,49.32
+2/10/2023,Instagram,Post_44,Text,125,294,384,88708,129379,39,Male,Montenegro,Positive,4958,22.59
+4/12/2023,Facebook,Post_51,Image,775,224,256,37676,73816,36,Male,Grenada,Positive,4376,22.92
+3/19/2023,Instagram,Post_81,Image,330,280,448,22527,30134,28,Female,Mayotte,Negative,1429,42.2
+11/5/2023,Instagram,Post_26,Video,501,226,433,62784,35144,53,Female,Czech Republic,Negative,4476,20.26
+2/20/2023,Twitter,Post_36,Video,338,83,186,16313,17667,22,Male,Falkland Islands (Malvinas),Negative,2980,43.39
+8/6/2023,Twitter,Post_2,Video,289,160,360,7444,45792,46,Female,Solomon Islands,Negative,4281,26.49
+1/9/2023,Twitter,Post_49,Text,535,106,401,55650,34508,40,Female,Jordan,Negative,1539,59.26
+6/15/2023,Facebook,Post_31,Video,997,214,56,97556,63232,34,Female,Portugal,Negative,3850,22.68
+1/30/2023,Facebook,Post_21,Text,339,231,389,25065,16632,18,Other,United States Virgin Islands,Negative,1718,12.11
+6/13/2023,Facebook,Post_40,Image,680,158,85,17752,62745,25,Other,Costa Rica,Negative,2175,40.69
+11/3/2023,Twitter,Post_56,Image,220,32,233,99439,43992,54,Female,Slovakia (Slovak Republic),Negative,675,67.56
+7/14/2023,Twitter,Post_25,Image,53,70,335,67832,23542,57,Female,Niue,Negative,1378,38.32
+9/28/2023,Instagram,Post_22,Carousel,193,267,435,75801,102384,54,Male,Gibraltar,Negative,2168,44.19
+7/14/2023,Facebook,Post_79,Text,577,27,427,15773,63417,47,Female,Marshall Islands,Negative,2937,28.36
+6/26/2023,Instagram,Post_3,Text,380,162,4,7409,162886,39,Other,Timor-Leste,Negative,4341,14.42
+5/23/2023,Instagram,Post_72,Video,133,23,279,85963,165003,31,Other,Papua New Guinea,Neutral,937,105.02
+10/6/2023,Facebook,Post_94,Image,92,238,452,45892,24528,32,Male,South Africa,Neutral,742,161.46
+5/24/2023,Instagram,Post_71,Image,789,93,196,16537,20510,30,Other,Montserrat,Neutral,3945,8.37
+11/18/2023,Twitter,Post_3,Video,599,207,9,48728,32891,40,Male,Indonesia,Negative,4476,14.95
+1/28/2023,Facebook,Post_58,Image,797,1,191,62652,99520,23,Other,Bhutan,Negative,3309,12.6
+12/24/2023,Twitter,Post_88,Text,866,168,48,78523,26374,21,Other,Sweden,Positive,4888,11.66
+9/8/2023,Facebook,Post_57,Carousel,595,277,499,89404,90955,30,Other,Moldova,Positive,2019,47.65
+5/9/2023,Instagram,Post_14,Text,316,84,10,31874,78346,62,Female,Qatar,Negative,4782,20.12
+1/6/2023,Instagram,Post_11,Image,166,79,182,27202,85982,52,Female,Nicaragua,Negative,4848,21.49
+7/29/2023,Instagram,Post_76,Carousel,976,180,197,38531,109495,55,Male,Lesotho,Negative,3390,27.49
+12/22/2023,Facebook,Post_86,Image,172,222,119,11337,25214,55,Female,Panama,Neutral,1955,69.87
+12/9/2023,Twitter,Post_17,Carousel,836,136,182,95918,22442,33,Male,Guinea,Negative,2123,21.9
+7/6/2023,Facebook,Post_55,Carousel,779,98,244,17732,57072,46,Male,Faroe Islands,Neutral,2016,32.34
+11/2/2023,Instagram,Post_92,Image,820,197,458,43697,175157,27,Male,Honduras,Neutral,2746,39.69
+9/14/2023,Instagram,Post_59,Video,73,221,392,19946,125417,64,Other,British Virgin Islands,Neutral,3181,44.83
+1/31/2023,Instagram,Post_3,Text,740,157,1,25727,132819,36,Female,Lesotho,Neutral,3809,37.28
+6/26/2023,Instagram,Post_65,Text,684,70,476,57598,77910,61,Male,Guam,Negative,3953,28.05
+8/11/2023,Facebook,Post_54,Image,963,139,68,72267,73703,18,Other,Norway,Negative,925,181.08
+10/22/2023,Twitter,Post_98,Text,351,109,90,30702,26005,36,Other,Jersey,Negative,3742,29.26
+5/4/2023,Twitter,Post_97,Video,570,220,203,64655,11452,46,Other,Portugal,Neutral,595,209.41
+4/10/2023,Facebook,Post_11,Video,215,37,453,51184,68202,62,Other,Brazil,Neutral,2830,43.46
+10/30/2023,Twitter,Post_75,Image,272,181,63,14988,12385,56,Other,Albania,Neutral,3799,10.5
+8/19/2023,Facebook,Post_69,Video,913,124,271,10858,45030,43,Other,Tuvalu,Negative,4225,7.53
+4/2/2023,Twitter,Post_94,Image,458,113,346,27018,6223,27,Male,Malawi,Positive,4763,27
+8/21/2023,Instagram,Post_90,Carousel,976,251,344,29714,60788,53,Female,Vanuatu,Positive,4599,6.65
+11/11/2023,Facebook,Post_58,Text,729,162,93,5874,37486,55,Female,Benin,Positive,1239,41.73
+4/26/2023,Facebook,Post_99,Image,55,156,449,70413,26342,56,Other,Saint Kitts and Nevis,Positive,3861,25.07
+11/12/2023,Facebook,Post_49,Text,531,255,257,93115,63455,48,Male,Bahamas,Positive,3384,14.1
+11/20/2023,Twitter,Post_96,Video,780,61,302,3841,16739,27,Male,Samoa,Positive,2229,51.1
+2/9/2023,Facebook,Post_45,Image,352,29,131,44738,26161,49,Other,French Polynesia,Positive,1965,55.93
+7/24/2023,Twitter,Post_96,Text,523,206,326,7144,37193,30,Male,Denmark,Positive,2645,22
+11/11/2023,Instagram,Post_6,Text,269,103,269,54001,136009,50,Male,Trinidad and Tobago,Negative,4938,20.19
+8/30/2023,Twitter,Post_67,Image,938,273,140,3828,33703,49,Female,Bahamas,Negative,1379,32.34
+1/8/2023,Facebook,Post_22,Carousel,618,239,60,85956,14478,31,Female,Gambia,Negative,1352,33.8
+5/31/2023,Instagram,Post_83,Image,264,163,491,3017,44858,29,Female,Kuwait,Negative,1487,89.24
+12/13/2023,Instagram,Post_49,Carousel,143,226,140,24864,146896,41,Female,Vietnam,Negative,2749,40.92
+11/5/2023,Facebook,Post_33,Carousel,314,96,141,41415,55510,38,Other,Austria,Neutral,3351,41.6
+7/22/2023,Twitter,Post_95,Text,985,9,295,5097,44984,65,Other,Bouvet Island (Bouvetoya),Positive,2885,51.44
+12/21/2023,Twitter,Post_36,Text,259,39,167,76476,31175,31,Female,Gambia,Positive,1401,56.89
+11/7/2023,Twitter,Post_38,Image,960,151,447,64369,49118,28,Other,Kuwait,Positive,3587,29.27
+9/19/2023,Instagram,Post_89,Video,171,111,437,75353,185827,22,Other,Lao People's Democratic Republic,Positive,833,85.47
+11/6/2023,Facebook,Post_43,Video,385,219,215,69740,47187,19,Female,Vietnam,Negative,4041,24.4
+9/16/2023,Instagram,Post_9,Video,14,136,243,4675,45202,51,Female,Cayman Islands,Neutral,2872,16.36
+7/20/2023,Facebook,Post_95,Image,8,285,142,42762,30164,45,Other,Haiti,Positive,1120,93.93
+11/26/2023,Facebook,Post_62,Video,189,29,169,47653,53911,46,Male,Ghana,Positive,1458,93.42
+11/25/2023,Twitter,Post_84,Carousel,1000,251,113,15732,34004,41,Female,Japan,Positive,4928,19.7
+3/17/2023,Facebook,Post_4,Video,926,59,443,65899,73556,27,Male,Hong Kong,Positive,4292,16.96
+3/24/2023,Twitter,Post_1,Text,569,233,366,43659,29769,50,Female,Turkmenistan,Positive,4714,16.06
+7/4/2023,Twitter,Post_98,Text,61,27,64,74513,17586,52,Other,Guinea-Bissau,Negative,3441,36.97
+5/9/2023,Twitter,Post_33,Video,41,230,172,17043,34302,48,Female,Korea,Negative,3659,4.32
+3/29/2023,Instagram,Post_19,Text,400,107,435,86727,31343,32,Male,Pitcairn Islands,Negative,1100,110.36
+12/10/2023,Facebook,Post_22,Text,343,24,277,98189,86181,28,Female,United States Minor Outlying Islands,Negative,3633,30.11
+12/23/2023,Facebook,Post_38,Text,254,289,406,5321,18672,55,Female,Cameroon,Negative,3109,20.46
+10/18/2023,Instagram,Post_32,Image,318,277,486,88660,194238,47,Female,Maldives,Positive,3499,22.49
+2/19/2023,Facebook,Post_28,Text,948,71,307,96497,63309,24,Female,Andorra,Positive,4229,5.84
+1/1/2023,Instagram,Post_84,Carousel,321,285,23,91517,30945,42,Male,United States Minor Outlying Islands,Positive,2882,19.6
+7/19/2023,Instagram,Post_38,Text,12,132,208,54764,61980,29,Other,Djibouti,Positive,901,109.99
+6/5/2023,Facebook,Post_76,Image,993,228,288,95647,30919,41,Male,Cuba,Positive,3017,26.95
+1/18/2023,Facebook,Post_89,Text,188,103,215,89921,79398,37,Male,Papua New Guinea,Positive,2028,43.54
+11/30/2023,Twitter,Post_17,Text,785,120,337,85246,43311,59,Female,Uzbekistan,Positive,936,59.4
+1/18/2023,Facebook,Post_34,Text,541,279,324,16350,49771,55,Male,Angola,Positive,2594,26.99
+1/18/2023,Twitter,Post_8,Video,455,15,387,87944,10626,34,Male,Gambia,Negative,3393,17.86
+3/27/2023,Instagram,Post_23,Image,407,111,172,40256,39152,62,Female,Australia,Negative,3376,30.39
+1/2/2023,Instagram,Post_66,Carousel,884,146,209,66082,52825,52,Other,Sudan,Positive,3616,39.3
+1/28/2023,Twitter,Post_98,Carousel,472,194,435,7580,45780,54,Female,Armenia,Neutral,1800,73.83
+7/25/2023,Instagram,Post_71,Carousel,370,98,144,30898,150970,48,Other,Egypt,Neutral,4855,28.69
+4/30/2023,Twitter,Post_59,Video,943,102,386,25467,12016,55,Male,Chile,Neutral,3960,34.7
+1/29/2023,Facebook,Post_67,Video,963,224,121,57450,19148,20,Other,Haiti,Neutral,4474,7.82
+12/29/2023,Instagram,Post_76,Image,88,140,165,65307,150185,63,Other,Central African Republic,Negative,516,197.09
+4/10/2023,Instagram,Post_51,Carousel,374,26,75,2848,120073,27,Other,Saint Lucia,Neutral,1244,54.66
+11/3/2023,Instagram,Post_37,Text,519,245,193,98279,171507,58,Female,Fiji,Negative,2840,32.18
+12/31/2023,Instagram,Post_76,Video,706,174,370,57437,151049,29,Male,Germany,Positive,4743,14.42
+11/20/2023,Facebook,Post_70,Text,215,39,275,66697,94921,51,Female,Guam,Neutral,2268,24.03
+12/17/2023,Instagram,Post_84,Image,367,78,365,19737,63331,64,Male,China,Negative,1324,75.3
+8/17/2023,Instagram,Post_99,Video,20,39,332,34111,179173,44,Other,Angola,Negative,1873,58.62
+5/31/2023,Twitter,Post_93,Text,749,105,313,72590,40365,29,Other,Albania,Neutral,605,123.97
+9/16/2023,Instagram,Post_10,Image,318,17,383,68269,44232,49,Other,Argentina,Neutral,4976,11.15
+6/29/2023,Twitter,Post_76,Image,592,81,65,58085,32967,53,Male,Algeria,Neutral,1350,95.93
+10/2/2023,Facebook,Post_54,Image,46,115,151,92964,73685,24,Male,United States Virgin Islands,Negative,4513,20.92
+12/31/2023,Instagram,Post_77,Video,257,40,191,16982,171400,36,Male,Bouvet Island (Bouvetoya),Positive,2027,51.01
+10/10/2023,Instagram,Post_80,Text,937,292,301,6562,170344,38,Male,Zimbabwe,Positive,3313,43.98
+12/9/2023,Instagram,Post_82,Text,499,29,176,54359,166951,26,Other,Papua New Guinea,Positive,3076,28.97
+3/4/2023,Instagram,Post_77,Video,72,66,304,53724,79415,25,Female,Uzbekistan,Positive,854,155.04
+6/26/2023,Facebook,Post_11,Text,915,203,117,91470,55728,49,Other,Marshall Islands,Positive,4379,23.52
+7/11/2023,Facebook,Post_78,Carousel,632,38,254,59963,26155,53,Male,Paraguay,Neutral,4873,23.8
+2/16/2023,Twitter,Post_4,Text,403,158,262,5260,39480,54,Female,Nigeria,Positive,2804,39.12
+6/26/2023,Facebook,Post_11,Video,359,210,91,91185,12811,61,Male,Chile,Positive,589,91.34
+2/22/2023,Twitter,Post_57,Image,742,51,229,95197,44428,45,Female,Paraguay,Positive,2981,46.6
+1/27/2023,Facebook,Post_87,Video,116,194,83,44518,21310,32,Male,Gambia,Positive,3372,41.76
+5/15/2023,Instagram,Post_69,Carousel,835,206,293,12105,188534,36,Female,Qatar,Positive,755,51.39
+1/9/2023,Facebook,Post_24,Text,712,238,96,43272,46600,37,Female,Madagascar,Negative,3349,18.93
+1/2/2023,Twitter,Post_78,Image,839,165,170,33828,43063,19,Other,Canada,Negative,1680,63.87
+9/16/2023,Instagram,Post_30,Image,381,177,416,76869,85426,38,Male,Thailand,Negative,4388,20.99
+10/5/2023,Facebook,Post_15,Image,457,54,341,6580,59090,41,Female,Bahamas,Neutral,1965,73.84
+10/10/2023,Facebook,Post_88,Image,886,67,481,14420,27543,41,Female,Estonia,Neutral,1133,83.41
+7/16/2023,Twitter,Post_4,Carousel,860,31,38,53971,21085,65,Female,Lesotho,Negative,2882,15.79
+8/18/2023,Twitter,Post_3,Video,73,121,403,47525,38257,35,Male,Reunion,Negative,2473,46.34
+7/13/2023,Facebook,Post_83,Carousel,836,113,93,35386,36600,38,Male,Rwanda,Negative,2167,32.99
+4/29/2023,Twitter,Post_77,Image,882,206,367,21052,28859,36,Female,South Georgia and the South Sandwich Islands,Negative,4425,13.79
+12/26/2023,Twitter,Post_28,Carousel,404,19,59,91145,39589,35,Male,French Polynesia,Negative,586,71.16
+7/15/2023,Facebook,Post_13,Image,176,238,233,19635,13512,49,Male,Bouvet Island (Bouvetoya),Negative,1714,27.71
+7/6/2023,Facebook,Post_37,Image,653,197,375,30943,89188,62,Male,Saint Helena,Negative,4856,20.74
+7/4/2023,Facebook,Post_100,Image,825,99,142,81311,12916,54,Female,Yemen,Negative,1054,82.83
+11/6/2023,Twitter,Post_98,Text,456,25,186,93778,26282,31,Male,Spain,Neutral,749,63.42
+3/2/2023,Facebook,Post_1,Video,159,220,381,80861,96730,19,Female,Falkland Islands (Malvinas),Negative,3979,22.97
+1/23/2023,Instagram,Post_14,Text,944,132,78,6064,97089,37,Male,Anguilla,Negative,2053,56.94
+12/15/2023,Twitter,Post_19,Text,386,46,360,43238,31517,64,Male,Portugal,Negative,2007,61.14
+10/10/2023,Facebook,Post_16,Carousel,64,50,50,53057,94481,44,Female,Ecuador,Negative,4352,25.67
+10/13/2023,Twitter,Post_58,Text,391,230,319,1909,32599,60,Other,Venezuela,Negative,2372,28.92
+8/3/2023,Twitter,Post_7,Text,830,133,319,59160,38831,61,Other,Mauritania,Negative,1069,93.64
+9/8/2023,Twitter,Post_38,Text,80,188,132,72756,18823,65,Female,Zambia,Neutral,1343,74.09
+3/16/2023,Instagram,Post_32,Video,640,250,355,37523,191272,56,Male,Tuvalu,Neutral,2890,8.65
+1/9/2023,Facebook,Post_84,Video,458,131,218,92829,38964,60,Other,Togo,Negative,1123,52.8
+2/10/2023,Instagram,Post_70,Image,610,206,284,12277,128197,46,Male,Antarctica (the territory South of 60 deg S),Positive,4170,27.91
+3/11/2023,Instagram,Post_92,Text,309,162,163,87394,41489,55,Female,Norway,Positive,3568,32.09
+2/18/2023,Twitter,Post_35,Video,234,206,11,15358,31696,23,Female,Saudi Arabia,Positive,2321,11.93
+4/5/2023,Twitter,Post_66,Text,621,163,497,41837,44325,56,Other,Portugal,Positive,3989,8.67
+12/11/2023,Instagram,Post_15,Carousel,316,285,72,56956,32587,48,Female,United Arab Emirates,Negative,3680,8.56
+7/7/2023,Instagram,Post_20,Image,701,149,135,58278,33884,42,Male,Bahrain,Negative,4470,7.34
+8/10/2023,Twitter,Post_64,Text,187,69,285,50613,45397,47,Other,Aruba,Negative,2786,30.26
+1/20/2023,Facebook,Post_94,Video,971,195,288,10598,82597,51,Female,Kenya,Negative,844,65.17
+2/28/2023,Facebook,Post_60,Video,762,190,462,25492,74788,29,Female,Sierra Leone,Negative,892,95.29
+3/28/2023,Facebook,Post_28,Carousel,275,70,308,94408,66328,36,Other,Turks and Caicos Islands,Negative,3070,29.54
+3/5/2023,Facebook,Post_26,Text,70,278,165,17471,77499,28,Male,Martinique,Positive,3479,23.11
+7/24/2023,Instagram,Post_96,Image,885,222,453,23185,41858,39,Male,Netherlands,Positive,570,157.02
+7/25/2023,Instagram,Post_12,Video,23,174,462,56429,161554,63,Male,Sri Lanka,Neutral,2258,42.43
+2/25/2023,Facebook,Post_39,Image,971,170,119,12747,98483,47,Male,Libyan Arab Jamahiriya,Positive,2999,12.64
+7/5/2023,Twitter,Post_9,Image,637,135,245,65123,25809,32,Female,Guadeloupe,Positive,1651,39.67
+4/1/2023,Twitter,Post_100,Image,84,133,199,90498,29619,52,Other,Libyan Arab Jamahiriya,Positive,3712,35.59
+7/19/2023,Instagram,Post_98,Video,805,136,139,76341,160513,49,Male,Aruba,Positive,4344,32.83
+5/7/2023,Instagram,Post_59,Video,808,119,486,76192,173782,26,Other,Slovakia (Slovak Republic),Neutral,2880,9.86
+8/27/2023,Twitter,Post_20,Text,978,27,99,98208,49799,30,Other,Luxembourg,Neutral,3562,6.34
+3/11/2023,Instagram,Post_86,Image,380,66,192,80902,174070,42,Male,Spain,Negative,2760,40.69
+10/24/2023,Facebook,Post_12,Text,534,219,50,15738,56730,23,Female,Anguilla,Negative,3713,19.01
+7/12/2023,Twitter,Post_73,Video,661,17,460,86931,21441,52,Male,Malta,Negative,2311,21.59
+3/3/2023,Instagram,Post_13,Video,757,11,44,21550,95798,48,Other,Iran,Neutral,2334,18.29
+7/31/2023,Instagram,Post_34,Image,479,151,276,25643,166628,58,Other,Egypt,Positive,2449,31.77
+10/27/2023,Twitter,Post_76,Text,720,257,349,56590,5536,50,Other,Slovenia,Positive,3123,12.9
+10/13/2023,Twitter,Post_86,Carousel,595,296,41,34761,5315,19,Male,Chad,Neutral,3433,16.37
+4/14/2023,Facebook,Post_40,Video,925,83,200,41230,69327,52,Other,Heard Island and McDonald Islands,Negative,2023,57.04
+7/31/2023,Instagram,Post_12,Video,790,121,205,52019,28431,61,Female,Senegal,Neutral,643,156.3
+11/24/2023,Twitter,Post_57,Carousel,480,62,383,71515,13690,53,Male,New Zealand,Negative,4347,24.2
+4/26/2023,Twitter,Post_39,Image,333,179,442,75403,19495,47,Female,Nicaragua,Neutral,2446,13.49
+12/3/2023,Twitter,Post_98,Video,220,271,136,11208,35825,35,Other,Iceland,Positive,1775,34.87
+5/5/2023,Twitter,Post_41,Image,383,219,92,37012,10262,65,Other,Djibouti,Positive,4986,22.28
+3/8/2023,Instagram,Post_22,Text,244,289,364,67322,157491,24,Male,Qatar,Positive,3043,37.5
+10/1/2023,Facebook,Post_21,Text,370,257,378,15194,74522,42,Other,Colombia,Positive,2188,46.34
+3/26/2023,Twitter,Post_54,Image,425,157,61,7940,8502,51,Female,Nicaragua,Positive,2251,28.57
+12/14/2023,Facebook,Post_59,Video,825,154,476,96439,37486,49,Male,Indonesia,Positive,703,208.53
+12/25/2023,Facebook,Post_96,Text,387,57,128,15790,16654,49,Male,Syrian Arab Republic,Positive,888,51.91
+2/13/2023,Facebook,Post_80,Carousel,661,25,91,87407,88178,38,Other,Equatorial Guinea,Positive,536,255.97
+5/30/2023,Twitter,Post_94,Video,945,190,490,21357,34800,41,Male,Singapore,Positive,1989,32.38
+4/6/2023,Instagram,Post_3,Video,866,86,425,46217,116967,24,Female,Syrian Arab Republic,Positive,1765,32.01
+8/3/2023,Facebook,Post_39,Text,479,85,364,38378,94595,20,Male,Senegal,Positive,3458,32.16
+6/11/2023,Facebook,Post_4,Image,707,110,493,71124,44015,28,Female,Congo,Positive,2609,26.52
+6/14/2023,Facebook,Post_41,Carousel,169,279,434,71240,92249,48,Male,Japan,Positive,808,175.87
+3/18/2023,Instagram,Post_76,Video,703,27,87,98370,61095,64,Other,Western Sahara,Positive,3258,29.53
+5/12/2023,Twitter,Post_86,Carousel,139,152,35,97029,11302,37,Male,Pakistan,Positive,870,142.64
+10/16/2023,Instagram,Post_28,Carousel,823,292,149,20284,45918,37,Other,Bahrain,Positive,3761,8.59
+9/2/2023,Twitter,Post_93,Image,305,182,52,72908,45968,20,Female,Georgia,Neutral,4618,12.08
+7/17/2023,Twitter,Post_72,Text,472,113,143,35231,43992,48,Male,United States Virgin Islands,Neutral,4208,15.3
+12/3/2023,Twitter,Post_10,Carousel,743,111,97,39528,11177,49,Other,Egypt,Positive,3636,26.95
+8/19/2023,Twitter,Post_20,Text,73,236,150,67771,49287,42,Other,Panama,Neutral,1031,22.11
+8/29/2023,Facebook,Post_2,Image,713,13,156,84233,91910,65,Female,Mayotte,Neutral,2045,56.58
+4/15/2023,Twitter,Post_72,Text,656,56,171,51850,22779,45,Male,Algeria,Neutral,2914,11.15
+10/16/2023,Instagram,Post_16,Text,758,59,300,59828,129000,52,Female,Guadeloupe,Neutral,4247,16.46
+12/15/2023,Twitter,Post_63,Image,161,271,277,83681,38427,35,Female,Lithuania,Neutral,4245,17.64
+1/6/2023,Facebook,Post_79,Video,163,37,254,44872,74221,23,Male,Hong Kong,Neutral,2939,24.74
+12/20/2023,Facebook,Post_92,Text,492,124,181,60857,44530,34,Other,Poland,Neutral,4005,11.69
+10/1/2023,Facebook,Post_57,Text,915,115,394,62088,56788,61,Male,Switzerland,Neutral,4320,23.54
+12/30/2023,Twitter,Post_71,Video,430,251,453,21336,6201,61,Other,Senegal,Neutral,3697,26.21
+10/7/2023,Facebook,Post_28,Image,714,216,213,36484,76899,52,Female,Bolivia,Neutral,2292,57.68
+7/14/2023,Instagram,Post_29,Text,630,180,366,84467,49443,47,Female,San Marino,Neutral,3320,42.35
+8/12/2023,Facebook,Post_42,Carousel,884,24,309,47333,24853,22,Male,Belgium,Positive,1652,72.03
+5/15/2023,Facebook,Post_58,Text,828,39,207,43508,87789,47,Male,Micronesia,Positive,2539,38.24
+10/21/2023,Twitter,Post_8,Video,501,159,383,73003,37040,51,Male,Vietnam,Positive,2252,22.29
+6/28/2023,Instagram,Post_19,Text,681,276,342,26367,44247,57,Male,Heard Island and McDonald Islands,Negative,1327,116.5
+10/28/2023,Instagram,Post_61,Video,496,286,493,64467,157666,57,Female,Saint Kitts and Nevis,Negative,646,96.59
+4/11/2023,Instagram,Post_86,Text,541,199,326,63847,184004,41,Female,Sweden,Negative,2424,5.32
+8/26/2023,Facebook,Post_59,Text,985,36,465,22974,89746,46,Other,Faroe Islands,Negative,4424,8.73
+11/15/2023,Instagram,Post_62,Carousel,980,23,258,37623,42994,23,Female,Equatorial Guinea,Negative,4637,23.64
+4/14/2023,Twitter,Post_14,Video,240,209,124,44341,41422,47,Male,Nepal,Negative,1842,12.98
+4/20/2023,Facebook,Post_7,Text,418,9,340,36875,58324,35,Male,Albania,Neutral,1934,41.83
+2/27/2023,Instagram,Post_63,Image,328,193,65,39495,49524,60,Female,Niue,Neutral,2390,45.06
+5/7/2023,Instagram,Post_69,Text,47,271,373,51517,142324,43,Male,Niger,Negative,4595,20.46
+2/7/2023,Facebook,Post_16,Text,6,63,104,95197,39564,41,Female,Moldova,Negative,3074,34.78
+6/26/2023,Facebook,Post_5,Video,287,298,258,10336,87788,55,Male,Malta,Negative,1679,66.23
+10/18/2023,Twitter,Post_45,Text,110,113,270,77664,40378,56,Male,Austria,Neutral,4075,10.6
+3/24/2023,Facebook,Post_12,Text,61,32,418,31415,37486,20,Other,Tuvalu,Neutral,1115,81.43
+9/7/2023,Facebook,Post_35,Video,890,268,437,49214,19686,51,Female,Russian Federation,Neutral,1853,59.69
+12/6/2023,Twitter,Post_17,Text,825,260,312,42811,49868,30,Female,Czech Republic,Neutral,3553,28.79
+2/15/2023,Twitter,Post_32,Carousel,110,80,29,93998,48110,47,Other,Japan,Positive,3268,33.32
+7/30/2023,Facebook,Post_36,Image,61,249,14,75067,60502,28,Other,Congo,Positive,3580,11.7
+3/26/2023,Instagram,Post_52,Carousel,974,22,44,5597,45673,18,Female,Denmark,Positive,1252,91.45
+12/14/2023,Twitter,Post_49,Carousel,134,182,66,64377,46907,44,Other,Barbados,Negative,4511,19.73
+10/19/2023,Instagram,Post_51,Carousel,227,103,100,50358,166848,38,Other,Guatemala,Negative,4096,13.77
+3/23/2023,Twitter,Post_32,Carousel,499,7,233,80586,9751,19,Female,Algeria,Negative,2043,65.05
+12/21/2023,Instagram,Post_2,Image,530,242,214,90891,59728,52,Female,Cape Verde,Negative,4322,24.13
+2/14/2023,Twitter,Post_39,Image,701,57,235,83837,19220,27,Female,Svalbard & Jan Mayen Islands,Negative,3538,8.76
+9/16/2023,Facebook,Post_9,Carousel,268,286,19,29424,39653,18,Other,Finland,Negative,1552,79.19
+7/11/2023,Twitter,Post_11,Text,40,146,292,24989,9705,55,Male,China,Negative,1831,28.62
+6/9/2023,Instagram,Post_23,Video,491,269,109,82390,107608,63,Other,Oman,Negative,4980,13.94
+6/10/2023,Instagram,Post_2,Carousel,315,49,113,7448,56634,44,Male,Lebanon,Neutral,1393,46.95
+2/25/2023,Facebook,Post_41,Video,304,131,67,30463,16654,22,Other,Russian Federation,Negative,1262,24.48
+8/5/2023,Instagram,Post_81,Carousel,415,65,1,68271,104306,48,Male,French Guiana,Neutral,3013,41.75
+5/27/2023,Facebook,Post_20,Video,954,224,19,51466,60502,52,Female,Argentina,Positive,1044,91.76
+2/23/2023,Twitter,Post_85,Image,236,114,109,27555,33990,28,Male,Cambodia,Positive,2499,30.45
+6/27/2023,Facebook,Post_22,Carousel,449,74,472,85817,87297,44,Other,Azerbaijan,Positive,872,84.63
+7/29/2023,Facebook,Post_78,Text,48,157,306,66764,89557,65,Female,Cayman Islands,Positive,4877,14.5
+1/13/2023,Instagram,Post_96,Carousel,499,263,223,78074,51087,21,Male,Tokelau,Positive,2071,56.88
+1/14/2023,Facebook,Post_42,Text,657,248,314,93400,16212,50,Male,Dominica,Negative,4290,19.32
+3/9/2023,Twitter,Post_81,Carousel,785,127,432,41714,15409,65,Male,Korea,Neutral,2877,40.11
+2/6/2023,Instagram,Post_12,Text,666,183,292,97434,47604,34,Female,Liberia,Neutral,1181,91.11
+9/18/2023,Twitter,Post_17,Text,547,253,232,28667,26256,26,Female,Namibia,Neutral,2256,11.08
+12/7/2023,Instagram,Post_2,Image,524,201,225,16932,73820,33,Other,Madagascar,Neutral,1864,47.42
+8/21/2023,Twitter,Post_58,Carousel,47,65,170,77879,20498,18,Male,Switzerland,Positive,2841,46.78
+2/14/2023,Instagram,Post_19,Text,774,110,339,36841,135673,25,Female,Faroe Islands,Positive,2788,27.58
+2/26/2023,Twitter,Post_58,Carousel,311,179,218,21087,14193,51,Female,Poland,Positive,3421,2.6
+3/14/2023,Facebook,Post_31,Video,734,61,478,47302,57301,48,Other,Andorra,Positive,522,195.02
+5/31/2023,Twitter,Post_23,Carousel,786,252,482,13683,43336,44,Male,Myanmar,Negative,3706,27.85
+6/14/2023,Instagram,Post_46,Image,890,134,84,92945,149034,34,Male,Lebanon,Negative,4522,24.06
+11/2/2023,Instagram,Post_23,Video,202,207,356,16693,160902,23,Male,Papua New Guinea,Negative,4239,11.94
+5/5/2023,Facebook,Post_56,Video,126,107,453,25078,80351,41,Male,Papua New Guinea,Negative,2266,44.57
+5/4/2023,Twitter,Post_47,Video,242,19,458,90980,21424,18,Other,Senegal,Positive,3798,23.91
+5/11/2023,Instagram,Post_39,Carousel,140,101,302,25346,109710,31,Other,Palestinian Territory,Positive,1801,53.69
+3/11/2023,Instagram,Post_48,Image,255,34,301,86057,197738,33,Female,Afghanistan,Positive,2238,44.55
+8/17/2023,Facebook,Post_41,Video,307,48,59,75073,19755,45,Male,San Marino,Positive,3717,33.49
+10/11/2023,Instagram,Post_24,Video,832,288,127,83252,101227,25,Other,Ghana,Positive,3612,33.64
+7/25/2023,Instagram,Post_32,Image,429,209,122,10631,86404,50,Male,Cocos (Keeling) Islands,Neutral,4313,22.98
+10/9/2023,Instagram,Post_84,Video,926,242,143,1689,101648,20,Other,Cook Islands,Negative,4129,11.16
+4/1/2023,Facebook,Post_8,Image,795,202,398,69723,90541,37,Female,Reunion,Positive,2944,8.49
+1/9/2023,Facebook,Post_54,Carousel,219,253,152,42595,77780,52,Other,Greenland,Neutral,3959,25.21
+8/2/2023,Instagram,Post_51,Video,583,268,69,67701,45202,19,Female,Cyprus,Neutral,4950,5.27
+8/29/2023,Twitter,Post_82,Text,934,85,235,81342,17649,59,Male,Bhutan,Negative,4616,24.55
+12/14/2023,Twitter,Post_44,Carousel,131,199,447,46557,42491,19,Female,Bouvet Island (Bouvetoya),Negative,2908,17.81
+9/11/2023,Facebook,Post_20,Image,686,127,221,29588,24140,64,Female,Turkmenistan,Neutral,4035,25.23
+10/29/2023,Instagram,Post_92,Image,472,88,398,29534,92530,32,Female,Romania,Negative,4165,18.01
+6/8/2023,Twitter,Post_39,Image,916,281,451,39076,8586,36,Female,Sao Tome and Principe,Positive,4527,27.19
+8/28/2023,Twitter,Post_61,Image,75,146,94,35977,31144,38,Male,South Georgia and the South Sandwich Islands,Negative,2301,25.95
+12/31/2023,Instagram,Post_83,Image,872,39,467,75133,197729,39,Male,Bahrain,Negative,2042,19.05
+7/28/2023,Twitter,Post_32,Video,799,185,185,45331,9244,62,Male,Lebanon,Neutral,4663,30.11
+1/14/2023,Facebook,Post_59,Image,942,265,406,52497,68611,58,Male,Cameroon,Neutral,4339,24.18
+6/14/2023,Facebook,Post_64,Text,423,235,313,93393,46610,46,Female,Reunion,Negative,3756,38.6
+9/10/2023,Facebook,Post_59,Video,856,267,468,84494,60272,45,Female,Australia,Negative,2545,47.62
+9/24/2023,Twitter,Post_1,Image,837,210,187,63455,12138,52,Female,Russian Federation,Neutral,1524,83.14
+12/9/2023,Twitter,Post_63,Text,258,54,256,96063,22021,50,Female,Saint Martin,Neutral,4982,22.84
+3/15/2023,Instagram,Post_11,Carousel,508,112,368,39720,70525,59,Other,Tuvalu,Positive,4455,22.56
+3/8/2023,Twitter,Post_5,Video,837,37,404,20871,7006,60,Male,Iceland,Neutral,2047,17.59
+2/26/2023,Twitter,Post_31,Image,886,202,27,3988,37841,55,Female,Tokelau,Negative,4462,11.79
+5/19/2023,Facebook,Post_73,Text,41,166,329,78234,29874,36,Male,Maldives,Neutral,3814,18.64
+5/25/2023,Facebook,Post_78,Text,525,222,496,95282,60790,21,Female,Belarus,Positive,3040,31.78
+4/4/2023,Twitter,Post_23,Image,969,128,493,58832,29120,65,Female,Finland,Positive,3253,21.43
+2/22/2023,Instagram,Post_36,Image,148,282,260,19882,188922,42,Female,Greece,Positive,1726,31.34
+4/18/2023,Facebook,Post_5,Image,972,252,57,11157,78470,31,Male,El Salvador,Positive,1956,45.86
+5/9/2023,Twitter,Post_96,Carousel,378,154,140,37900,13954,36,Female,Switzerland,Positive,3916,27.96
+7/1/2023,Instagram,Post_56,Text,796,270,23,40496,140599,63,Male,Ireland,Negative,4623,23.34
+10/15/2023,Facebook,Post_14,Text,290,156,66,87274,12023,49,Female,Tuvalu,Negative,2656,28.43
+2/10/2023,Facebook,Post_13,Image,473,78,57,20461,34205,58,Male,Iran,Negative,4904,32.16
+6/16/2023,Instagram,Post_87,Text,239,255,253,87241,144295,47,Male,Hungary,Negative,3986,21.42
+12/23/2023,Facebook,Post_46,Video,474,209,152,65852,10949,40,Female,Netherlands,Negative,3185,22.98
+11/25/2023,Twitter,Post_41,Video,306,275,308,65735,34226,50,Female,Uzbekistan,Negative,4821,24.48
+9/25/2023,Instagram,Post_99,Image,82,61,93,54574,69230,31,Female,Nigeria,Neutral,915,146.67
+7/24/2023,Twitter,Post_32,Video,484,266,142,2437,23694,46,Other,Tajikistan,Neutral,4720,30.78
+6/21/2023,Instagram,Post_20,Image,16,30,132,92150,143281,24,Male,Svalbard & Jan Mayen Islands,Positive,4371,25.69
+8/16/2023,Facebook,Post_41,Text,15,161,287,16793,41955,65,Female,Antigua and Barbuda,Positive,654,47.09
+10/20/2023,Instagram,Post_43,Carousel,685,207,236,82772,39656,33,Other,North Macedonia,Positive,2155,21.16
+5/27/2023,Twitter,Post_1,Image,382,56,226,81193,24841,57,Female,Comoros,Positive,806,109.55
+10/16/2023,Instagram,Post_6,Text,123,272,440,11716,30531,63,Male,Morocco,Negative,3434,20.76
+7/15/2023,Instagram,Post_20,Image,778,240,139,98792,115450,35,Male,Nicaragua,Negative,2269,40.19
+7/30/2023,Twitter,Post_72,Carousel,857,17,491,94250,43063,61,Male,Algeria,Negative,2420,30.62
+2/24/2023,Instagram,Post_51,Image,157,53,389,92107,186765,43,Male,Australia,Negative,4697,23.29
+11/24/2023,Instagram,Post_81,Video,439,110,338,26957,156664,47,Female,Mauritania,Neutral,4263,27.75
+12/9/2023,Twitter,Post_43,Image,271,74,260,88525,36111,44,Male,Algeria,Neutral,4315,31.08
+12/7/2023,Twitter,Post_31,Image,486,279,248,1600,33171,50,Female,Anguilla,Neutral,4868,24.51
+6/13/2023,Instagram,Post_49,Image,662,133,376,13420,173449,55,Other,Colombia,Neutral,1906,52.1
+7/16/2023,Twitter,Post_66,Text,410,91,268,61113,45866,37,Female,Yemen,Negative,4645,9.04
+4/27/2023,Instagram,Post_74,Video,196,58,54,70507,120816,64,Other,Jersey,Negative,4874,9.99
+3/30/2023,Twitter,Post_65,Text,785,77,274,19519,21271,39,Female,Panama,Negative,2268,42.2
+8/14/2023,Twitter,Post_29,Text,610,132,131,67032,38898,65,Female,Holy See (Vatican City State),Neutral,4218,26.72
+10/19/2023,Facebook,Post_23,Carousel,858,11,478,49550,12410,61,Female,Hungary,Neutral,710,199.01
+5/4/2023,Instagram,Post_16,Text,709,250,343,98424,124285,37,Female,Solomon Islands,Neutral,4254,6.79
+3/2/2023,Facebook,Post_99,Text,444,18,190,59511,45446,63,Female,Denmark,Neutral,3881,22.44
+9/13/2023,Facebook,Post_70,Image,340,198,220,94547,25689,63,Other,Jamaica,Neutral,1115,53.99
+7/13/2023,Facebook,Post_70,Carousel,416,274,260,28848,89366,52,Other,Nauru,Positive,1205,108.22
+9/9/2023,Facebook,Post_97,Video,23,189,31,56768,20087,52,Male,Guinea,Neutral,4636,7.87
+1/21/2023,Facebook,Post_87,Text,376,250,195,90491,32085,37,Other,Maldives,Neutral,4537,17.65
+7/11/2023,Instagram,Post_48,Image,242,244,99,89330,97131,52,Male,Greece,Neutral,976,105.53
+4/27/2023,Facebook,Post_100,Image,134,248,438,92940,43252,54,Female,French Guiana,Negative,883,80.97
+8/13/2023,Twitter,Post_74,Carousel,393,258,484,99635,39054,30,Female,Barbados,Negative,1493,78.5
+5/27/2023,Facebook,Post_79,Video,607,120,180,27469,57404,53,Male,Cambodia,Positive,2348,37.39
+6/10/2023,Facebook,Post_28,Carousel,697,124,88,52091,75506,51,Male,Greenland,Neutral,1952,51.95
+9/19/2023,Instagram,Post_91,Text,564,197,83,31339,45092,52,Other,Uzbekistan,Neutral,3908,25.77
+6/10/2023,Facebook,Post_37,Carousel,385,113,96,10599,62338,56,Other,British Indian Ocean Territory (Chagos Archipelago),Neutral,2291,47.1
+4/4/2023,Twitter,Post_51,Text,67,261,350,83919,42817,56,Other,Tajikistan,Neutral,2246,46.39
+4/18/2023,Instagram,Post_13,Carousel,950,0,197,52807,78661,18,Female,Cocos (Keeling) Islands,Neutral,1099,73.43
+2/19/2023,Twitter,Post_48,Carousel,302,214,113,2422,46216,37,Male,Tajikistan,Neutral,1984,51.31
+10/27/2023,Instagram,Post_61,Video,701,267,40,59491,21047,34,Male,Ukraine,Positive,1714,57.06
+10/30/2023,Facebook,Post_82,Image,976,31,96,43471,88615,20,Female,Brazil,Positive,3397,30.09
+8/2/2023,Facebook,Post_57,Image,8,117,407,56554,22358,61,Male,Tanzania,Positive,2797,25.1
+7/28/2023,Facebook,Post_9,Image,51,160,329,17452,93449,63,Other,Christmas Island,Positive,1446,32.92
+12/24/2023,Facebook,Post_62,Image,192,128,249,50580,55152,40,Male,Malta,Negative,3628,19.13
+12/26/2023,Instagram,Post_74,Text,135,77,233,5408,69724,30,Female,Serbia,Negative,2421,40.64
+3/21/2023,Instagram,Post_42,Image,47,121,54,20322,80069,60,Female,Namibia,Negative,866,93.42
+11/2/2023,Facebook,Post_28,Carousel,101,205,51,9510,41320,54,Female,Zimbabwe,Negative,4367,20.04
+8/31/2023,Twitter,Post_80,Carousel,633,52,237,20577,26868,24,Other,French Southern Territories,Negative,1231,95.13
+5/24/2023,Twitter,Post_47,Carousel,386,76,90,10231,35147,31,Female,San Marino,Negative,4717,14.82
+5/7/2023,Twitter,Post_41,Image,362,98,38,9133,40504,51,Male,Cambodia,Negative,3434,17.44
+12/1/2023,Facebook,Post_76,Video,638,152,7,50007,59823,20,Male,Colombia,Negative,2718,40.54
+9/25/2023,Instagram,Post_68,Image,922,186,6,38275,173708,39,Other,Greenland,Negative,2471,33.95
+10/4/2023,Facebook,Post_16,Text,526,179,2,20436,65268,22,Male,Lesotho,Neutral,2393,38.32
+1/16/2023,Twitter,Post_67,Text,660,261,263,70239,26150,65,Other,Qatar,Neutral,3446,21.94
+6/17/2023,Facebook,Post_43,Image,643,150,427,46278,36102,39,Male,Christmas Island,Neutral,1216,77.8
+11/1/2023,Facebook,Post_8,Image,516,228,220,58808,95268,45,Female,Guatemala,Neutral,3873,36.1
+9/21/2023,Instagram,Post_54,Video,617,144,142,26306,143365,30,Female,Gibraltar,Neutral,1153,90.63
+1/1/2023,Instagram,Post_90,Carousel,75,106,431,50972,38467,50,Male,India,Neutral,3926,17.55
+10/3/2023,Twitter,Post_97,Carousel,583,155,389,5009,45366,50,Female,Belarus,Neutral,2197,33.5
+10/22/2023,Facebook,Post_100,Video,760,124,246,14922,35313,60,Other,Czech Republic,Neutral,1076,48.88
+7/17/2023,Twitter,Post_29,Carousel,830,262,478,51687,31353,64,Female,Korea,Neutral,4938,9.4
+10/5/2023,Instagram,Post_11,Carousel,437,11,53,38761,65098,34,Male,Nicaragua,Neutral,3826,26.92
+6/21/2023,Instagram,Post_23,Text,122,37,484,40466,54838,47,Other,Seychelles,Positive,4305,27.62
+4/7/2023,Facebook,Post_44,Carousel,370,14,91,74553,66933,61,Other,Liechtenstein,Positive,3782,33.5
+12/6/2023,Twitter,Post_21,Text,646,258,135,98197,30554,54,Other,Saint Vincent and the Grenadines,Positive,1282,94.46
+6/19/2023,Twitter,Post_12,Carousel,28,32,15,1394,32463,29,Male,Nepal,Negative,913,132.31
+5/20/2023,Twitter,Post_8,Text,319,266,49,36180,25696,61,Other,Greece,Negative,627,163.8
+9/2/2023,Instagram,Post_46,Image,794,121,478,59349,104306,18,Other,Cambodia,Negative,4797,12.84
+4/2/2023,Twitter,Post_29,Image,250,9,141,53203,7855,51,Male,North Macedonia,Positive,1820,42.03
+8/23/2023,Twitter,Post_99,Text,6,60,210,75957,9188,35,Female,Kenya,Negative,1565,53.99
+4/23/2023,Facebook,Post_73,Video,976,227,300,1146,10171,42,Female,Iceland,Negative,1994,29.39
+2/18/2023,Twitter,Post_71,Text,146,61,126,34452,25759,39,Other,Serbia,Neutral,1380,85
+7/16/2023,Twitter,Post_52,Image,265,73,497,30895,17572,32,Female,Malawi,Neutral,3580,33.97
+6/16/2023,Facebook,Post_58,Carousel,65,96,387,32363,85768,55,Male,Cocos (Keeling) Islands,Negative,1854,25.35
+11/17/2023,Facebook,Post_25,Carousel,525,153,458,24258,27878,33,Male,Saint Helena,Negative,4656,12.61
+1/25/2023,Facebook,Post_58,Image,469,210,170,32133,83016,45,Female,Greenland,Negative,4436,18.06
+4/20/2023,Instagram,Post_81,Image,597,188,337,95095,179626,34,Other,Saint Barthelemy,Negative,3816,24.53
+10/12/2023,Twitter,Post_64,Text,828,203,211,92527,21280,42,Male,Chad,Negative,2181,39.16
+4/20/2023,Instagram,Post_48,Video,739,268,347,71786,80069,19,Female,Lithuania,Neutral,4958,21.16
+7/1/2023,Instagram,Post_15,Text,388,155,263,24042,103299,61,Female,Timor-Leste,Neutral,1987,25.77
+12/8/2023,Facebook,Post_54,Image,929,170,409,67202,37894,54,Male,Bhutan,Positive,2117,64.24
+4/18/2023,Instagram,Post_89,Image,120,270,297,52977,101960,31,Male,Somalia,Positive,3841,28.74
+2/15/2023,Instagram,Post_67,Video,765,297,255,42486,99585,49,Male,Indonesia,Negative,4254,22.31
+6/12/2023,Facebook,Post_92,Text,21,246,266,80062,31538,21,Male,Tunisia,Negative,1339,71.02
+1/1/2023,Instagram,Post_47,Text,168,196,221,65710,126716,28,Other,Nicaragua,Neutral,2946,27.12
+6/8/2023,Instagram,Post_51,Text,36,73,11,64587,170922,65,Male,Sao Tome and Principe,Negative,2349,47.89
+11/17/2023,Facebook,Post_86,Carousel,54,25,305,61692,80333,23,Female,Cuba,Negative,3872,15.88
+1/19/2023,Twitter,Post_29,Video,738,151,377,11182,20247,30,Other,Uzbekistan,Negative,576,209.72
+2/19/2023,Twitter,Post_14,Image,338,64,181,30511,49751,54,Other,Zambia,Negative,1121,115.08
+6/19/2023,Twitter,Post_95,Video,535,117,250,27355,16190,61,Male,Oman,Negative,4651,7.83
+10/8/2023,Twitter,Post_19,Text,390,195,375,34067,47916,27,Female,Chile,Negative,4048,13.14
+8/22/2023,Instagram,Post_44,Text,533,57,105,63492,140170,52,Female,China,Negative,1293,116.16
+6/19/2023,Instagram,Post_20,Text,190,265,192,84948,136842,41,Female,Kuwait,Negative,3612,19.96
+3/20/2023,Twitter,Post_43,Video,8,102,244,4270,9476,56,Other,Lao People's Democratic Republic,Neutral,544,269.12
+10/21/2023,Instagram,Post_49,Carousel,250,14,294,28687,59390,47,Male,Algeria,Neutral,2276,7.38
+2/6/2023,Twitter,Post_91,Image,230,106,498,62106,41940,43,Female,Palau,Negative,3980,33.34
+10/28/2023,Facebook,Post_41,Image,249,206,263,35153,47187,65,Female,Iraq,Negative,2402,43.46
+8/10/2023,Twitter,Post_28,Video,331,6,87,12495,10210,51,Female,Zambia,Neutral,4035,14.2
+12/10/2023,Facebook,Post_13,Image,247,236,325,54200,34726,62,Female,Peru,Positive,1738,17.09
+1/20/2023,Twitter,Post_87,Video,385,40,90,64110,45905,20,Male,Macao,Negative,2045,34.43
+12/18/2023,Twitter,Post_68,Image,98,79,233,66588,9071,42,Male,Switzerland,Negative,2057,49.73
+5/24/2023,Twitter,Post_9,Video,860,283,286,38650,20161,23,Male,Palau,Neutral,1597,64.62
+11/14/2023,Twitter,Post_44,Video,681,284,96,25636,33229,28,Other,Martinique,Neutral,4972,24.24
+1/19/2023,Twitter,Post_2,Carousel,230,268,381,33607,23586,30,Female,Gibraltar,Neutral,4224,15.29
+11/4/2023,Twitter,Post_66,Carousel,85,250,153,76237,8705,33,Male,Kuwait,Neutral,1635,65.93
+11/22/2023,Instagram,Post_92,Video,181,39,127,29871,69199,43,Other,Monaco,Neutral,4398,15.85
+2/2/2023,Twitter,Post_71,Video,468,169,342,51734,10843,33,Male,Liechtenstein,Neutral,4351,12.32
+4/16/2023,Facebook,Post_63,Image,682,212,322,63105,62544,57,Female,Saint Martin,Neutral,1392,68.61
+10/4/2023,Twitter,Post_76,Video,570,264,252,82015,9848,42,Male,Suriname,Neutral,1574,62.96
+7/14/2023,Facebook,Post_19,Image,961,81,417,25734,74221,20,Other,Malaysia,Neutral,1755,55.67
+10/19/2023,Twitter,Post_32,Video,760,214,421,52513,38427,26,Other,Mali,Positive,4164,29.23
+2/10/2023,Facebook,Post_75,Video,247,86,232,68118,30856,63,Female,Ecuador,Positive,3665,13.7
+3/21/2023,Facebook,Post_89,Carousel,581,140,80,22001,83888,33,Male,Sweden,Positive,2730,41.28
+6/18/2023,Instagram,Post_62,Image,33,71,83,91562,76654,36,Other,Antigua and Barbuda,Negative,2743,43.89
+2/24/2023,Twitter,Post_83,Carousel,464,180,403,14424,38165,46,Other,Monaco,Positive,1219,111.81
+5/5/2023,Twitter,Post_21,Image,924,95,128,23988,34452,59,Other,Switzerland,Negative,3940,9.72
+4/21/2023,Facebook,Post_36,Carousel,971,17,384,55932,63945,37,Other,Falkland Islands (Malvinas),Negative,1938,39.27
+10/7/2023,Instagram,Post_69,Carousel,24,124,469,34971,22180,19,Other,Czech Republic,Neutral,4039,13.52
+3/11/2023,Twitter,Post_8,Carousel,166,17,396,75349,5781,49,Female,Western Sahara,Negative,4705,19.55
+12/16/2023,Twitter,Post_69,Text,328,255,252,6447,10816,56,Male,Romania,Negative,1380,89.86
+3/17/2023,Instagram,Post_70,Text,788,44,88,88749,120242,37,Male,Malta,Neutral,1387,26.24
+7/25/2023,Facebook,Post_40,Text,102,299,93,29704,82601,26,Female,Tokelau,Neutral,3903,10.43
+10/6/2023,Instagram,Post_9,Image,550,127,417,7895,103296,26,Male,Lao People's Democratic Republic,Neutral,2056,18.48
+4/19/2023,Facebook,Post_82,Text,454,290,317,34008,95115,53,Other,Austria,Negative,1161,113.7
+10/22/2023,Facebook,Post_7,Image,780,195,353,6571,95014,22,Female,Chile,Negative,1159,66.61
+6/2/2023,Instagram,Post_37,Image,303,127,327,50786,160172,47,Male,Peru,Positive,3228,40.43
+1/5/2023,Instagram,Post_20,Image,668,234,476,87123,120961,45,Other,North Macedonia,Positive,2877,45.32
+6/17/2023,Instagram,Post_6,Video,21,160,377,83205,175112,18,Other,Saint Martin,Negative,3499,24.09
+3/29/2023,Instagram,Post_56,Carousel,692,145,306,22702,90391,39,Male,Palestinian Territory,Positive,2074,24.3
+7/9/2023,Facebook,Post_94,Text,788,130,291,40602,77018,52,Other,Gabon,Neutral,1783,33.65
+11/14/2023,Instagram,Post_69,Video,131,285,200,32392,135504,23,Other,Turkmenistan,Negative,4631,6.89
+7/23/2023,Facebook,Post_77,Image,467,166,376,10608,66747,45,Other,Bermuda,Negative,3326,9.98
+1/9/2023,Facebook,Post_84,Text,539,64,47,63369,47813,45,Female,Netherlands Antilles,Negative,2912,37.53
+5/29/2023,Facebook,Post_63,Video,534,197,474,73746,61072,30,Female,Pitcairn Islands,Negative,2352,19.81
+6/14/2023,Instagram,Post_80,Text,501,248,61,68914,190109,34,Male,Benin,Negative,4212,24.41
+4/5/2023,Instagram,Post_13,Video,699,218,234,65694,128197,20,Other,Netherlands,Negative,894,89.37
+4/20/2023,Facebook,Post_31,Text,258,88,482,65813,86296,65,Female,Tanzania,Negative,4040,18
+1/2/2023,Facebook,Post_44,Carousel,345,74,308,56412,15732,47,Male,Serbia,Negative,4090,12.15
+11/9/2023,Twitter,Post_56,Video,144,198,490,73079,18069,60,Female,Pitcairn Islands,Negative,2267,54.57
+2/4/2023,Instagram,Post_27,Carousel,371,290,170,35355,129612,27,Female,Andorra,Negative,4189,25.38
+11/14/2023,Instagram,Post_41,Video,246,7,102,53511,136009,64,Male,Russian Federation,Negative,4868,24.1
+12/25/2023,Instagram,Post_59,Video,57,97,321,88603,186510,61,Other,Tanzania,Negative,4267,23.88
+10/26/2023,Twitter,Post_2,Text,398,189,192,82473,20619,34,Female,Portugal,Negative,4079,14.1
+4/30/2023,Facebook,Post_4,Video,165,124,367,56558,62150,19,Female,Zambia,Negative,1478,33.22
+11/22/2023,Instagram,Post_74,Text,91,297,379,8790,24278,60,Female,Cape Verde,Negative,2758,19.51
+12/17/2023,Twitter,Post_94,Image,160,190,166,37008,31696,58,Other,Jamaica,Positive,4502,20.1
+11/11/2023,Instagram,Post_58,Text,515,127,208,63257,100613,40,Male,Mali,Negative,3174,13.8
+6/24/2023,Instagram,Post_7,Image,817,47,325,77371,79138,37,Female,Burundi,Negative,3268,30.81
+2/19/2023,Instagram,Post_94,Image,538,223,478,56449,38612,39,Female,Cayman Islands,Neutral,2750,22.73
+9/24/2023,Facebook,Post_73,Carousel,660,104,23,44388,66294,33,Male,Romania,Neutral,2162,34.37
+2/17/2023,Twitter,Post_98,Text,506,132,371,35979,23673,31,Female,Eritrea,Negative,563,86.68
+1/18/2023,Twitter,Post_48,Image,719,230,54,63261,5713,30,Other,Turkey,Negative,2190,23.97
+11/16/2023,Twitter,Post_66,Video,515,133,78,89831,15467,27,Female,Faroe Islands,Negative,2784,33.62
+5/16/2023,Instagram,Post_44,Text,36,172,433,85147,91459,45,Male,Saint Pierre and Miquelon,Positive,1340,67.31
+11/27/2023,Facebook,Post_54,Text,495,136,461,55990,63364,24,Male,Cyprus,Positive,3062,17.24
+9/21/2023,Facebook,Post_13,Carousel,767,35,293,66682,13487,54,Female,Oman,Positive,4951,9.45
+11/18/2023,Facebook,Post_31,Text,407,24,271,73243,55277,31,Female,Ukraine,Negative,1782,40.07
+8/21/2023,Facebook,Post_18,Carousel,140,161,225,85511,48139,45,Male,Guam,Neutral,2114,55.53
+2/10/2023,Instagram,Post_51,Image,575,182,427,13993,28410,57,Female,Niue,Negative,1849,55.49
+7/24/2023,Facebook,Post_86,Carousel,116,68,93,87693,73431,55,Other,Equatorial Guinea,Negative,1579,56.87
+4/6/2023,Instagram,Post_34,Video,694,37,500,41182,82447,28,Other,Armenia,Negative,4574,11.76
+1/16/2023,Facebook,Post_89,Text,872,80,5,11781,68492,26,Other,Japan,Negative,3128,9.94
+2/25/2023,Twitter,Post_75,Image,806,268,99,57024,38744,20,Other,Jordan,Negative,3716,19.16
+12/9/2023,Twitter,Post_53,Video,173,264,172,9582,44565,49,Other,Faroe Islands,Positive,3383,36.3
+2/6/2023,Facebook,Post_55,Video,826,242,307,10016,30845,23,Male,Slovakia (Slovak Republic),Positive,863,90.38
+3/20/2023,Twitter,Post_38,Image,855,105,324,72714,31832,28,Male,Northern Mariana Islands,Negative,3191,38.83
+11/28/2023,Instagram,Post_60,Text,310,297,349,20722,59545,21,Female,France,Negative,4297,24.13
+9/6/2023,Facebook,Post_70,Image,743,165,250,34566,71072,58,Other,France,Negative,4410,10.05
+5/22/2023,Facebook,Post_56,Text,149,212,367,64195,89401,31,Other,Italy,Negative,4037,33.79
+8/18/2023,Facebook,Post_11,Image,255,217,426,73539,48755,58,Other,Uzbekistan,Negative,4000,21.5
+12/27/2023,Twitter,Post_30,Text,859,10,380,80625,17791,58,Other,Israel,Positive,701,204.14
+7/3/2023,Facebook,Post_25,Image,983,292,194,4708,22081,41,Male,Mauritania,Positive,1807,33.48
+10/14/2023,Twitter,Post_68,Carousel,935,47,474,24108,47298,54,Male,Svalbard & Jan Mayen Islands,Positive,2251,62.86
+11/9/2023,Facebook,Post_14,Video,548,183,260,51935,85030,34,Other,Taiwan,Positive,1951,76.73
+9/10/2023,Instagram,Post_27,Video,706,53,172,1840,55307,25,Other,American Samoa,Positive,4945,16.4
+4/10/2023,Facebook,Post_62,Text,195,204,154,67571,79008,20,Female,Nicaragua,Positive,1979,40.93
+5/11/2023,Facebook,Post_74,Text,234,9,465,7639,43897,50,Other,Micronesia,Positive,4634,2.14
+4/15/2023,Facebook,Post_10,Image,843,83,424,88091,86011,50,Male,France,Positive,3928,13.87
+5/3/2023,Instagram,Post_40,Video,580,188,92,24261,191185,56,Other,Burkina Faso,Positive,2050,44.88
+3/24/2023,Facebook,Post_72,Video,663,219,436,22457,68341,29,Other,Sweden,Positive,1451,63.34
+6/13/2023,Facebook,Post_33,Carousel,561,165,398,28833,24695,57,Female,Mongolia,Positive,3642,17.19
+3/29/2023,Facebook,Post_4,Carousel,295,274,486,72581,51868,23,Other,Bahamas,Negative,2316,44.21
+5/26/2023,Facebook,Post_37,Video,80,283,136,62771,75896,48,Other,Dominica,Neutral,4571,13.7
+11/4/2023,Twitter,Post_5,Image,105,289,494,90055,21411,42,Other,Solomon Islands,Neutral,4135,31.75
+12/11/2023,Instagram,Post_18,Text,655,228,137,47077,166492,58,Other,Thailand,Neutral,975,97.13
+1/21/2023,Twitter,Post_43,Carousel,914,274,233,13650,27576,46,Other,Libyan Arab Jamahiriya,Positive,1424,30.97
+7/6/2023,Instagram,Post_98,Carousel,860,205,109,48794,57180,32,Other,Bouvet Island (Bouvetoya),Negative,2620,51.37
+5/26/2023,Instagram,Post_38,Video,828,294,347,79120,187151,64,Female,Guinea,Negative,2709,35.14
+11/28/2023,Facebook,Post_30,Carousel,267,245,129,10141,98483,43,Female,Romania,Positive,2608,39.95
+11/24/2023,Instagram,Post_60,Video,998,163,215,27316,108973,47,Male,Bermuda,Positive,4752,9.05
+1/3/2023,Twitter,Post_12,Text,897,117,269,76031,37226,34,Other,Bermuda,Positive,4883,9.38
+1/28/2023,Instagram,Post_73,Image,797,107,275,77632,143979,45,Female,Gambia,Positive,4443,27.05
+10/13/2023,Facebook,Post_88,Carousel,982,101,276,49136,24140,39,Male,Madagascar,Negative,4753,20.03
+8/1/2023,Instagram,Post_57,Text,804,136,315,91520,108073,59,Other,Guatemala,Negative,3415,35.4
+8/5/2023,Facebook,Post_17,Video,454,243,299,7080,68603,24,Male,Netherlands,Neutral,2133,41.49
+7/5/2023,Facebook,Post_93,Text,28,201,165,37473,30397,49,Male,Saudi Arabia,Negative,525,189.9
+12/18/2023,Twitter,Post_3,Carousel,276,28,295,3354,45537,52,Male,Honduras,Negative,3458,23.42
+9/6/2023,Twitter,Post_47,Video,900,285,472,24032,21953,22,Female,Palau,Negative,1963,50.13
+12/20/2023,Instagram,Post_6,Carousel,56,257,325,57907,101960,64,Male,Hungary,Neutral,4484,28.12
+11/30/2023,Instagram,Post_25,Image,144,69,98,59325,151544,45,Male,French Polynesia,Neutral,3784,24.55
+4/8/2023,Facebook,Post_8,Image,635,163,390,95823,78453,21,Male,Paraguay,Neutral,3799,11.53
+1/17/2023,Instagram,Post_30,Carousel,510,188,272,36190,143531,60,Male,Saint Lucia,Neutral,4700,4.13
+4/4/2023,Instagram,Post_6,Video,465,147,345,59767,89100,39,Male,Kyrgyz Republic,Neutral,2582,42.22
+1/23/2023,Twitter,Post_10,Carousel,952,155,345,57867,14409,30,Female,United Arab Emirates,Neutral,1929,21.31
+2/18/2023,Instagram,Post_88,Image,520,170,4,20427,57641,23,Male,Saint Helena,Positive,3980,16.33
+2/28/2023,Twitter,Post_76,Image,705,56,317,83447,45932,26,Male,New Caledonia,Positive,3291,48.74
+9/14/2023,Twitter,Post_89,Video,315,184,416,94920,46180,57,Other,Uruguay,Positive,4611,9.46
+7/2/2023,Instagram,Post_79,Image,670,96,429,98874,190069,57,Female,Malaysia,Positive,3264,22.76
+1/5/2023,Facebook,Post_26,Image,641,263,41,58031,58654,22,Male,Djibouti,Positive,2525,33.11
+2/9/2023,Facebook,Post_80,Carousel,177,34,120,93357,85280,31,Male,Uganda,Neutral,1273,118.3
+3/4/2023,Instagram,Post_38,Carousel,480,252,245,60997,92236,33,Other,Iran,Negative,3393,25.7
+5/6/2023,Facebook,Post_14,Text,130,248,70,94874,15607,46,Male,Rwanda,Negative,3003,23.04
+12/31/2023,Instagram,Post_37,Video,443,106,459,56641,108753,20,Male,Bosnia and Herzegovina,Negative,3961,23.13
+6/2/2023,Instagram,Post_27,Text,235,157,34,81109,96661,42,Male,Bouvet Island (Bouvetoya),Negative,4671,13.12
+7/7/2023,Twitter,Post_19,Video,27,157,302,90315,42302,62,Other,Myanmar,Negative,3443,24.28
+3/5/2023,Instagram,Post_58,Image,642,104,456,33708,69401,28,Male,Guam,Negative,4402,12.84
+2/19/2023,Instagram,Post_99,Carousel,349,202,323,68492,59927,50,Male,Cameroon,Neutral,957,56.95
+11/24/2023,Instagram,Post_99,Text,261,127,291,66664,144763,41,Male,Mauritania,Neutral,4339,11.06
+2/19/2023,Twitter,Post_22,Video,448,279,44,53444,11177,40,Other,Zambia,Neutral,3430,17.76
+3/25/2023,Twitter,Post_88,Text,356,186,452,93767,23565,24,Other,Costa Rica,Neutral,3914,19.49
+2/3/2023,Twitter,Post_98,Carousel,927,40,292,66949,41081,62,Female,Swaziland,Neutral,4192,32.73
+8/15/2023,Instagram,Post_77,Text,350,180,107,73492,39047,57,Male,Kiribati,Positive,2827,22.89
+2/12/2023,Twitter,Post_13,Image,134,151,244,84134,7838,56,Other,Afghanistan,Negative,1628,73.77
+3/17/2023,Twitter,Post_29,Carousel,219,272,340,95241,31652,43,Male,Slovenia,Negative,4375,6.26
+12/6/2023,Instagram,Post_61,Image,569,210,104,1142,102305,30,Female,Venezuela,Negative,1307,26.78
+3/21/2023,Facebook,Post_5,Carousel,277,146,303,47882,62264,21,Other,San Marino,Neutral,1888,75.69
+6/19/2023,Instagram,Post_12,Video,969,233,443,77810,172475,60,Other,Hong Kong,Neutral,2009,33.3
+1/1/2023,Facebook,Post_91,Video,738,243,6,16359,50117,37,Male,Cayman Islands,Positive,573,45.2
+6/22/2023,Twitter,Post_9,Video,346,90,88,55802,33904,62,Female,Saint Martin,Positive,1937,30.72
+2/20/2023,Instagram,Post_33,Image,912,124,57,74471,116018,22,Other,British Indian Ocean Territory (Chagos Archipelago),Positive,2959,42.75
+5/16/2023,Twitter,Post_22,Text,752,206,449,40328,27255,52,Male,Korea,Neutral,4598,17.55
+3/21/2023,Instagram,Post_93,Video,388,154,442,78825,146214,37,Female,Philippines,Neutral,3701,33.61
+8/10/2023,Facebook,Post_25,Video,737,259,476,53952,93468,49,Female,Guinea-Bissau,Negative,2426,41.43
+11/16/2023,Facebook,Post_35,Image,574,174,347,58079,32510,30,Male,Madagascar,Negative,1603,64.19
+1/28/2023,Instagram,Post_72,Video,218,4,267,95354,103277,27,Other,Sweden,Negative,4071,26.46
+2/10/2023,Twitter,Post_69,Carousel,209,178,433,71001,28017,54,Male,Saint Helena,Neutral,2485,28.57
+4/7/2023,Twitter,Post_62,Text,329,254,475,54903,20240,30,Male,Isle of Man,Positive,2383,43.26
+9/8/2023,Twitter,Post_91,Video,353,5,23,28669,11265,63,Female,Kuwait,Negative,4589,6.8
+12/22/2023,Twitter,Post_71,Video,184,126,251,27457,10262,28,Male,Lesotho,Negative,757,133.03
+2/5/2023,Twitter,Post_47,Text,807,195,298,41194,42600,49,Male,Latvia,Negative,3072,24.38
+7/17/2023,Instagram,Post_23,Video,285,174,389,83838,169303,35,Female,Paraguay,Negative,2209,45.77
+8/19/2023,Facebook,Post_99,Text,123,209,469,51822,32536,26,Male,Belarus,Negative,2004,16.82
+12/17/2023,Twitter,Post_10,Image,437,174,147,73470,21007,40,Other,Saint Barthelemy,Negative,3629,23.73
+6/1/2023,Facebook,Post_15,Image,10,44,228,19379,92647,50,Other,Norway,Negative,4666,21.69
+8/10/2023,Instagram,Post_6,Carousel,762,181,283,34563,111145,21,Other,Chad,Negative,3579,6.31
+7/18/2023,Instagram,Post_5,Carousel,270,280,105,66365,167117,36,Other,Western Sahara,Neutral,4929,14.63
+10/22/2023,Twitter,Post_69,Text,762,146,75,61269,31667,24,Female,Micronesia,Positive,635,34.65
+3/15/2023,Twitter,Post_9,Video,605,259,29,39657,19578,51,Female,Gibraltar,Positive,4337,15.24
+12/29/2023,Instagram,Post_44,Carousel,185,188,260,27519,114432,58,Other,Antigua and Barbuda,Positive,3634,27.33
+9/22/2023,Instagram,Post_31,Video,186,141,206,85711,158634,38,Other,French Guiana,Positive,1872,41.56
+9/23/2023,Instagram,Post_61,Video,422,236,418,36462,94049,23,Female,Malaysia,Negative,1035,121.93
+12/13/2023,Facebook,Post_88,Video,381,195,325,94430,83744,28,Other,Togo,Negative,4183,7.63
+4/15/2023,Twitter,Post_81,Carousel,622,64,475,92356,36119,45,Male,Eritrea,Negative,4134,32.75
+12/11/2023,Instagram,Post_41,Video,311,162,445,92882,175949,58,Other,Zimbabwe,Negative,3888,24.18
+1/4/2023,Facebook,Post_38,Text,828,159,112,11973,39804,60,Other,Burundi,Positive,1286,47.05
+12/31/2023,Instagram,Post_100,Carousel,570,85,449,93245,120073,33,Male,Sweden,Positive,989,32.46
+12/24/2023,Instagram,Post_57,Image,662,54,137,34610,171849,46,Male,Panama,Positive,915,166.01
+8/16/2023,Twitter,Post_32,Image,718,137,387,29480,29120,24,Female,Switzerland,Negative,1870,62.46
+5/5/2023,Instagram,Post_68,Image,903,212,82,91141,186561,59,Other,Portugal,Negative,4321,23.54
+8/10/2023,Twitter,Post_95,Text,160,128,220,56507,37841,37,Female,Sao Tome and Principe,Negative,4363,15.56
+10/24/2023,Instagram,Post_77,Image,288,39,401,14732,197550,20,Male,Isle of Man,Positive,1207,103.07
+10/15/2023,Twitter,Post_96,Image,795,158,446,14890,40504,47,Other,Antarctica (the territory South of 60 deg S),Negative,4469,23.97
+10/21/2023,Facebook,Post_9,Image,617,234,32,89522,16460,30,Male,Equatorial Guinea,Negative,1242,88.16
+4/5/2023,Twitter,Post_6,Video,52,194,30,54961,41457,43,Female,Belgium,Negative,3061,16.66
+7/30/2023,Instagram,Post_94,Image,386,2,488,71173,35028,21,Female,Central African Republic,Negative,3629,37.78
+5/10/2023,Facebook,Post_23,Text,868,172,8,18579,17618,20,Female,Bolivia,Negative,2450,12.33
+4/3/2023,Twitter,Post_65,Text,568,68,75,70205,28017,54,Other,Mauritania,Negative,4435,14.36
+10/7/2023,Facebook,Post_91,Video,675,198,359,16356,47268,58,Male,Bulgaria,Negative,2720,15.88
+7/5/2023,Instagram,Post_37,Image,338,31,243,46094,155492,36,Other,Croatia,Negative,3069,23.82
+1/2/2023,Instagram,Post_51,Text,198,188,105,43451,197490,26,Female,Montenegro,Negative,4709,2.17
+12/11/2023,Twitter,Post_37,Video,63,218,225,91649,45121,26,Male,Antigua and Barbuda,Negative,1104,42.75
+10/24/2023,Facebook,Post_99,Image,373,80,258,72516,45877,40,Female,United States Virgin Islands,Negative,2856,24.72
+4/3/2023,Facebook,Post_96,Text,923,137,217,55845,36165,29,Male,Namibia,Negative,825,55.39
+6/29/2023,Twitter,Post_44,Image,482,119,297,23060,14285,49,Male,Mali,Negative,3616,26.91
+12/6/2023,Instagram,Post_12,Carousel,865,92,309,51669,58745,53,Male,Heard Island and McDonald Islands,Negative,982,84.52
+9/3/2023,Instagram,Post_25,Text,792,32,463,16870,88272,39,Other,Faroe Islands,Negative,851,167.45
+4/19/2023,Instagram,Post_52,Text,767,260,427,2613,185827,64,Other,Luxembourg,Neutral,1223,91.33
+7/31/2023,Twitter,Post_75,Carousel,135,32,76,15245,5909,50,Other,Christmas Island,Positive,4158,28.98
+10/26/2023,Facebook,Post_96,Image,233,156,324,64720,47063,25,Other,Netherlands Antilles,Positive,1622,38.59
+3/29/2023,Facebook,Post_19,Image,451,223,173,32719,82142,48,Other,Turks and Caicos Islands,Positive,4354,7.76
+3/18/2023,Twitter,Post_8,Text,829,258,35,31388,39770,42,Male,Chile,Positive,2221,65.47
+1/7/2023,Twitter,Post_19,Text,701,247,63,37970,9176,29,Male,Kuwait,Negative,4016,16.63
+8/30/2023,Facebook,Post_89,Carousel,706,36,385,67793,57036,55,Female,Honduras,Neutral,2430,21.23
+4/20/2023,Twitter,Post_9,Image,259,7,338,50801,33694,32,Male,Albania,Neutral,3736,29.87
+12/26/2023,Facebook,Post_100,Image,904,11,90,1230,75790,58,Other,Morocco,Neutral,2830,45.09
+7/19/2023,Twitter,Post_99,Video,224,244,101,6063,49311,31,Male,El Salvador,Negative,4138,24.43
+1/7/2023,Facebook,Post_43,Carousel,416,79,178,97212,44765,22,Male,Israel,Negative,3619,16.5
+2/24/2023,Facebook,Post_77,Video,390,275,412,90934,21614,44,Other,French Polynesia,Negative,3961,19.26
+5/10/2023,Instagram,Post_48,Carousel,591,147,424,84922,148311,45,Other,Comoros,Neutral,2659,49.91
+8/2/2023,Instagram,Post_51,Carousel,455,113,393,84291,101648,57,Male,Guyana,Neutral,3206,41.58
+2/24/2023,Instagram,Post_20,Text,797,262,132,72608,174119,30,Male,Bangladesh,Neutral,4072,29.84
+6/19/2023,Twitter,Post_66,Image,761,0,443,7645,43184,25,Female,Palau,Neutral,4432,14.26
+11/12/2023,Instagram,Post_52,Image,694,197,187,45317,183245,58,Male,Zimbabwe,Neutral,1674,61.29
+6/28/2023,Twitter,Post_99,Carousel,959,182,219,27746,15906,35,Female,Australia,Negative,1536,66.86
+2/3/2023,Facebook,Post_55,Text,639,239,190,59145,84729,50,Female,Egypt,Negative,3221,43.93
+12/15/2023,Instagram,Post_81,Video,575,233,340,46394,139448,20,Female,Tanzania,Negative,2489,19.93
+10/25/2023,Instagram,Post_40,Image,33,104,384,91979,61800,53,Female,Taiwan,Positive,929,106.24
+3/2/2023,Twitter,Post_59,Text,726,115,387,81778,5647,23,Female,Cyprus,Positive,4711,11.82
+10/15/2023,Instagram,Post_12,Video,190,200,305,25695,182636,42,Other,Kiribati,Positive,573,138.39
+2/11/2023,Instagram,Post_20,Text,619,123,342,10496,174554,38,Female,Japan,Positive,4770,13.06
+10/19/2023,Twitter,Post_59,Carousel,824,102,67,9873,10429,58,Other,Mongolia,Positive,1919,22.41
+5/9/2023,Instagram,Post_16,Video,483,263,51,89355,87770,55,Male,Niger,Positive,1782,42.93
+12/17/2023,Twitter,Post_50,Carousel,277,181,442,6987,28676,26,Female,Algeria,Negative,2690,54.72
+7/6/2023,Twitter,Post_35,Text,865,68,137,79714,33824,47,Male,Senegal,Positive,1863,57.6
+1/10/2023,Facebook,Post_92,Text,383,10,174,81458,13078,48,Other,Poland,Positive,4892,19.05
+7/5/2023,Twitter,Post_93,Text,437,133,130,57941,43942,55,Other,Turkey,Positive,997,56.17
+2/5/2023,Instagram,Post_8,Text,173,225,43,61811,80470,40,Female,Bhutan,Negative,3243,27.51
+2/24/2023,Twitter,Post_15,Image,293,113,359,27024,13893,43,Other,Guinea-Bissau,Positive,3559,21.35
+5/9/2023,Instagram,Post_88,Image,313,290,128,58061,74671,61,Other,Pakistan,Neutral,4195,20.36
+10/24/2023,Twitter,Post_27,Text,463,208,73,30536,35377,65,Other,Colombia,Negative,2542,18.49
+6/17/2023,Facebook,Post_51,Image,262,280,224,21005,63621,61,Female,Uruguay,Negative,3820,33.01
+10/13/2023,Twitter,Post_33,Video,595,21,457,10666,46716,55,Female,Spain,Negative,4722,23.17
+5/7/2023,Facebook,Post_89,Text,159,118,484,80842,33412,34,Female,Germany,Negative,3278,26.36
+10/1/2023,Instagram,Post_9,Text,540,146,161,94132,127631,46,Other,Svalbard & Jan Mayen Islands,Negative,4213,2.52
+7/1/2023,Facebook,Post_92,Video,761,279,198,40354,14811,23,Other,Suriname,Negative,2269,35.35
+3/26/2023,Instagram,Post_51,Image,398,141,276,53231,191245,45,Female,Suriname,Negative,1954,53.79
+9/25/2023,Twitter,Post_47,Carousel,91,193,475,38759,20655,29,Other,Turkey,Negative,1687,75.76
+5/15/2023,Twitter,Post_27,Image,602,220,259,2380,23056,19,Male,Bahrain,Neutral,1777,67.3
+1/21/2023,Facebook,Post_69,Carousel,545,271,288,37147,58341,49,Male,Lithuania,Neutral,1960,41.53
+8/17/2023,Instagram,Post_82,Carousel,999,41,344,10410,61095,37,Female,Suriname,Neutral,4264,22.07
+6/18/2023,Facebook,Post_24,Video,619,234,269,27480,45266,48,Other,United Kingdom,Neutral,1210,79.01
+6/19/2023,Instagram,Post_60,Video,10,152,333,69867,84730,57,Female,Aruba,Positive,1104,127.72
+10/5/2023,Facebook,Post_71,Carousel,666,265,164,24835,11930,31,Male,Bangladesh,Positive,3220,36.71
+3/1/2023,Twitter,Post_42,Text,219,123,256,84852,29266,54,Other,Comoros,Neutral,4099,23.49
+10/15/2023,Facebook,Post_36,Carousel,517,104,44,50632,97720,29,Female,Marshall Islands,Neutral,1593,93.35
+8/12/2023,Facebook,Post_52,Video,405,294,430,91243,34726,33,Female,United States Minor Outlying Islands,Neutral,3421,30.58
+2/11/2023,Twitter,Post_34,Carousel,12,120,488,2284,7797,61,Male,Latvia,Negative,1100,80.45
+12/16/2023,Facebook,Post_15,Image,220,109,3,54762,40968,50,Male,United States Virgin Islands,Negative,3113,24.83
+9/7/2023,Instagram,Post_69,Image,805,6,332,92102,197586,53,Other,Monaco,Negative,744,63.44
+1/11/2023,Instagram,Post_17,Video,597,50,381,48335,23709,45,Other,Kazakhstan,Positive,2217,32.43
+12/28/2023,Instagram,Post_16,Image,307,19,303,45136,59728,62,Female,Anguilla,Positive,2589,36
+1/9/2023,Twitter,Post_19,Image,912,33,4,98974,22319,49,Female,Mali,Positive,1436,73.68
+7/29/2023,Facebook,Post_72,Image,848,289,11,57855,42755,46,Other,Belgium,Positive,696,145.69
+11/23/2023,Instagram,Post_41,Video,599,148,141,8851,104306,63,Other,Honduras,Negative,2624,30.11
+4/29/2023,Twitter,Post_52,Image,490,67,253,91141,47313,37,Other,Mayotte,Neutral,3840,26.3
+11/25/2023,Twitter,Post_73,Video,738,41,144,24078,41133,54,Male,Puerto Rico,Neutral,2478,5.21
+3/19/2023,Instagram,Post_82,Text,603,300,379,95314,175785,43,Male,Canada,Neutral,3238,20.26
+8/24/2023,Instagram,Post_92,Image,119,299,469,79596,48238,56,Other,Jersey,Neutral,4441,14.07
+4/21/2023,Facebook,Post_46,Image,934,208,52,70284,72677,44,Female,Botswana,Neutral,1485,35.49
+5/9/2023,Instagram,Post_85,Text,274,199,186,53485,139327,48,Female,Zimbabwe,Negative,3323,33.89
+4/22/2023,Facebook,Post_34,Carousel,993,4,243,52779,63742,42,Male,Saint Vincent and the Grenadines,Negative,3070,21.86
+12/29/2023,Facebook,Post_6,Image,949,46,391,77094,19007,60,Other,Switzerland,Negative,1074,95.62
+2/28/2023,Instagram,Post_42,Carousel,104,235,95,63870,115595,23,Male,Syrian Arab Republic,Negative,1568,58.29
+7/1/2023,Facebook,Post_40,Video,807,231,179,39464,31679,40,Other,Seychelles,Negative,1116,61.38
+5/13/2023,Twitter,Post_85,Image,651,122,158,95096,33511,43,Other,Brazil,Negative,3896,26.44
+5/4/2023,Twitter,Post_90,Video,561,252,465,57835,40248,48,Female,Ecuador,Negative,2138,56.55
+9/13/2023,Twitter,Post_11,Carousel,878,149,109,70490,8007,24,Male,Bouvet Island (Bouvetoya),Positive,3254,24.86
+4/18/2023,Twitter,Post_61,Carousel,784,7,403,74276,23558,61,Male,Ghana,Positive,2272,45.47
+3/28/2023,Facebook,Post_42,Carousel,845,144,383,31481,52413,30,Male,Romania,Positive,3520,15.54
+9/26/2023,Instagram,Post_83,Carousel,469,150,250,94379,142077,57,Female,Guadeloupe,Positive,2811,40.52
+1/13/2023,Instagram,Post_46,Video,486,130,99,76494,194514,64,Female,Saudi Arabia,Positive,2804,51.18
+9/12/2023,Twitter,Post_81,Text,56,47,325,25291,13387,24,Female,Mayotte,Positive,3663,13.9
+12/5/2023,Twitter,Post_25,Video,770,186,336,20978,7052,56,Male,Niue,Positive,1614,65.99
+11/6/2023,Facebook,Post_6,Image,245,79,169,87935,42409,41,Other,Jamaica,Positive,2255,48.43
+3/29/2023,Facebook,Post_70,Video,681,16,131,87875,21214,35,Female,Djibouti,Positive,3968,3.76
+7/21/2023,Facebook,Post_81,Text,632,170,98,38526,60279,19,Male,Mauritania,Positive,4711,28.1
+4/18/2023,Instagram,Post_51,Text,478,150,494,68004,173822,57,Male,Bhutan,Positive,4620,29.65
+9/13/2023,Twitter,Post_67,Video,490,241,33,76238,46819,18,Other,Belgium,Positive,2357,30
+12/3/2023,Twitter,Post_29,Image,245,89,417,83258,49582,25,Other,Oman,Positive,4281,10.77
+11/16/2023,Twitter,Post_22,Image,835,164,365,47623,16809,25,Female,Denmark,Neutral,3518,10.23
+4/29/2023,Facebook,Post_65,Video,649,207,166,41545,80771,50,Female,Anguilla,Negative,3867,9.15
+1/16/2023,Facebook,Post_90,Image,644,160,437,78108,86993,47,Female,Tuvalu,Negative,1609,36.98
+4/5/2023,Facebook,Post_8,Image,64,292,490,68735,75769,31,Other,Eritrea,Negative,2827,34.98
+2/25/2023,Facebook,Post_66,Image,438,230,192,65929,61166,58,Female,Maldives,Positive,1023,162.85
+11/16/2023,Twitter,Post_40,Text,183,95,203,88567,38958,41,Female,Ukraine,Neutral,1448,54.07
+1/20/2023,Instagram,Post_97,Carousel,742,123,113,70755,183781,46,Other,Nigeria,Neutral,2840,35.92
+2/10/2023,Facebook,Post_97,Text,82,243,270,61630,75645,30,Male,Somalia,Neutral,666,162.91
+12/21/2023,Facebook,Post_73,Text,192,157,455,58843,29388,61,Female,Bahamas,Neutral,1230,89.51
+11/8/2023,Facebook,Post_37,Text,172,96,121,55055,38801,18,Female,Rwanda,Neutral,776,85.44
+5/4/2023,Twitter,Post_39,Text,430,37,224,12539,34702,40,Female,Lithuania,Neutral,2490,30.6
+5/3/2023,Facebook,Post_62,Video,650,109,82,47440,57072,52,Female,Fiji,Neutral,735,114.42
+4/3/2023,Twitter,Post_14,Video,656,28,239,44168,43257,20,Male,Bhutan,Neutral,644,56.21
+10/4/2023,Instagram,Post_32,Carousel,325,279,14,60321,39172,45,Other,Azerbaijan,Negative,4497,27.51
+2/10/2023,Twitter,Post_63,Video,560,246,251,89172,25549,48,Male,Bouvet Island (Bouvetoya),Negative,3365,33.52
+5/29/2023,Twitter,Post_78,Video,127,79,228,23797,10429,21,Female,Armenia,Neutral,3729,38.21
+3/28/2023,Twitter,Post_44,Text,890,23,282,21847,9113,42,Female,South Georgia and the South Sandwich Islands,Neutral,1828,32.6
+6/29/2023,Facebook,Post_96,Video,198,60,477,47226,16050,27,Male,Thailand,Neutral,2282,19.11
+5/20/2023,Instagram,Post_46,Carousel,262,223,298,78342,186429,23,Female,Croatia,Positive,832,108.89
+2/25/2023,Instagram,Post_51,Text,881,135,359,81295,90196,24,Male,Japan,Positive,2534,34.93
+1/14/2023,Twitter,Post_1,Image,378,187,355,56611,20247,57,Male,Morocco,Positive,3558,30.3
+5/5/2023,Twitter,Post_24,Video,410,179,350,56913,9841,18,Other,Sri Lanka,Positive,3365,23.09
+9/20/2023,Instagram,Post_65,Text,398,197,110,85962,31319,24,Female,Guinea-Bissau,Positive,3366,27.09
+12/31/2023,Facebook,Post_51,Video,801,177,429,28056,44716,38,Male,Ethiopia,Negative,4704,20.62
+4/17/2023,Twitter,Post_90,Carousel,758,145,99,82502,29518,30,Male,Ethiopia,Negative,3325,20.78
+12/3/2023,Twitter,Post_79,Video,884,36,291,41229,15954,50,Male,Greenland,Neutral,964,126.66
+12/30/2023,Facebook,Post_23,Text,838,184,494,32080,40123,62,Male,Bhutan,Positive,3639,23.69
+10/9/2023,Facebook,Post_36,Image,264,55,138,12081,55042,49,Male,Nepal,Negative,1578,41.38
+1/19/2023,Facebook,Post_20,Text,140,226,127,29188,89924,42,Male,Guinea,Negative,3230,33.93
+3/29/2023,Facebook,Post_29,Video,693,214,449,65144,29874,64,Female,Martinique,Negative,3581,8.46
+1/26/2023,Twitter,Post_66,Image,806,87,280,84236,9594,56,Female,Ecuador,Negative,4116,12.97
+6/2/2023,Facebook,Post_37,Text,108,213,273,29823,25263,29,Other,Australia,Negative,3181,20.69
+6/11/2023,Facebook,Post_11,Image,715,97,460,74736,83252,30,Female,Australia,Positive,3333,17.43
+9/19/2023,Facebook,Post_16,Carousel,945,110,414,90959,54013,19,Other,Seychelles,Negative,3597,20.54
+8/12/2023,Facebook,Post_73,Image,72,21,388,95178,12833,43,Female,Jordan,Negative,1425,33.12
+10/8/2023,Twitter,Post_69,Carousel,101,266,182,97452,19505,62,Other,Haiti,Negative,3547,16.27
+4/4/2023,Instagram,Post_49,Carousel,482,125,143,30311,124328,37,Male,Albania,Negative,1063,96.33
+1/3/2023,Twitter,Post_73,Carousel,149,59,48,92671,39133,47,Male,Ukraine,Negative,1001,38.96
+9/29/2023,Instagram,Post_9,Carousel,884,60,232,38860,189138,20,Female,Cyprus,Negative,2403,23.43
+6/19/2023,Twitter,Post_62,Image,765,75,103,60736,36855,43,Female,Sweden,Negative,4547,28.72
+5/13/2023,Facebook,Post_47,Image,311,249,487,77555,63682,54,Female,Liechtenstein,Negative,2849,53.6
+2/1/2023,Twitter,Post_82,Carousel,83,9,159,96533,22442,36,Female,El Salvador,Negative,1420,25.42
+5/22/2023,Facebook,Post_33,Image,233,105,415,58113,34188,55,Female,Uzbekistan,Positive,2686,29.64
+9/7/2023,Twitter,Post_17,Image,620,218,189,32899,47523,32,Female,Belgium,Neutral,3407,23.19
+10/29/2023,Twitter,Post_94,Carousel,966,94,492,78905,6308,26,Male,Botswana,Positive,4335,19.84
+5/4/2023,Instagram,Post_68,Carousel,220,38,99,13858,86623,18,Female,Western Sahara,Neutral,2516,29.17
+12/27/2023,Instagram,Post_75,Video,859,134,29,4915,194527,60,Female,Peru,Neutral,4079,34.86
+11/19/2023,Instagram,Post_50,Carousel,736,3,366,38928,88849,40,Female,Martinique,Neutral,3899,11.98
+11/22/2023,Twitter,Post_61,Image,803,191,176,56582,29407,30,Female,Sudan,Neutral,2859,36.06
+12/28/2023,Facebook,Post_4,Video,408,103,76,5412,63050,32,Other,Kiribati,Neutral,4126,9.69
+4/28/2023,Facebook,Post_91,Image,963,285,22,45760,93291,64,Male,Croatia,Negative,3016,29.94
+6/14/2023,Facebook,Post_44,Carousel,942,42,488,56773,89766,55,Female,Austria,Neutral,612,143.46
+4/8/2023,Facebook,Post_37,Text,147,290,431,53901,29874,60,Female,Vanuatu,Positive,4183,17.09
+1/30/2023,Instagram,Post_100,Image,637,39,271,39564,59506,37,Other,Somalia,Positive,3899,4.13
+10/14/2023,Twitter,Post_92,Carousel,84,139,323,80071,46138,59,Other,Turkey,Positive,4852,14.78
+9/16/2023,Facebook,Post_89,Carousel,822,104,189,82547,65371,45,Male,North Macedonia,Positive,3236,9.24
+10/19/2023,Instagram,Post_60,Image,576,210,408,94633,139813,57,Female,Singapore,Neutral,1185,97.55
+6/15/2023,Facebook,Post_22,Image,26,234,276,40186,90111,23,Female,French Guiana,Neutral,1928,23.39
+3/14/2023,Twitter,Post_56,Video,397,155,354,41498,9125,43,Male,Turks and Caicos Islands,Neutral,1702,49.71
+11/27/2023,Twitter,Post_85,Video,648,13,286,44932,39329,27,Male,Bahamas,Neutral,3304,16.89
+2/3/2023,Instagram,Post_43,Text,755,167,49,30124,21240,18,Female,Guadeloupe,Negative,2634,20.27
+4/24/2023,Twitter,Post_9,Text,639,185,119,42835,44591,37,Male,France,Negative,3882,16.67
+6/13/2023,Twitter,Post_74,Carousel,273,141,479,63462,5341,23,Other,Korea,Positive,2488,16.68
+5/7/2023,Twitter,Post_78,Carousel,787,156,253,93752,9491,18,Female,Mali,Neutral,3539,12.01
+1/31/2023,Facebook,Post_84,Carousel,970,223,254,68155,32710,55,Female,Taiwan,Neutral,3351,34.74
+8/26/2023,Facebook,Post_65,Carousel,347,47,373,97966,78517,20,Female,Liechtenstein,Positive,4249,10.76
+8/19/2023,Facebook,Post_46,Video,42,203,208,60520,69842,41,Male,Belarus,Neutral,2324,39.03
+5/9/2023,Facebook,Post_52,Text,970,219,208,66304,65265,25,Male,Nicaragua,Neutral,4712,4.67
+12/1/2023,Twitter,Post_93,Video,81,24,85,19981,27963,65,Female,Congo,Positive,3798,10.48
+10/23/2023,Twitter,Post_45,Text,849,297,205,46326,36367,52,Female,Guinea-Bissau,Positive,4067,21.19
+12/5/2023,Instagram,Post_10,Video,960,4,79,61484,33957,60,Male,Montenegro,Positive,996,79.32
+4/5/2023,Facebook,Post_20,Video,54,8,482,14810,66933,45,Other,Fiji,Negative,1549,57.52
+2/22/2023,Facebook,Post_3,Carousel,881,271,296,21512,14185,37,Other,Trinidad and Tobago,Positive,3864,22.57
+7/9/2023,Instagram,Post_36,Video,413,195,9,57211,124051,26,Male,Martinique,Positive,3430,7.7
+2/24/2023,Facebook,Post_77,Image,215,273,53,59187,50705,64,Male,Brunei Darussalam,Positive,4481,12.07
+5/21/2023,Facebook,Post_99,Text,876,0,385,6943,72668,38,Male,Estonia,Positive,1069,77.08
+4/11/2023,Twitter,Post_15,Image,374,11,439,58020,12204,21,Female,Mayotte,Positive,2109,54.81
+11/23/2023,Twitter,Post_10,Text,294,24,409,72542,40178,42,Other,Vietnam,Positive,1705,58.48
+2/2/2023,Twitter,Post_8,Carousel,101,136,70,43821,19234,31,Female,Vanuatu,Positive,2935,15.71
+2/10/2023,Instagram,Post_88,Video,575,56,374,88386,119395,45,Female,Palau,Positive,4239,12.05
+6/1/2023,Twitter,Post_61,Carousel,262,265,41,49200,8385,32,Other,Moldova,Positive,4362,17.22
+6/30/2023,Instagram,Post_84,Image,912,298,161,52444,46057,23,Other,Switzerland,Positive,4561,13.86
+6/20/2023,Facebook,Post_45,Text,313,249,325,99924,93435,20,Male,Guernsey,Negative,3282,18.16
+9/15/2023,Twitter,Post_30,Carousel,872,246,314,74275,23706,19,Male,Moldova,Positive,777,35.14
+2/18/2023,Twitter,Post_58,Text,483,67,387,44666,21993,26,Other,Dominican Republic,Positive,4163,26.78
+10/18/2023,Twitter,Post_4,Text,53,230,153,74423,10963,52,Other,Portugal,Negative,3974,36.97
+6/14/2023,Facebook,Post_88,Carousel,786,59,365,38697,84026,63,Female,El Salvador,Negative,3078,28.98
+8/30/2023,Twitter,Post_88,Video,135,72,144,93543,7170,40,Other,Rwanda,Negative,2084,29.37
+7/25/2023,Twitter,Post_6,Video,780,190,428,79336,14760,26,Male,Cameroon,Negative,4139,19.88
+1/14/2023,Facebook,Post_32,Video,928,293,473,28986,26197,51,Other,Benin,Neutral,656,121.04
+9/21/2023,Facebook,Post_2,Text,73,243,246,81854,74221,23,Other,American Samoa,Neutral,4900,13.51
+1/4/2023,Facebook,Post_3,Image,391,119,360,58017,98144,38,Male,Tunisia,Neutral,4354,23.79
+3/1/2023,Twitter,Post_88,Carousel,225,76,251,8567,33374,40,Female,Oman,Positive,4262,14.01
+5/20/2023,Facebook,Post_98,Text,633,96,444,47108,81884,56,Other,Morocco,Positive,1911,50.39
+11/21/2023,Instagram,Post_46,Video,112,74,163,29254,178001,18,Other,Argentina,Negative,4086,17.11
+7/20/2023,Twitter,Post_45,Image,459,192,461,98912,49485,46,Male,United States of America,Negative,2324,50.09
+9/14/2023,Twitter,Post_18,Image,201,165,242,55993,42028,64,Male,Bolivia,Positive,2385,12.75
+11/2/2023,Twitter,Post_36,Image,342,255,190,66765,35917,30,Female,Solomon Islands,Positive,817,70.5
+1/20/2023,Twitter,Post_35,Carousel,577,6,1,83972,46827,48,Other,Greenland,Positive,4388,21.95
+3/15/2023,Twitter,Post_80,Text,196,48,392,66836,31277,48,Other,Saint Barthelemy,Positive,3147,28.12
+8/14/2023,Instagram,Post_38,Video,221,173,300,39136,139021,50,Other,South Georgia and the South Sandwich Islands,Positive,2180,59.95
+2/20/2023,Facebook,Post_59,Carousel,921,254,112,66706,78580,56,Male,Nepal,Positive,3669,17.17
+1/4/2023,Twitter,Post_34,Text,157,56,330,11217,30715,28,Female,Cote d'Ivoire,Negative,860,132.33
+9/3/2023,Facebook,Post_11,Text,438,209,53,73533,68611,54,Other,Mozambique,Negative,3382,25.28
+4/23/2023,Twitter,Post_22,Text,953,88,418,4335,24792,35,Female,United Arab Emirates,Positive,934,80.94
+5/5/2023,Facebook,Post_34,Video,412,160,266,28313,61134,56,Female,Bulgaria,Neutral,1086,22.74
+4/18/2023,Facebook,Post_85,Image,561,162,437,22953,42586,31,Female,Malta,Positive,1553,73.73
+4/8/2023,Facebook,Post_96,Image,144,258,360,27036,75794,53,Other,Tuvalu,Positive,2572,27.72
+4/20/2023,Instagram,Post_70,Text,705,93,233,64368,142554,31,Male,South Georgia and the South Sandwich Islands,Neutral,1696,40.86
+12/1/2023,Twitter,Post_14,Image,433,1,126,62799,17494,33,Female,Namibia,Neutral,2155,32.81
+2/1/2023,Instagram,Post_33,Image,283,179,303,19227,194512,35,Other,Djibouti,Positive,3690,16.02
+11/16/2023,Facebook,Post_29,Video,19,192,91,30901,88838,56,Other,Australia,Positive,2504,52.64
+5/3/2023,Facebook,Post_93,Carousel,880,186,321,64395,15305,26,Male,Slovenia,Neutral,2058,57.77
+6/3/2023,Facebook,Post_91,Video,85,184,58,49077,36080,65,Other,Uruguay,Negative,1024,57.23
+3/28/2023,Twitter,Post_23,Image,795,150,126,43398,15033,34,Female,French Guiana,Neutral,2852,12.97
+2/25/2023,Twitter,Post_83,Carousel,800,59,85,84761,5072,50,Female,Isle of Man,Negative,4489,19.34
+9/5/2023,Facebook,Post_45,Image,75,271,421,8971,11871,65,Male,Andorra,Negative,4524,21.13
+6/22/2023,Instagram,Post_86,Video,945,121,347,70603,181365,60,Other,Croatia,Negative,989,78.46
+3/26/2023,Facebook,Post_29,Image,839,83,170,38843,13792,53,Other,Latvia,Negative,4034,27.76
+6/9/2023,Instagram,Post_13,Image,505,129,197,86115,94049,22,Other,Korea,Positive,2179,35.52
+5/23/2023,Facebook,Post_50,Text,882,62,361,51848,46260,62,Female,San Marino,Positive,2128,42.72
+2/20/2023,Instagram,Post_19,Carousel,746,227,184,69346,142324,33,Male,Cape Verde,Positive,4592,12.15
+1/8/2023,Facebook,Post_86,Video,430,102,124,60055,19755,29,Female,Comoros,Positive,4312,17.49
+10/20/2023,Facebook,Post_17,Carousel,279,249,208,94004,28600,48,Other,Finland,Positive,1166,125.9
+3/28/2023,Twitter,Post_5,Image,310,200,338,10560,41400,26,Male,Martinique,Positive,2176,55.79
+6/5/2023,Twitter,Post_49,Image,160,268,28,20340,23435,24,Female,Germany,Negative,2297,35.26
+1/22/2023,Facebook,Post_8,Carousel,962,154,98,14920,86399,34,Male,Slovenia,Negative,2811,7.08
+9/19/2023,Instagram,Post_11,Image,478,113,160,36632,80069,43,Male,Hungary,Negative,4060,12.02
+6/27/2023,Facebook,Post_87,Carousel,718,149,269,56860,20504,56,Female,Iraq,Negative,2994,34.84
+2/10/2023,Twitter,Post_72,Image,132,74,311,71347,47542,60,Male,Brazil,Negative,4097,29.53
+2/1/2023,Facebook,Post_28,Image,622,0,316,78739,67776,61,Female,Korea,Negative,1109,136.16
+8/26/2023,Twitter,Post_81,Video,208,77,325,21834,47594,35,Female,Sweden,Negative,527,214.23
+1/14/2023,Facebook,Post_73,Video,714,75,223,27077,88184,38,Female,Lithuania,Negative,4595,26.05
+11/21/2023,Twitter,Post_48,Text,703,150,114,26353,9276,43,Male,Yemen,Positive,3258,37.75
+12/19/2023,Facebook,Post_11,Carousel,784,277,358,15265,68611,64,Male,Qatar,Positive,2775,30.77
+9/28/2023,Instagram,Post_58,Carousel,997,72,274,41968,66483,37,Male,Mexico,Positive,1241,115.87
+2/13/2023,Instagram,Post_86,Image,854,92,202,51803,31701,22,Female,Serbia,Positive,2785,16.66
+8/24/2023,Twitter,Post_41,Video,932,261,56,76200,18903,56,Other,China,Negative,3098,10.88
+9/17/2023,Facebook,Post_28,Image,809,269,476,68041,86661,55,Other,Saint Helena,Negative,2785,41.58
+7/6/2023,Twitter,Post_34,Text,441,130,98,91440,25588,40,Female,Lithuania,Negative,1888,65.73
+1/12/2023,Twitter,Post_49,Carousel,748,217,293,57038,9466,24,Other,Latvia,Positive,1137,18.56
+1/26/2023,Facebook,Post_83,Video,59,54,264,20811,13084,53,Other,Zambia,Negative,1034,89.85
+8/30/2023,Twitter,Post_97,Text,549,112,499,46887,45740,20,Other,Saint Pierre and Miquelon,Neutral,2989,24.79
+10/26/2023,Instagram,Post_98,Video,669,172,116,73380,54331,34,Male,Cape Verde,Neutral,4968,17.03
+8/2/2023,Twitter,Post_57,Video,399,260,144,58709,33109,44,Male,Antigua and Barbuda,Neutral,4466,14.38
+12/27/2023,Instagram,Post_43,Video,280,64,188,8508,24088,21,Other,Cuba,Negative,2543,37.08
+4/28/2023,Facebook,Post_82,Carousel,530,75,396,24691,76974,50,Other,Mozambique,Negative,3434,23.85
+1/15/2023,Instagram,Post_10,Text,347,197,37,51121,49298,35,Male,Martinique,Negative,1547,21.59
+4/3/2023,Facebook,Post_25,Text,373,110,382,4428,55171,34,Male,Iran,Negative,645,155.35
+3/15/2023,Facebook,Post_85,Video,538,95,151,84107,69605,42,Male,Togo,Negative,3925,19.49
+10/11/2023,Instagram,Post_85,Image,701,100,6,56099,110073,47,Male,Norfolk Island,Neutral,4921,17.19
+10/3/2023,Twitter,Post_68,Image,877,269,497,55978,47869,50,Female,Morocco,Positive,1790,70.89
+2/16/2023,Facebook,Post_61,Text,118,125,249,41440,71210,35,Female,Guinea-Bissau,Positive,4403,24.76
+3/27/2023,Facebook,Post_16,Text,642,285,222,73204,11503,25,Male,Eritrea,Neutral,4740,17.76
+2/26/2023,Twitter,Post_59,Image,937,78,397,91784,17918,36,Female,Namibia,Negative,1251,61.55
+4/16/2023,Facebook,Post_2,Video,738,170,147,22879,33872,40,Other,Benin,Positive,1588,62.53
+10/18/2023,Facebook,Post_5,Carousel,48,15,452,99383,54391,38,Female,Tonga,Neutral,581,201.2
+12/21/2023,Instagram,Post_65,Text,717,94,259,10483,47901,21,Other,Pitcairn Islands,Negative,1916,65.87
+12/14/2023,Facebook,Post_65,Carousel,876,26,478,17311,40310,27,Other,Finland,Negative,3029,32.68
+12/29/2023,Instagram,Post_63,Image,510,233,377,1584,119490,51,Other,Kenya,Negative,4854,10.49
+9/24/2023,Twitter,Post_83,Image,259,258,482,95204,37608,60,Female,Botswana,Negative,1645,64.92
+1/16/2023,Twitter,Post_4,Text,110,252,81,47684,27810,52,Female,Thailand,Positive,838,158.35
+3/22/2023,Twitter,Post_80,Image,752,60,115,84377,22021,34,Male,Slovenia,Neutral,2377,33.53
+9/14/2023,Facebook,Post_52,Text,506,43,324,43768,74209,58,Other,Djibouti,Neutral,3216,24.41
+1/14/2023,Twitter,Post_14,Image,583,175,66,93415,27263,31,Other,Macao,Neutral,3258,11.3
+4/11/2023,Instagram,Post_30,Carousel,592,178,343,7017,32224,50,Female,Mali,Negative,3989,27.38
+9/15/2023,Twitter,Post_50,Text,317,110,318,46221,10784,23,Male,Falkland Islands (Malvinas),Negative,4056,16.03
+4/30/2023,Twitter,Post_80,Carousel,246,98,301,60762,15287,39,Female,Congo,Neutral,4283,18.3
+6/22/2023,Twitter,Post_99,Image,81,20,29,12586,11452,28,Other,Faroe Islands,Neutral,3061,22.67
+1/10/2023,Twitter,Post_28,Carousel,179,100,48,69917,34211,46,Female,Bermuda,Neutral,4707,11.51
+7/8/2023,Twitter,Post_9,Image,335,125,451,19528,38347,35,Male,Italy,Negative,738,98.37
+10/10/2023,Instagram,Post_88,Carousel,917,181,88,70431,129726,60,Other,Albania,Negative,3382,22.15
+7/16/2023,Twitter,Post_40,Text,769,172,181,93551,44642,50,Male,Mayotte,Negative,3894,19.16
+9/6/2023,Instagram,Post_82,Text,104,4,413,50394,191565,19,Male,Madagascar,Negative,3731,39.8
+11/12/2023,Facebook,Post_55,Carousel,416,223,399,51709,91029,45,Male,Guyana,Negative,4376,9.51
+8/27/2023,Instagram,Post_77,Video,230,283,276,33381,79510,39,Male,Western Sahara,Neutral,4608,14.61
+11/17/2023,Facebook,Post_62,Video,572,163,324,74688,21896,23,Other,Macao,Neutral,4596,23.13
+9/13/2023,Instagram,Post_37,Carousel,157,284,266,48841,123100,59,Other,Sudan,Neutral,608,212.83
+11/10/2023,Instagram,Post_40,Image,867,220,333,44839,26066,31,Other,Panama,Neutral,1629,28.85
+8/28/2023,Twitter,Post_44,Text,878,289,332,12658,6201,61,Male,Cook Islands,Neutral,2877,30.45
+7/16/2023,Facebook,Post_3,Carousel,783,192,402,2112,32131,62,Male,Falkland Islands (Malvinas),Neutral,3835,27.8
+4/22/2023,Facebook,Post_68,Video,835,116,285,7738,54672,36,Other,Faroe Islands,Neutral,4441,13.33
+11/5/2023,Instagram,Post_44,Image,6,286,87,11228,158722,31,Male,Belize,Neutral,2634,24.83
+5/4/2023,Twitter,Post_31,Carousel,622,223,204,75418,16688,37,Female,Vietnam,Positive,3472,10.22
+12/26/2023,Facebook,Post_77,Carousel,688,194,333,43169,92021,60,Male,Cambodia,Neutral,2165,41.99
+3/24/2023,Instagram,Post_72,Text,916,106,448,89516,173708,18,Other,Palau,Neutral,2622,31.69
+6/19/2023,Instagram,Post_38,Image,64,77,491,57660,63052,34,Female,Antarctica (the territory South of 60 deg S),Neutral,2656,29.78
+4/15/2023,Facebook,Post_94,Carousel,334,69,21,58765,15386,20,Other,Pakistan,Positive,4521,29.09
+12/11/2023,Twitter,Post_22,Carousel,91,172,84,71501,19799,54,Male,Cote d'Ivoire,Positive,1759,32.46
+4/19/2023,Facebook,Post_9,Image,420,138,339,8323,45358,28,Male,Tajikistan,Positive,3518,22.29
+10/2/2023,Facebook,Post_70,Video,773,286,428,48428,73264,62,Female,Jordan,Positive,2584,19.81
+3/29/2023,Facebook,Post_79,Text,452,224,271,92883,89654,38,Male,Palestinian Territory,Positive,687,121.98
+5/6/2023,Instagram,Post_8,Text,722,153,271,93002,104726,52,Male,Andorra,Positive,553,142.86
+4/24/2023,Facebook,Post_50,Video,914,170,135,19076,42755,48,Other,Ethiopia,Positive,3709,18.44
+9/2/2023,Facebook,Post_63,Video,122,47,223,45927,76257,18,Other,Rwanda,Positive,4808,27.75
+7/27/2023,Facebook,Post_58,Video,728,111,122,31169,72664,58,Other,Somalia,Positive,2046,30.94
+7/15/2023,Facebook,Post_73,Video,136,190,286,97740,37644,48,Male,Germany,Positive,2110,41.61
+6/5/2023,Twitter,Post_53,Video,21,81,416,87221,45184,53,Female,Bahrain,Positive,4724,23.29
+3/6/2023,Instagram,Post_25,Image,893,28,377,46072,192195,49,Male,American Samoa,Positive,3762,35.14
+1/13/2023,Instagram,Post_44,Carousel,784,198,70,37265,149439,37,Male,Bahamas,Positive,1986,18.33
+3/11/2023,Instagram,Post_4,Image,989,175,194,2963,133840,31,Other,Kenya,Negative,1172,76.45
+10/3/2023,Twitter,Post_10,Carousel,108,120,450,33539,8817,28,Other,Guinea,Negative,3160,18.89
+7/24/2023,Instagram,Post_25,Video,861,211,415,17797,180843,50,Male,Philippines,Negative,554,58.12
+4/6/2023,Instagram,Post_67,Text,669,122,438,74945,168735,41,Male,Faroe Islands,Negative,1370,99.2
+4/9/2023,Facebook,Post_45,Text,672,52,402,42967,40964,35,Male,Syrian Arab Republic,Negative,3583,23.67
+5/1/2023,Twitter,Post_18,Carousel,27,74,134,33463,40711,18,Female,Venezuela,Positive,659,159.79
+1/17/2023,Twitter,Post_47,Carousel,882,252,290,82130,38347,19,Male,Anguilla,Negative,2010,51
+9/7/2023,Instagram,Post_73,Image,670,22,205,31620,24410,51,Male,Monaco,Neutral,3315,18.37
+8/14/2023,Twitter,Post_48,Video,281,73,481,40196,14948,63,Male,Germany,Neutral,3171,34.03
+2/14/2023,Instagram,Post_80,Video,905,185,423,60287,30126,26,Other,Saint Kitts and Nevis,Neutral,2710,5.9
+11/12/2023,Twitter,Post_59,Carousel,850,198,131,7904,25330,18,Male,Montserrat,Neutral,1842,27.85
+6/24/2023,Instagram,Post_31,Image,57,193,287,17404,112130,30,Male,Lao People's Democratic Republic,Neutral,1476,29.2
+9/1/2023,Facebook,Post_37,Image,594,167,277,17093,76981,52,Other,Jamaica,Negative,1893,47.97
+6/27/2023,Twitter,Post_55,Video,694,202,158,59116,48139,52,Male,Slovakia (Slovak Republic),Positive,2849,12.64
+7/7/2023,Twitter,Post_45,Carousel,557,87,411,34592,15846,36,Male,Jordan,Positive,2830,53.64
+8/15/2023,Twitter,Post_66,Image,715,148,282,91426,35664,25,Female,Jordan,Positive,1376,81.32
+7/21/2023,Instagram,Post_27,Text,285,142,417,67923,197490,59,Other,Russian Federation,Positive,751,43.14
+2/5/2023,Facebook,Post_96,Video,920,206,302,15997,42624,65,Male,Honduras,Positive,2545,9.35
+12/31/2023,Instagram,Post_57,Video,841,215,450,70292,58920,62,Female,French Guiana,Negative,3537,13.6
+5/19/2023,Instagram,Post_86,Video,2,115,173,45353,150551,40,Other,Suriname,Neutral,4709,3.31
+7/12/2023,Twitter,Post_2,Image,552,12,31,78968,15153,25,Other,Canada,Neutral,3216,35.6
+4/4/2023,Facebook,Post_56,Text,80,112,52,44947,56678,53,Other,French Southern Territories,Positive,1662,70.7
+4/20/2023,Twitter,Post_43,Text,388,39,305,78211,21859,43,Male,Chad,Positive,3765,35.51
+2/24/2023,Instagram,Post_31,Image,592,65,411,40295,38210,21,Male,United States Minor Outlying Islands,Positive,3348,20.34
+5/22/2023,Facebook,Post_16,Video,578,28,243,62278,86809,27,Other,Angola,Positive,2754,32.03
+5/16/2023,Instagram,Post_23,Image,188,114,366,18610,84656,65,Female,El Salvador,Negative,686,71.14
+5/9/2023,Facebook,Post_99,Carousel,563,112,62,1231,97134,44,Female,Chad,Positive,4048,22.36
+10/16/2023,Facebook,Post_69,Image,9,78,280,67779,93344,22,Other,Mauritania,Positive,2322,27.69
+12/11/2023,Twitter,Post_55,Text,319,143,367,74612,26582,57,Other,Nicaragua,Negative,2354,44.01
+10/15/2023,Twitter,Post_87,Text,75,150,87,21138,38952,43,Male,Saudi Arabia,Negative,2559,43.73
+3/18/2023,Instagram,Post_20,Image,775,287,205,50748,52023,41,Male,Peru,Positive,2102,67.41
+12/5/2023,Instagram,Post_99,Text,390,290,137,50446,179324,32,Female,Liberia,Negative,4808,24.9
+9/25/2023,Instagram,Post_85,Video,220,288,482,13136,170305,54,Female,Bosnia and Herzegovina,Negative,4509,15.13
+12/15/2023,Facebook,Post_41,Image,621,154,283,35422,76260,55,Female,Senegal,Positive,2631,27.52
+12/13/2023,Facebook,Post_67,Text,238,74,249,52370,20843,50,Male,Turks and Caicos Islands,Positive,929,137.35
+6/5/2023,Twitter,Post_8,Video,454,105,16,47364,29174,60,Female,Philippines,Positive,2609,17.94
+10/26/2023,Instagram,Post_82,Carousel,768,202,181,93876,118547,21,Male,Solomon Islands,Positive,852,143.19
+2/2/2023,Instagram,Post_63,Carousel,79,132,31,89336,107948,48,Other,Iraq,Positive,4133,29.23
+10/11/2023,Twitter,Post_42,Image,630,232,352,68500,34148,57,Female,Isle of Man,Positive,559,72.81
+7/13/2023,Facebook,Post_30,Video,107,118,281,57221,37202,57,Other,Eritrea,Neutral,807,151.92
+10/27/2023,Twitter,Post_94,Carousel,653,273,59,31670,48409,64,Female,Niger,Negative,4462,10.56
+6/6/2023,Instagram,Post_81,Video,836,247,312,79697,138778,34,Female,Bahamas,Positive,2048,19.73
+12/12/2023,Instagram,Post_5,Video,84,112,158,67397,199046,62,Other,Vanuatu,Positive,4852,26.67
+10/2/2023,Instagram,Post_27,Text,855,248,261,94755,72034,51,Male,American Samoa,Neutral,1470,79.12
+5/12/2023,Facebook,Post_80,Image,105,273,360,95925,16278,34,Other,Panama,Positive,724,106.08
+3/27/2023,Facebook,Post_84,Video,225,8,63,60243,22358,62,Other,Senegal,Positive,4367,6.71
+10/16/2023,Twitter,Post_71,Text,286,28,280,10122,46774,37,Other,Armenia,Positive,1217,35.17
+2/5/2023,Twitter,Post_34,Image,172,140,82,45742,11264,58,Male,Antigua and Barbuda,Positive,4677,20.5
+11/19/2023,Twitter,Post_70,Text,745,273,225,48345,38695,42,Male,Dominican Republic,Positive,3006,19.59
+1/13/2023,Twitter,Post_8,Carousel,961,26,393,57770,19454,22,Male,Iran,Positive,3600,34.14
+8/22/2023,Twitter,Post_28,Video,40,89,203,54611,7839,29,Female,Japan,Negative,3173,37.28
+1/20/2023,Facebook,Post_79,Image,584,75,444,89477,74587,21,Female,Ghana,Positive,2816,29.69
+7/27/2023,Instagram,Post_34,Carousel,910,219,492,19604,185181,62,Male,Sweden,Negative,3448,7.28
+7/15/2023,Twitter,Post_20,Carousel,858,85,8,22164,44469,30,Female,Uganda,Negative,4042,13.53
+3/11/2023,Twitter,Post_3,Text,876,78,366,60012,41374,30,Other,Gibraltar,Negative,2842,43.31
+6/6/2023,Instagram,Post_21,Video,959,216,106,96559,193128,60,Male,Monaco,Negative,4372,11
+11/1/2023,Twitter,Post_14,Text,806,137,62,10250,42380,42,Female,Singapore,Negative,4326,25.52
+6/10/2023,Twitter,Post_76,Text,780,264,307,55489,11425,27,Male,Algeria,Neutral,549,131.33
+9/13/2023,Twitter,Post_61,Carousel,581,193,372,48698,26150,28,Female,Gabon,Neutral,1842,41.48
+6/25/2023,Instagram,Post_34,Image,617,27,113,34791,84586,63,Other,Guam,Neutral,1082,58.41
+3/28/2023,Instagram,Post_68,Text,238,65,107,37164,187727,22,Female,Belarus,Neutral,738,77.37
+1/28/2023,Twitter,Post_76,Carousel,503,137,115,43742,23404,43,Female,Saint Helena,Neutral,2253,52.33
+1/2/2023,Facebook,Post_20,Image,797,145,374,2482,81473,41,Other,Papua New Guinea,Neutral,3079,51.15
+5/2/2023,Instagram,Post_28,Text,253,123,125,78393,64007,26,Male,Spain,Positive,1758,40.96
+1/19/2023,Instagram,Post_27,Video,634,167,180,69761,105274,39,Female,Nepal,Positive,1220,66.07
+2/3/2023,Twitter,Post_52,Video,58,29,131,25834,5768,27,Other,Timor-Leste,Neutral,4468,25.74
+7/7/2023,Instagram,Post_70,Carousel,973,89,149,17518,116018,50,Other,Kazakhstan,Neutral,1925,21.45
+10/30/2023,Twitter,Post_55,Image,135,154,80,41171,19474,62,Other,Pitcairn Islands,Neutral,1497,95.19
+5/7/2023,Twitter,Post_59,Text,109,157,89,36015,41283,48,Male,Puerto Rico,Neutral,4332,7.83
+12/26/2023,Twitter,Post_88,Video,414,27,484,55863,11758,54,Male,France,Positive,2526,30.72
+12/27/2023,Twitter,Post_60,Image,176,290,290,90880,40365,34,Female,Norfolk Island,Positive,4875,26.73
+9/19/2023,Facebook,Post_70,Text,573,156,120,15731,82177,49,Female,Northern Mariana Islands,Positive,1216,119.82
+7/16/2023,Instagram,Post_61,Text,279,105,61,25846,83635,28,Male,British Indian Ocean Territory (Chagos Archipelago),Positive,4930,12.39
+1/19/2023,Instagram,Post_29,Text,809,34,54,68485,145278,41,Other,Belarus,Positive,3451,25.24
+7/7/2023,Instagram,Post_42,Video,885,250,207,88912,49590,47,Male,Barbados,Positive,2146,59.32
+8/1/2023,Facebook,Post_70,Image,660,86,353,18333,98437,35,Other,Norfolk Island,Positive,1166,40.31
+12/9/2023,Instagram,Post_2,Carousel,54,67,315,2039,134410,21,Other,Chad,Negative,2587,38.85
+12/15/2023,Facebook,Post_37,Video,932,206,365,77152,14742,45,Male,Namibia,Negative,985,68.53
+9/23/2023,Facebook,Post_60,Carousel,42,258,292,10186,89379,33,Female,Malawi,Negative,2897,14.88
+1/30/2023,Facebook,Post_52,Text,71,147,372,59514,92338,54,Female,Burundi,Positive,4750,14.29
+4/20/2023,Twitter,Post_13,Image,970,159,381,43115,21710,38,Female,Kazakhstan,Negative,4692,9.46
+1/27/2023,Instagram,Post_79,Text,987,107,118,71340,136119,32,Female,Liberia,Positive,1462,35.64
+8/21/2023,Facebook,Post_43,Image,610,237,355,80881,42563,44,Other,Saint Lucia,Positive,3779,27.89
+11/5/2023,Instagram,Post_51,Text,156,284,380,15715,196653,25,Other,Ethiopia,Negative,3294,14.06
+10/17/2023,Instagram,Post_7,Video,762,246,323,49583,132002,58,Female,Botswana,Negative,4286,7.84
+5/25/2023,Facebook,Post_27,Text,634,180,12,70699,95406,37,Male,Costa Rica,Positive,4568,14.1
+10/5/2023,Instagram,Post_65,Carousel,172,2,488,10762,37339,33,Other,Ghana,Positive,608,116.45
+12/13/2023,Twitter,Post_37,Text,713,204,57,36417,26254,39,Male,Martinique,Positive,4550,18.46
+4/28/2023,Twitter,Post_73,Video,293,123,169,29674,22237,45,Other,Burkina Faso,Positive,3504,26.88
+12/11/2023,Facebook,Post_84,Video,172,33,127,44140,17618,23,Male,Morocco,Negative,1187,53.92
+1/11/2023,Facebook,Post_68,Carousel,334,281,178,63370,98144,41,Male,Cote d'Ivoire,Positive,1251,91.29
+2/5/2023,Facebook,Post_73,Video,910,157,366,64779,96111,49,Male,Cuba,Positive,2819,26.32
+12/7/2023,Facebook,Post_50,Text,752,131,333,59249,69276,56,Male,France,Positive,4719,5.79
+10/5/2023,Facebook,Post_87,Video,609,220,339,50226,65476,60,Other,Central African Republic,Negative,646,99.54
+8/11/2023,Twitter,Post_86,Image,670,185,140,73625,26346,60,Other,Colombia,Negative,2292,29.06
+3/15/2023,Twitter,Post_61,Text,597,269,268,39905,17968,65,Male,Faroe Islands,Negative,2502,36.57
+3/14/2023,Twitter,Post_9,Text,728,281,128,6846,27990,43,Female,Switzerland,Negative,1140,70.7
+10/30/2023,Instagram,Post_30,Carousel,218,236,416,40656,199065,32,Other,Bahamas,Positive,2988,15.36
+9/25/2023,Instagram,Post_94,Image,10,70,172,96971,198171,39,Other,Oman,Positive,3679,21.2
+2/5/2023,Facebook,Post_51,Image,23,8,452,59773,26291,61,Male,Bolivia,Neutral,2776,21.61
+12/17/2023,Twitter,Post_70,Image,14,84,93,22325,48631,47,Male,Central African Republic,Neutral,1387,96.54
+11/6/2023,Instagram,Post_9,Carousel,312,31,143,60078,42711,54,Male,Korea,Neutral,1114,27.29
+6/22/2023,Facebook,Post_21,Carousel,506,32,174,27114,75861,40,Female,Hungary,Negative,1723,42.83
+7/9/2023,Facebook,Post_19,Carousel,36,79,339,48466,58300,48,Male,Uruguay,Negative,1103,35.63
+1/3/2023,Facebook,Post_14,Image,503,56,91,28539,75506,39,Male,Iraq,Negative,3976,18.59
+8/22/2023,Twitter,Post_12,Text,769,122,271,90715,6365,35,Female,Honduras,Negative,4088,11.91
+5/12/2023,Facebook,Post_40,Video,370,249,85,36506,68579,64,Other,Canada,Negative,1076,24.72
+2/3/2023,Instagram,Post_6,Carousel,905,118,28,7504,145818,41,Male,Guatemala,Negative,4724,23.29
+11/12/2023,Twitter,Post_72,Image,968,48,234,70101,16313,54,Female,Spain,Negative,1910,32.46
+4/30/2023,Instagram,Post_74,Image,608,104,156,5654,129437,31,Female,Hungary,Negative,4175,15.86
+4/12/2023,Twitter,Post_62,Image,528,231,381,37018,22203,55,Male,Mozambique,Positive,592,62.33
+11/28/2023,Instagram,Post_74,Carousel,616,48,271,6432,132359,55,Other,United Arab Emirates,Neutral,1818,51.71
+12/7/2023,Twitter,Post_3,Video,999,106,17,75739,49751,54,Female,Mongolia,Neutral,4159,27.55
+2/8/2023,Instagram,Post_26,Carousel,233,61,102,42264,95805,31,Male,Antarctica (the territory South of 60 deg S),Positive,2960,11.22
+12/28/2023,Instagram,Post_19,Text,85,120,465,37679,101724,24,Male,Libyan Arab Jamahiriya,Positive,3274,33.84
+2/14/2023,Facebook,Post_51,Text,825,3,477,34602,44806,24,Male,Cocos (Keeling) Islands,Positive,4120,28.03
+7/7/2023,Instagram,Post_25,Carousel,194,239,171,80382,113433,52,Female,Syrian Arab Republic,Positive,3183,18.28
+12/12/2023,Instagram,Post_93,Video,898,94,259,6546,92236,43,Female,Namibia,Positive,4576,14.42
+9/9/2023,Facebook,Post_14,Image,575,122,48,66106,84098,26,Other,Pakistan,Positive,2559,50.37
+10/14/2023,Instagram,Post_13,Image,310,252,118,20365,198055,53,Male,Saint Pierre and Miquelon,Positive,707,152.9
+3/12/2023,Facebook,Post_43,Carousel,13,253,279,16445,72239,29,Other,Iran,Positive,3898,37.4
+1/30/2023,Facebook,Post_26,Video,166,196,190,10904,98606,45,Male,Slovenia,Positive,704,34.94
+2/15/2023,Facebook,Post_42,Text,65,273,192,84209,28906,62,Other,Malaysia,Positive,4758,16.65
+4/18/2023,Twitter,Post_37,Carousel,650,230,209,68190,38976,43,Other,Finland,Positive,4438,12.75
+4/11/2023,Twitter,Post_3,Text,973,56,494,15941,11205,53,Other,Pitcairn Islands,Positive,1343,110.42
+2/22/2023,Instagram,Post_42,Text,174,268,249,56656,68636,21,Other,Zambia,Positive,3376,30.95
+6/9/2023,Facebook,Post_37,Carousel,730,91,282,82206,72711,42,Female,Morocco,Positive,2068,56.67
+6/28/2023,Facebook,Post_62,Text,40,18,266,79177,17551,23,Female,Taiwan,Neutral,3004,17.21
+8/6/2023,Facebook,Post_54,Carousel,672,181,462,98868,51418,60,Other,Anguilla,Neutral,677,114.33
+10/23/2023,Facebook,Post_81,Image,465,106,72,73799,58863,58,Male,Honduras,Neutral,861,90.94
+10/31/2023,Instagram,Post_43,Carousel,811,199,28,23254,125806,51,Male,Netherlands Antilles,Negative,1378,57.47
+10/20/2023,Facebook,Post_42,Video,257,66,44,42434,81062,23,Other,Suriname,Negative,3274,26.39
+11/25/2023,Facebook,Post_72,Video,280,29,12,95600,61162,29,Female,Korea,Negative,2425,8.7
+12/16/2023,Instagram,Post_17,Carousel,753,208,195,21199,175157,50,Male,Uruguay,Negative,3354,27.19
+11/29/2023,Twitter,Post_74,Carousel,251,145,397,43221,32463,43,Male,Bouvet Island (Bouvetoya),Negative,1951,33.37
+4/15/2023,Facebook,Post_20,Image,601,40,167,42459,73060,18,Male,Liberia,Negative,1067,109.75
+10/1/2023,Facebook,Post_40,Carousel,336,7,483,38304,42723,54,Female,Grenada,Negative,4114,10.21
+7/23/2023,Instagram,Post_20,Video,222,161,261,67680,157666,65,Male,Uzbekistan,Negative,1080,90.09
+11/23/2023,Instagram,Post_6,Text,485,112,50,72893,73455,52,Other,Greece,Negative,4676,14.93
+5/18/2023,Facebook,Post_16,Carousel,888,153,228,30457,21171,51,Male,Armenia,Negative,1566,63.28
+1/9/2023,Facebook,Post_23,Text,817,212,497,91182,68721,50,Female,Holy See (Vatican City State),Positive,1885,32.84
+6/28/2023,Instagram,Post_45,Text,733,226,258,29797,168525,56,Female,Japan,Positive,1840,69.57
+2/1/2023,Twitter,Post_4,Carousel,95,204,177,45524,22931,63,Other,Guinea-Bissau,Neutral,1037,86.89
+11/20/2023,Instagram,Post_5,Video,326,35,234,63485,151286,39,Female,Reunion,Positive,2205,27.76
+3/26/2023,Facebook,Post_69,Carousel,276,250,196,67899,96256,24,Male,Trinidad and Tobago,Negative,2682,12.3
+2/26/2023,Instagram,Post_79,Text,398,220,237,24393,61980,30,Male,Somalia,Positive,4273,5.8
+11/21/2023,Facebook,Post_32,Carousel,999,104,189,97646,63880,60,Female,India,Negative,2705,43.11
+4/30/2023,Twitter,Post_92,Text,582,252,309,76643,17586,43,Female,Philippines,Negative,4555,21.32
+11/5/2023,Facebook,Post_15,Carousel,236,3,155,69050,30845,42,Other,Haiti,Neutral,2886,20.13
+12/16/2023,Facebook,Post_38,Video,783,63,385,57362,60756,19,Female,Lao People's Democratic Republic,Neutral,2541,30.85
+3/4/2023,Facebook,Post_77,Carousel,571,183,497,58923,98386,51,Other,Bahrain,Positive,4426,8.99
+4/14/2023,Instagram,Post_2,Text,201,106,250,4321,31701,49,Male,Sao Tome and Principe,Positive,3711,28.99
+9/4/2023,Twitter,Post_23,Text,966,125,363,82119,7176,64,Other,Indonesia,Positive,3805,29.09
+3/4/2023,Facebook,Post_43,Image,606,57,381,95039,63925,33,Male,China,Positive,1611,29.73
+11/15/2023,Facebook,Post_53,Text,796,40,383,91678,66239,39,Other,Mali,Neutral,2721,36.35
+6/3/2023,Twitter,Post_2,Video,228,213,133,90805,6365,64,Male,El Salvador,Neutral,639,237.72
+8/18/2023,Facebook,Post_12,Text,41,128,121,53596,13023,41,Female,Western Sahara,Neutral,2909,16.02
+5/9/2023,Facebook,Post_82,Text,198,232,19,25241,51259,48,Female,Vanuatu,Neutral,2860,32.97
+7/26/2023,Twitter,Post_33,Text,143,23,397,37083,18419,30,Male,Cayman Islands,Neutral,794,86.15
+8/29/2023,Facebook,Post_84,Text,610,231,320,64873,20504,29,Other,Norfolk Island,Neutral,2363,38.34
+11/16/2023,Facebook,Post_96,Image,149,145,195,72727,54346,23,Male,Ecuador,Negative,1105,93.3
+3/27/2023,Facebook,Post_5,Text,310,118,302,64495,43221,61,Female,Kazakhstan,Neutral,4222,17.74
+12/17/2023,Instagram,Post_13,Image,126,179,326,94227,119240,18,Other,Christmas Island,Neutral,4601,16.56
+5/27/2023,Instagram,Post_38,Text,699,154,57,88733,159718,49,Other,Greenland,Negative,1759,32.4
+4/29/2023,Instagram,Post_10,Video,420,83,179,16373,141936,22,Male,Ukraine,Neutral,4496,25.71
+5/14/2023,Twitter,Post_41,Text,398,109,358,93588,24341,42,Other,United States Minor Outlying Islands,Neutral,784,80.23
+6/2/2023,Twitter,Post_91,Video,955,126,280,3707,26254,26,Male,Heard Island and McDonald Islands,Neutral,525,164.19
+9/15/2023,Twitter,Post_3,Video,772,219,345,32484,22452,39,Other,Faroe Islands,Positive,2521,11.38
+1/9/2023,Instagram,Post_39,Text,420,181,322,4201,194789,31,Female,Romania,Positive,1621,68.29
+5/10/2023,Instagram,Post_24,Carousel,173,157,423,16562,158651,50,Female,Tunisia,Positive,1417,58.01
+7/28/2023,Instagram,Post_26,Video,943,17,83,87610,30239,26,Male,Croatia,Positive,1604,56.36
+7/8/2023,Instagram,Post_59,Carousel,776,7,230,22414,157183,22,Female,Barbados,Positive,4041,13.76
+3/31/2023,Facebook,Post_56,Video,111,163,249,76627,15255,29,Female,Cote d'Ivoire,Positive,2620,48.17
+9/18/2023,Facebook,Post_6,Video,370,108,223,42878,10129,22,Male,France,Positive,4845,4.71
+11/3/2023,Instagram,Post_44,Image,579,106,103,61798,170272,42,Female,Tokelau,Positive,2576,24.26
+12/20/2023,Facebook,Post_64,Text,897,228,332,40054,15607,50,Female,Barbados,Positive,2253,10.21
+6/9/2023,Twitter,Post_13,Video,367,18,468,62553,39770,44,Female,Central African Republic,Neutral,2137,44.08
+11/15/2023,Twitter,Post_94,Image,9,252,416,7770,21052,55,Female,Saint Barthelemy,Neutral,3316,7.54
+7/23/2023,Instagram,Post_33,Carousel,26,199,415,38450,180709,31,Other,Nepal,Neutral,2085,23.41
+11/11/2023,Facebook,Post_83,Image,939,108,275,11242,90052,18,Female,Maldives,Neutral,4359,31.73
+1/9/2023,Twitter,Post_9,Carousel,970,84,305,33290,22168,41,Male,Lebanon,Neutral,2780,26.51
+8/20/2023,Instagram,Post_62,Image,630,272,471,51201,180843,50,Male,Aruba,Negative,2717,6.37
+1/11/2023,Facebook,Post_35,Image,809,268,91,39653,16619,19,Male,Mauritania,Negative,2367,26.74
+5/10/2023,Instagram,Post_4,Video,221,111,80,40638,165122,60,Female,Korea,Positive,3853,18.66
+2/14/2023,Instagram,Post_13,Carousel,248,214,147,34482,115597,40,Female,Afghanistan,Positive,526,209.13
+8/27/2023,Instagram,Post_1,Text,516,111,301,18630,63074,32,Other,Nigeria,Positive,2648,33.5
+8/24/2023,Twitter,Post_98,Video,212,177,435,71726,37226,51,Other,Congo,Negative,818,75.43
+3/19/2023,Twitter,Post_10,Carousel,521,178,33,51574,48354,35,Other,Lebanon,Negative,1085,147.56
+10/10/2023,Instagram,Post_6,Text,721,12,359,35490,190931,54,Female,Japan,Neutral,1764,72.28
+7/17/2023,Facebook,Post_7,Video,89,122,405,22319,89869,46,Other,Vanuatu,Neutral,3152,7.96
+4/6/2023,Facebook,Post_45,Text,603,50,214,29161,51085,50,Male,Lao People's Democratic Republic,Neutral,4020,31.97
+11/8/2023,Twitter,Post_8,Image,599,289,64,41514,13955,35,Other,Serbia,Positive,3302,21.71
+8/18/2023,Facebook,Post_27,Carousel,202,243,409,70165,20902,57,Male,Netherlands,Positive,3777,6.33
+12/2/2023,Twitter,Post_95,Text,823,285,169,18038,10843,63,Male,Nigeria,Positive,1846,35.92
+8/22/2023,Facebook,Post_69,Text,175,300,437,83450,42563,52,Other,Russian Federation,Positive,609,225.62
+1/28/2023,Facebook,Post_11,Video,54,143,39,8045,10055,44,Other,Guam,Negative,2756,51.45
+2/3/2023,Instagram,Post_13,Text,617,176,111,59537,175833,50,Male,United Kingdom,Negative,828,131.52
+2/11/2023,Twitter,Post_87,Carousel,160,44,463,20435,27619,42,Female,Italy,Positive,3644,31.64
+4/9/2023,Instagram,Post_89,Text,167,206,191,23973,79415,36,Male,British Indian Ocean Territory (Chagos Archipelago),Neutral,4457,30.38
+9/10/2023,Twitter,Post_59,Carousel,505,121,418,86852,43310,23,Female,Tajikistan,Neutral,2393,47.68
+10/9/2023,Facebook,Post_21,Text,895,100,325,26374,16048,26,Female,Singapore,Positive,3760,17.45
+12/19/2023,Twitter,Post_93,Carousel,374,253,169,75137,23581,31,Other,Ukraine,Positive,1881,68.16
+3/10/2023,Facebook,Post_1,Text,402,182,415,7121,43221,18,Other,Lithuania,Positive,1813,36.85
+3/7/2023,Facebook,Post_8,Video,246,95,18,49676,74522,24,Male,Solomon Islands,Negative,840,112.86
+4/5/2023,Instagram,Post_32,Video,155,144,327,98611,58873,23,Female,Bolivia,Negative,3848,36.51
+1/19/2023,Twitter,Post_25,Video,327,295,180,88689,45744,33,Female,Rwanda,Neutral,2913,15.17
+5/21/2023,Facebook,Post_30,Carousel,904,110,221,10014,16048,46,Other,El Salvador,Neutral,1004,46.51
+3/30/2023,Facebook,Post_38,Video,237,60,80,88348,88303,26,Male,Peru,Negative,3025,19.54
+7/16/2023,Facebook,Post_52,Carousel,521,32,106,8541,87798,53,Female,Iraq,Neutral,3610,34.49
+11/26/2023,Twitter,Post_46,Carousel,73,67,460,98419,43050,39,Male,Sudan,Neutral,4754,30.19
+3/3/2023,Instagram,Post_49,Video,798,101,382,70879,37600,41,Male,Niue,Neutral,1116,85.75
+1/31/2023,Twitter,Post_84,Image,252,3,86,83609,40449,27,Female,Guatemala,Neutral,2734,48.72
+9/2/2023,Facebook,Post_29,Text,687,258,440,12123,94595,64,Female,Guam,Neutral,4822,13.11
+1/14/2023,Twitter,Post_91,Video,773,235,167,75783,45765,32,Other,Liechtenstein,Positive,1343,38.42
+2/10/2023,Facebook,Post_45,Video,323,4,88,41004,89401,64,Male,Jersey,Neutral,826,159.08
+10/18/2023,Instagram,Post_19,Video,266,108,450,28507,24617,39,Female,Trinidad and Tobago,Positive,1166,43.83
+3/20/2023,Instagram,Post_83,Text,738,161,360,50313,86153,47,Male,Eritrea,Positive,4315,23.73
+9/6/2023,Facebook,Post_68,Text,118,34,29,90416,16632,27,Other,Albania,Negative,4034,14.43
+3/23/2023,Facebook,Post_78,Image,465,123,361,30440,97684,58,Other,Egypt,Negative,1012,148.52
+6/8/2023,Twitter,Post_54,Text,530,54,54,63014,8083,26,Male,Bulgaria,Negative,2770,11.48
+2/8/2023,Facebook,Post_48,Carousel,489,86,44,79890,22301,48,Male,Swaziland,Negative,3481,39.47
+3/24/2023,Instagram,Post_53,Image,751,105,390,53748,26022,59,Male,Haiti,Negative,3835,29.1
+7/13/2023,Facebook,Post_86,Text,58,93,16,84877,57791,23,Male,Nigeria,Neutral,1505,70.63
+11/8/2023,Twitter,Post_26,Text,410,68,176,79401,35386,49,Other,Tajikistan,Neutral,4595,23.2
+8/22/2023,Twitter,Post_45,Video,554,249,340,21946,30684,51,Female,Saint Lucia,Neutral,3230,21.3
+7/19/2023,Twitter,Post_84,Carousel,95,292,172,61444,20810,56,Male,Hungary,Positive,2163,50.95
+7/20/2023,Facebook,Post_91,Carousel,226,191,350,39211,28093,34,Other,Saint Martin,Negative,4895,21.53
+3/16/2023,Facebook,Post_94,Video,91,161,20,58053,53911,29,Male,British Virgin Islands,Negative,825,73.09
+9/1/2023,Instagram,Post_49,Text,748,300,396,68560,157732,31,Male,Suriname,Neutral,3520,9.32
+10/2/2023,Instagram,Post_26,Text,329,167,168,20113,93996,45,Other,Mauritius,Negative,599,109.68
+3/7/2023,Instagram,Post_4,Text,880,134,328,15541,35559,35,Male,Tonga,Negative,3022,13.86
+11/21/2023,Twitter,Post_79,Video,200,7,353,76616,32771,60,Male,Guyana,Positive,3141,28.84
+8/11/2023,Instagram,Post_2,Video,70,125,252,68469,140599,49,Female,Turkmenistan,Positive,4423,29.57
+6/29/2023,Twitter,Post_92,Image,480,155,138,48829,27417,65,Other,Guyana,Negative,3780,19.47
+6/19/2023,Twitter,Post_3,Text,720,160,399,88086,6222,57,Other,Mauritius,Neutral,3579,25.03
+10/26/2023,Instagram,Post_44,Carousel,817,285,174,17495,108405,35,Female,Guam,Negative,4295,2.21
+4/24/2023,Instagram,Post_100,Text,479,7,429,16368,107616,33,Other,Finland,Negative,690,198.99
+7/2/2023,Instagram,Post_49,Text,198,173,21,34841,61187,47,Other,Dominican Republic,Positive,1593,18.71
+3/26/2023,Facebook,Post_61,Text,361,35,83,37696,26342,48,Male,Ireland,Positive,830,83.61
+12/26/2023,Facebook,Post_2,Image,343,298,460,64121,44741,46,Female,Cocos (Keeling) Islands,Negative,2744,23.91
+6/23/2023,Instagram,Post_100,Image,676,145,218,11201,126825,21,Other,Afghanistan,Negative,3447,11.34
+4/23/2023,Instagram,Post_59,Image,931,251,40,6200,84450,38,Female,Cambodia,Positive,1810,52.1
+1/24/2023,Twitter,Post_85,Image,671,31,378,49562,15381,32,Male,Isle of Man,Positive,3549,31.5
+11/23/2023,Twitter,Post_14,Carousel,277,9,310,97058,11170,65,Other,Reunion,Positive,998,67.33
+8/2/2023,Twitter,Post_96,Carousel,614,127,236,51917,7176,31,Female,French Guiana,Positive,1985,50.58
+11/12/2023,Instagram,Post_65,Video,741,0,389,3309,134588,48,Male,Hong Kong,Neutral,927,47.9
+7/16/2023,Twitter,Post_44,Carousel,482,98,414,9772,25250,42,Female,Belarus,Neutral,3580,29.97
+3/28/2023,Facebook,Post_59,Text,401,29,228,38222,52266,57,Male,San Marino,Positive,1386,65.15
+6/22/2023,Instagram,Post_57,Video,959,213,252,1761,69073,65,Male,Mongolia,Positive,4605,6.25
+4/25/2023,Twitter,Post_83,Image,719,88,472,68778,49419,43,Female,Bhutan,Positive,2467,47.26
+9/24/2023,Instagram,Post_85,Image,757,84,437,35350,33292,41,Female,Cameroon,Positive,3696,18.32
+1/5/2023,Twitter,Post_69,Video,782,199,416,11226,24384,23,Male,Philippines,Positive,3154,29.49
+12/6/2023,Instagram,Post_79,Image,444,121,338,73289,186933,58,Other,Australia,Positive,511,161.64
+1/20/2023,Twitter,Post_13,Carousel,495,98,179,38597,26374,22,Female,Burkina Faso,Positive,2051,31.11
+4/18/2023,Instagram,Post_78,Carousel,132,136,260,94018,77007,59,Female,Gabon,Positive,1965,62.29
+12/21/2023,Instagram,Post_90,Text,880,87,18,63566,145029,59,Other,Algeria,Neutral,4354,5.58
+5/28/2023,Instagram,Post_71,Text,406,26,310,55913,161554,45,Female,Saint Martin,Negative,4546,23.38
+11/14/2023,Instagram,Post_56,Text,444,257,34,29904,159031,36,Female,Singapore,Negative,550,257.64
+1/9/2023,Facebook,Post_5,Video,882,139,323,64739,16048,56,Other,Tokelau,Negative,3289,31.86
+9/12/2023,Twitter,Post_59,Image,769,171,357,42141,40963,61,Other,Argentina,Negative,4506,5.99
+3/20/2023,Facebook,Post_49,Carousel,288,19,73,47692,45803,53,Male,South Georgia and the South Sandwich Islands,Negative,3810,27.01
+5/24/2023,Twitter,Post_8,Carousel,61,47,481,22566,33229,64,Female,Christmas Island,Negative,4044,16.12
+5/10/2023,Facebook,Post_34,Video,580,46,413,46647,13279,46,Other,Rwanda,Negative,2246,43.28
+9/26/2023,Facebook,Post_70,Carousel,626,209,126,11524,50502,40,Male,Nauru,Neutral,1101,77.93
+1/29/2023,Facebook,Post_27,Video,661,61,279,80243,26502,41,Female,Lebanon,Positive,2610,33.87
+6/5/2023,Facebook,Post_51,Carousel,668,57,91,78661,44357,20,Female,Kenya,Neutral,4540,25.11
+6/12/2023,Facebook,Post_2,Video,447,228,291,71575,14994,42,Other,Australia,Neutral,4644,30.32
+9/12/2023,Instagram,Post_89,Video,442,93,436,46824,154490,32,Female,Zambia,Neutral,2636,39.45
+2/3/2023,Instagram,Post_79,Carousel,142,137,255,78195,129817,50,Female,Ecuador,Neutral,4017,19.87
+7/19/2023,Facebook,Post_33,Carousel,405,107,444,83441,26122,19,Other,Ireland,Positive,597,19.6
+9/30/2023,Facebook,Post_28,Carousel,446,16,440,76747,33824,30,Female,Spain,Positive,1487,47.48
+3/19/2023,Facebook,Post_39,Image,138,267,401,49881,31811,57,Other,Saint Lucia,Positive,2097,59.7
+5/1/2023,Twitter,Post_85,Video,507,241,281,83428,47869,44,Female,Guyana,Negative,3949,24.82
+11/7/2023,Twitter,Post_81,Text,358,218,125,79287,46216,51,Male,United States of America,Negative,4830,28.22
+3/12/2023,Facebook,Post_31,Carousel,695,259,137,95405,60532,33,Other,Reunion,Negative,842,150
+1/15/2023,Instagram,Post_92,Carousel,709,98,90,71318,196653,24,Male,Germany,Neutral,1932,59.32
+4/10/2023,Instagram,Post_28,Carousel,975,254,459,18804,92530,40,Other,Bouvet Island (Bouvetoya),Neutral,2333,19.42
+11/18/2023,Twitter,Post_19,Text,646,175,270,56280,43331,27,Female,Namibia,Neutral,2954,14.42
+9/17/2023,Instagram,Post_58,Video,582,79,366,70401,47604,51,Female,Bahrain,Neutral,885,83.95
+8/25/2023,Twitter,Post_90,Carousel,438,203,497,65454,39484,30,Male,Thailand,Negative,1795,66.52
+5/29/2023,Facebook,Post_65,Carousel,539,270,165,66352,64735,30,Female,Ghana,Neutral,1354,95.57
+5/6/2023,Facebook,Post_58,Carousel,326,119,255,93730,58324,30,Other,Philippines,Neutral,3188,18.91
+2/8/2023,Instagram,Post_51,Video,664,249,37,87343,44837,31,Male,Nepal,Neutral,1229,64.44
+8/2/2023,Twitter,Post_80,Text,470,188,186,28087,44351,26,Male,El Salvador,Positive,2350,26.6
+10/19/2023,Facebook,Post_67,Carousel,108,175,499,58694,32047,23,Male,Lao People's Democratic Republic,Positive,1417,30.28
+11/18/2023,Instagram,Post_55,Carousel,887,181,461,16820,101039,26,Other,Faroe Islands,Positive,4964,17.91
+8/7/2023,Facebook,Post_45,Video,598,292,340,42519,31904,61,Other,Montserrat,Positive,4657,14.95
+10/17/2023,Facebook,Post_19,Carousel,745,84,24,64847,88124,55,Female,Panama,Positive,4823,7.51
+6/16/2023,Facebook,Post_46,Text,66,280,206,80160,35469,52,Male,Turkey,Positive,1073,39.98
+11/16/2023,Facebook,Post_90,Video,705,139,157,8090,44926,37,Female,Iraq,Positive,4147,37.79
+9/16/2023,Instagram,Post_8,Image,158,198,70,99315,69724,64,Female,Northern Mariana Islands,Positive,4989,12.25
+7/1/2023,Twitter,Post_21,Text,959,142,460,64590,28390,34,Female,Greece,Positive,1604,14.71
+9/11/2023,Instagram,Post_88,Image,932,74,483,24809,172572,50,Female,Saint Pierre and Miquelon,Positive,4272,22.47
+10/5/2023,Facebook,Post_93,Text,859,235,468,48811,84803,59,Other,Mozambique,Positive,1457,65.27
+3/1/2023,Twitter,Post_28,Image,728,288,39,99449,29894,44,Male,Belgium,Positive,932,94.96
+1/20/2023,Instagram,Post_43,Text,800,233,327,43919,61210,32,Other,Portugal,Neutral,2797,36.86
+9/5/2023,Twitter,Post_14,Video,676,86,98,35974,19977,20,Female,Equatorial Guinea,Neutral,3352,27.24
+6/22/2023,Instagram,Post_8,Video,864,30,211,49109,174070,49,Male,Zambia,Neutral,604,233.11
+12/3/2023,Twitter,Post_91,Carousel,879,104,295,90684,22325,60,Female,Guinea,Negative,3361,39.01
+7/10/2023,Facebook,Post_20,Image,747,199,35,51805,39804,60,Male,Faroe Islands,Negative,4986,16.59
+5/2/2023,Instagram,Post_57,Text,893,67,285,24494,57598,58,Male,Slovenia,Negative,4297,18.99
+6/14/2023,Instagram,Post_75,Image,583,118,343,60174,26330,61,Other,Afghanistan,Negative,4601,16.71
+7/30/2023,Instagram,Post_52,Video,873,97,425,9426,20249,59,Female,Thailand,Neutral,2692,38.3
+4/5/2023,Facebook,Post_75,Carousel,772,81,448,88277,26957,32,Female,Maldives,Neutral,2099,56.84
+7/26/2023,Facebook,Post_35,Text,318,104,166,78980,71172,58,Other,Falkland Islands (Malvinas),Neutral,2038,20.51
+4/16/2023,Twitter,Post_73,Image,670,65,8,32678,22008,55,Female,Seychelles,Neutral,1748,52.57
+7/7/2023,Twitter,Post_92,Video,725,107,138,84799,9705,34,Male,Singapore,Neutral,2828,27.02
+4/16/2023,Facebook,Post_95,Image,80,226,84,71413,92348,50,Female,Micronesia,Neutral,1166,60.98
+7/10/2023,Facebook,Post_94,Text,225,114,123,43863,33686,56,Male,Liechtenstein,Negative,1490,37.52
+6/23/2023,Instagram,Post_44,Video,91,241,92,50940,115089,65,Other,Madagascar,Negative,3193,25.96
+11/10/2023,Facebook,Post_71,Image,807,218,432,58865,61844,65,Male,South Georgia and the South Sandwich Islands,Negative,4997,20.05
+10/17/2023,Twitter,Post_82,Image,545,263,54,77455,5995,33,Male,Kuwait,Negative,3322,36.06
+1/1/2023,Twitter,Post_1,Video,754,294,403,52732,13569,51,Other,Guatemala,Positive,1076,27.32
+5/31/2023,Twitter,Post_47,Video,220,244,101,94244,40963,22,Other,Italy,Positive,4431,28.91
+4/12/2023,Facebook,Post_63,Video,190,204,162,61536,92378,49,Female,Ukraine,Neutral,3536,39.37
+7/14/2023,Instagram,Post_21,Carousel,151,269,258,2140,30531,46,Other,Colombia,Neutral,2163,11.56
+6/24/2023,Instagram,Post_92,Carousel,741,237,460,18934,173144,27,Male,Zambia,Neutral,4950,6.18
+8/22/2023,Facebook,Post_67,Image,169,22,2,39407,39598,45,Male,Korea,Positive,4192,9.71
+1/13/2023,Instagram,Post_73,Text,398,153,369,66687,141040,22,Other,Jamaica,Positive,2782,36.52
+5/23/2023,Facebook,Post_87,Image,172,4,494,12288,64942,47,Male,Turkmenistan,Negative,2392,40.8
+10/4/2023,Twitter,Post_89,Image,673,114,244,35773,39195,23,Female,North Macedonia,Negative,1919,30.85
+2/10/2023,Twitter,Post_13,Video,160,146,287,44691,41338,57,Female,Mali,Negative,1842,33.33
+3/16/2023,Facebook,Post_27,Carousel,669,219,486,64005,41364,26,Male,Christmas Island,Positive,2462,37.53
+6/26/2023,Instagram,Post_18,Text,12,86,260,96233,134798,21,Male,Puerto Rico,Positive,4569,20.44
+5/22/2023,Twitter,Post_24,Text,398,151,361,36747,43311,27,Male,Japan,Neutral,4329,18.6
+4/12/2023,Twitter,Post_87,Image,769,84,244,48421,42167,32,Other,Ecuador,Negative,3235,17.06
+5/30/2023,Facebook,Post_38,Text,388,177,455,99804,84803,56,Female,French Southern Territories,Negative,2408,38.83
+3/31/2023,Twitter,Post_24,Video,612,53,319,15050,40687,44,Female,Saint Helena,Negative,4972,21.38
+7/20/2023,Facebook,Post_6,Text,591,98,112,64839,63455,21,Female,Angola,Negative,4043,11.6
+8/10/2023,Twitter,Post_53,Video,979,107,311,74539,25847,20,Female,Sweden,Negative,3699,23.63
+8/26/2023,Facebook,Post_36,Carousel,80,280,388,15628,22301,23,Female,Vietnam,Positive,3553,12.33
+5/7/2023,Facebook,Post_69,Image,95,147,381,16781,28497,39,Other,Cape Verde,Positive,4417,8.01
+11/9/2023,Twitter,Post_95,Video,602,221,482,14028,33410,43,Female,Finland,Positive,1875,27.31
+3/20/2023,Instagram,Post_55,Video,944,298,197,3043,70219,22,Male,United Kingdom,Negative,3568,20.24
+7/13/2023,Instagram,Post_91,Text,489,199,57,9021,37334,30,Female,Jordan,Negative,2929,19.84
+1/6/2023,Facebook,Post_52,Video,769,188,261,2177,48320,59,Female,Ghana,Neutral,1131,122.46
+7/5/2023,Facebook,Post_51,Image,314,148,268,34318,94438,54,Other,Sudan,Neutral,3588,11.09
+11/9/2023,Twitter,Post_55,Video,713,227,466,68280,46827,39,Other,Russian Federation,Negative,3341,27.18
+8/5/2023,Instagram,Post_69,Carousel,939,157,419,13516,114379,51,Other,Reunion,Neutral,2746,19.3
+9/2/2023,Instagram,Post_48,Video,189,76,105,92632,141383,28,Male,Cote d'Ivoire,Neutral,4929,14.3
+4/29/2023,Facebook,Post_31,Text,158,23,310,3667,79258,64,Other,Bangladesh,Negative,1457,71.52
+5/9/2023,Instagram,Post_80,Video,631,148,69,86719,166628,29,Other,Yemen,Neutral,3398,26.6
+5/12/2023,Facebook,Post_95,Image,585,234,314,74003,25214,47,Male,Cambodia,Neutral,4813,14.52
+6/24/2023,Instagram,Post_94,Video,120,294,499,67769,142405,33,Male,Saint Martin,Positive,1107,91.6
+6/23/2023,Instagram,Post_83,Carousel,179,133,227,88869,110194,65,Male,Guadeloupe,Positive,3883,35.39
+7/12/2023,Twitter,Post_1,Carousel,688,296,117,19134,47187,56,Other,Luxembourg,Positive,1524,95.08
+10/16/2023,Facebook,Post_27,Video,562,104,189,19634,52581,56,Male,Guadeloupe,Neutral,2123,54.5
+6/23/2023,Facebook,Post_34,Carousel,619,64,205,5440,61014,50,Female,Turks and Caicos Islands,Neutral,1605,66.23
+4/27/2023,Facebook,Post_18,Carousel,994,139,422,92858,86181,29,Other,Benin,Positive,718,141.09
+8/22/2023,Instagram,Post_33,Video,413,13,46,32913,107705,47,Other,Lebanon,Negative,1514,56.14
+5/30/2023,Facebook,Post_49,Carousel,863,4,424,68130,30087,46,Male,Guinea,Negative,4844,21.33
+2/10/2023,Facebook,Post_59,Text,470,111,196,78667,10738,44,Female,Trinidad and Tobago,Negative,3337,37.73
+5/23/2023,Twitter,Post_81,Carousel,472,209,420,30724,22827,19,Other,Benin,Neutral,519,214.45
+1/1/2023,Twitter,Post_98,Carousel,612,111,454,85076,7838,36,Male,Falkland Islands (Malvinas),Neutral,2910,26.74
+3/12/2023,Twitter,Post_26,Image,802,116,383,28177,25020,38,Other,Jordan,Negative,1248,44.47
+10/18/2023,Instagram,Post_63,Carousel,465,27,90,91073,38467,43,Other,Tonga,Negative,4139,17.13
+9/18/2023,Facebook,Post_13,Video,633,297,393,53109,11589,21,Female,Guam,Neutral,834,123.5
+2/21/2023,Twitter,Post_86,Carousel,358,233,484,85021,7469,58,Male,Vietnam,Negative,3453,41.07
+1/18/2023,Twitter,Post_27,Carousel,337,283,53,51494,16560,37,Male,Andorra,Negative,3112,26.86
+6/16/2023,Twitter,Post_82,Carousel,847,288,337,78296,40377,50,Female,Burundi,Negative,1659,82.82
+12/14/2023,Twitter,Post_19,Carousel,532,288,418,66769,15871,44,Other,Bhutan,Positive,2035,60.64
+7/7/2023,Facebook,Post_34,Text,762,142,375,1056,18913,58,Female,Tunisia,Neutral,4407,16.41
+1/3/2023,Instagram,Post_13,Image,802,216,445,28411,106065,27,Other,Bahamas,Positive,2232,37.14
+3/11/2023,Instagram,Post_24,Text,345,213,272,69634,192113,40,Male,Malta,Positive,805,104.6
+1/5/2023,Twitter,Post_25,Text,741,143,221,95473,36586,46,Other,Svalbard & Jan Mayen Islands,Positive,4596,8.7
+2/18/2023,Facebook,Post_29,Carousel,430,179,316,5153,57036,36,Male,Timor-Leste,Positive,569,190.86
+5/10/2023,Facebook,Post_36,Text,733,271,389,91094,60532,31,Other,Guernsey,Positive,3614,29.91
+6/13/2023,Facebook,Post_78,Image,676,161,384,16301,71338,30,Male,Monaco,Positive,1676,62.83
+6/1/2023,Twitter,Post_70,Carousel,365,218,205,40656,29936,37,Male,Singapore,Negative,4301,26.64
+4/22/2023,Instagram,Post_81,Carousel,505,255,302,63412,34318,60,Female,Korea,Negative,1089,95.59
+8/4/2023,Twitter,Post_28,Video,64,170,242,27884,32763,41,Male,Algeria,Positive,4070,32.06
+2/5/2023,Instagram,Post_5,Image,714,159,15,37309,85802,22,Other,Philippines,Neutral,2179,27.86
+12/28/2023,Instagram,Post_93,Carousel,487,152,340,80706,64460,34,Male,Cambodia,Positive,4654,18.65
+3/22/2023,Twitter,Post_84,Video,185,46,137,36526,19474,59,Female,Sri Lanka,Positive,539,178.48
+9/12/2023,Facebook,Post_43,Video,153,92,455,47409,58930,36,Male,Mauritania,Positive,2214,33.42
+10/5/2023,Instagram,Post_62,Carousel,947,153,14,85976,73867,25,Female,Macao,Positive,3921,11.5
+7/30/2023,Twitter,Post_25,Text,345,297,132,15157,21782,40,Other,Gibraltar,Positive,4724,13.02
+4/3/2023,Instagram,Post_37,Image,709,56,173,43748,59628,42,Male,Bolivia,Negative,2918,39.03
+8/16/2023,Instagram,Post_78,Text,921,224,200,74449,101106,51,Other,Palestinian Territory,Negative,4083,25.28
+12/22/2023,Twitter,Post_35,Carousel,93,191,391,22015,14522,54,Female,Costa Rica,Negative,4529,17.38
+4/11/2023,Instagram,Post_49,Video,5,138,222,32685,75543,54,Other,China,Negative,4398,5.84
+11/11/2023,Instagram,Post_51,Image,257,74,58,81700,104434,62,Other,Lao People's Democratic Republic,Positive,2586,24.48
+10/6/2023,Twitter,Post_16,Carousel,503,207,308,63304,45121,31,Other,Guyana,Positive,717,53.56
+10/19/2023,Facebook,Post_59,Text,451,95,129,66890,41108,45,Male,Algeria,Positive,605,94.88
+2/26/2023,Facebook,Post_79,Image,407,182,96,54443,27492,63,Male,Barbados,Neutral,2929,12.5
+1/8/2023,Instagram,Post_17,Image,59,123,325,8763,143760,45,Female,Cook Islands,Neutral,654,184.56
+11/28/2023,Instagram,Post_70,Image,147,61,75,43051,111213,38,Male,Sierra Leone,Negative,1763,49.52
+7/15/2023,Twitter,Post_59,Image,343,217,45,66536,27640,22,Female,Jersey,Negative,3944,18.56
+8/28/2023,Twitter,Post_14,Text,241,23,8,14649,27816,20,Other,Grenada,Negative,2992,29.14
+2/8/2023,Twitter,Post_86,Text,444,244,472,10483,33448,43,Other,Bahrain,Positive,2655,51
+10/22/2023,Facebook,Post_12,Text,941,115,386,32130,86564,56,Female,Mongolia,Negative,4215,25.72
+11/27/2023,Twitter,Post_45,Text,558,124,321,55915,18048,49,Male,Paraguay,Negative,2094,35.43
+1/15/2023,Instagram,Post_60,Video,214,9,76,42250,142324,25,Female,Cameroon,Positive,3358,8.46
+6/1/2023,Twitter,Post_20,Image,871,297,36,28662,37017,27,Male,Haiti,Neutral,3260,46.32
+7/30/2023,Facebook,Post_32,Text,211,39,432,83148,62745,45,Other,Algeria,Neutral,1675,63.22
+4/3/2023,Facebook,Post_63,Video,971,144,314,36391,18767,39,Male,Seychelles,Negative,2179,31.9
+6/1/2023,Facebook,Post_50,Video,803,115,324,75801,48331,35,Other,Uruguay,Positive,3617,17.75
+10/12/2023,Instagram,Post_11,Carousel,558,128,79,72936,145966,31,Other,Thailand,Positive,4958,7.48
+11/16/2023,Instagram,Post_72,Video,810,242,207,19770,90382,32,Female,Norway,Positive,2544,58.61
+4/2/2023,Instagram,Post_7,Carousel,435,122,405,25178,26688,19,Male,Bahamas,Positive,4780,29.41
+9/30/2023,Twitter,Post_90,Image,291,84,414,59330,16263,41,Other,Saint Martin,Positive,2464,15.14
+8/2/2023,Twitter,Post_32,Video,372,254,389,12667,21983,31,Male,Belize,Positive,3729,11.99
+12/11/2023,Instagram,Post_14,Text,828,106,411,67070,102479,35,Male,Congo,Neutral,1680,45.24
+11/9/2023,Twitter,Post_19,Text,967,230,473,40047,28094,30,Male,Montenegro,Neutral,3933,8.49
+8/16/2023,Instagram,Post_47,Video,86,253,58,45112,91407,26,Male,Hong Kong,Neutral,3443,28.2
+5/27/2023,Twitter,Post_32,Text,706,59,453,9054,44984,27,Other,Cyprus,Neutral,1921,35.55
+2/14/2023,Instagram,Post_7,Text,3,141,153,99698,37600,51,Male,Nauru,Positive,1215,47.9
+1/2/2023,Facebook,Post_37,Carousel,724,112,182,45757,33506,22,Other,Greece,Positive,1875,10.51
+10/16/2023,Instagram,Post_30,Video,149,235,77,79091,136009,63,Other,Saint Barthelemy,Negative,2887,5.89
+11/28/2023,Twitter,Post_97,Text,100,287,100,2477,8502,48,Female,Turkey,Neutral,1108,43.5
+6/6/2023,Twitter,Post_34,Text,646,48,91,34655,26187,58,Other,Svalbard & Jan Mayen Islands,Neutral,3170,24.51
+3/24/2023,Facebook,Post_87,Video,42,247,464,50698,32131,62,Other,Indonesia,Neutral,2036,65.42
+7/7/2023,Instagram,Post_14,Text,948,220,277,14372,106270,29,Other,Chile,Neutral,4147,22.09
+9/22/2023,Facebook,Post_23,Image,147,116,14,65796,52413,22,Female,Belgium,Neutral,3647,31.42
+5/18/2023,Instagram,Post_79,Carousel,138,42,286,27164,77391,45,Male,Switzerland,Positive,1313,42.65
+6/9/2023,Twitter,Post_98,Video,553,288,425,40324,43016,34,Female,Lao People's Democratic Republic,Positive,3247,13.98
+7/18/2023,Twitter,Post_93,Image,885,7,345,31278,18239,28,Other,Burkina Faso,Positive,3329,36.59
+8/15/2023,Facebook,Post_52,Carousel,783,54,500,54461,97245,53,Female,Mayotte,Neutral,3280,44.3
+10/20/2023,Instagram,Post_26,Image,871,16,77,20018,126825,20,Other,Montserrat,Neutral,2553,51.66
+7/4/2023,Facebook,Post_92,Image,236,198,490,11360,98624,62,Male,Palau,Positive,3817,10.82
+6/21/2023,Facebook,Post_48,Image,610,88,332,53827,26285,33,Female,Poland,Positive,1228,105.94
+4/1/2023,Facebook,Post_18,Carousel,893,181,295,22495,70054,48,Other,Cameroon,Positive,2238,36.91
+3/20/2023,Twitter,Post_9,Video,866,95,496,1286,32195,25,Other,Cayman Islands,Positive,2994,37.51
+4/11/2023,Instagram,Post_7,Text,146,289,147,34500,61272,59,Other,Chile,Positive,4475,18.75
+8/27/2023,Facebook,Post_77,Image,607,167,224,74518,20227,40,Other,Micronesia,Positive,1232,124.11
+6/6/2023,Facebook,Post_51,Image,862,257,356,6801,72008,35,Male,Cyprus,Negative,4844,25.37
+10/12/2023,Twitter,Post_83,Text,968,87,53,57137,9235,61,Female,Wallis and Futuna,Negative,4509,12.89
+11/19/2023,Instagram,Post_91,Video,415,231,158,41392,144549,65,Male,Afghanistan,Negative,769,120.03
+6/3/2023,Instagram,Post_20,Video,697,127,419,4529,145029,43,Other,Oman,Negative,4135,28.66
+2/24/2023,Facebook,Post_65,Image,579,280,24,90817,60011,20,Female,Romania,Negative,2888,48.03
+4/26/2023,Facebook,Post_16,Video,450,290,303,10588,35498,39,Other,China,Positive,4708,14.38
+1/9/2023,Facebook,Post_39,Text,550,67,116,23185,59442,42,Other,Venezuela,Positive,2519,22.15
+4/27/2023,Instagram,Post_65,Text,667,212,416,82263,186561,65,Other,Cuba,Positive,3282,21.05
+1/9/2023,Facebook,Post_8,Carousel,792,236,249,20881,26575,62,Male,Botswana,Positive,3667,19.55
+12/5/2023,Instagram,Post_35,Video,667,270,88,55838,37127,60,Other,Afghanistan,Positive,4900,14.8
+6/30/2023,Facebook,Post_62,Text,728,92,1,20681,62150,19,Other,Bahrain,Positive,1114,76.84
+11/10/2023,Instagram,Post_50,Carousel,546,234,241,45454,58393,62,Other,Luxembourg,Positive,2560,35.23
+9/7/2023,Twitter,Post_19,Image,21,9,188,8995,20206,34,Female,Mexico,Positive,3357,11.74
+4/6/2023,Facebook,Post_7,Video,136,237,435,93219,88098,60,Male,Barbados,Positive,2412,25.54
+7/13/2023,Instagram,Post_58,Video,62,52,483,64373,45177,38,Female,Ghana,Neutral,4823,26.66
+2/27/2023,Facebook,Post_90,Video,886,204,188,26806,92042,28,Other,Tuvalu,Positive,3049,37.88
+10/22/2023,Instagram,Post_54,Text,530,225,89,28296,53039,37,Male,Mauritania,Positive,3790,16.73
+1/4/2023,Facebook,Post_11,Video,132,7,394,31996,47776,40,Female,Estonia,Negative,2823,25.86
+12/9/2023,Instagram,Post_64,Video,900,298,44,80241,106428,43,Female,Ireland,Negative,932,72.32
+3/8/2023,Instagram,Post_16,Video,331,144,162,61574,51745,38,Female,Macao,Negative,4783,31.72
+1/9/2023,Twitter,Post_21,Video,193,106,233,17657,33071,19,Male,Cocos (Keeling) Islands,Negative,2314,26.49
+5/21/2023,Instagram,Post_27,Text,180,267,23,89918,96221,48,Female,Malawi,Negative,1853,45.01
+2/4/2023,Facebook,Post_61,Text,215,192,351,17144,99589,23,Other,Palau,Neutral,2254,25.2
+8/1/2023,Instagram,Post_71,Image,915,255,113,64291,118067,29,Male,Thailand,Neutral,3023,26.7
+11/14/2023,Facebook,Post_57,Video,301,79,347,8556,93193,36,Other,Reunion,Negative,4819,23.95
+3/2/2023,Instagram,Post_46,Text,501,274,62,19683,103397,33,Male,Saint Lucia,Positive,4614,7.54
+4/5/2023,Twitter,Post_66,Image,771,84,323,25505,5394,44,Male,Marshall Islands,Positive,4391,16.74
+3/29/2023,Instagram,Post_10,Text,713,120,334,90226,23458,40,Other,Bahamas,Neutral,676,175.44
+6/3/2023,Facebook,Post_98,Image,669,266,466,34071,40829,18,Female,Gibraltar,Neutral,1558,53.66
+9/8/2023,Facebook,Post_31,Video,987,97,295,97847,62858,51,Male,Comoros,Neutral,4022,13.13
+9/29/2023,Instagram,Post_89,Carousel,726,222,330,94715,173976,39,Female,Philippines,Neutral,2877,26.69
+2/23/2023,Facebook,Post_53,Text,26,176,290,88153,22862,31,Female,Guatemala,Negative,2642,38.64
+1/10/2023,Twitter,Post_50,Carousel,177,242,271,33723,7563,25,Female,Belize,Positive,3625,22.32
+3/10/2023,Instagram,Post_27,Text,513,104,75,14277,101227,38,Female,Papua New Guinea,Positive,2848,52.98
+11/9/2023,Facebook,Post_73,Video,670,139,95,25049,40662,48,Male,Sao Tome and Principe,Positive,3054,32.61
+3/25/2023,Twitter,Post_86,Carousel,79,111,410,82089,45285,35,Other,Montserrat,Positive,975,124.21
+11/25/2023,Instagram,Post_63,Carousel,473,77,172,47248,172845,55,Female,Monaco,Neutral,3947,11.78
+12/23/2023,Facebook,Post_39,Image,876,126,28,59235,28906,35,Male,French Guiana,Neutral,821,136.05
+8/29/2023,Facebook,Post_12,Text,117,242,371,33710,83379,30,Male,Ghana,Neutral,1181,16.93
+3/1/2023,Facebook,Post_83,Image,98,237,487,17245,35797,38,Female,French Polynesia,Positive,1484,21.5
+9/16/2023,Twitter,Post_48,Text,343,2,355,28259,39358,39,Female,Ghana,Positive,4258,11.04
+12/16/2023,Facebook,Post_18,Image,614,270,438,24504,79575,45,Male,Jamaica,Positive,845,65.09
+1/11/2023,Instagram,Post_28,Video,240,166,194,7301,138422,48,Female,Malawi,Negative,4721,13.34
+8/8/2023,Facebook,Post_41,Image,853,193,190,1186,78517,52,Female,Morocco,Positive,3369,33.57
+9/4/2023,Instagram,Post_92,Carousel,7,270,356,83452,51087,43,Other,San Marino,Positive,3335,19.31
+4/22/2023,Twitter,Post_47,Text,476,35,118,11528,7939,18,Other,Falkland Islands (Malvinas),Positive,4458,15.21
+3/30/2023,Twitter,Post_50,Text,672,52,42,17749,30945,39,Female,Christmas Island,Positive,1258,59.62
+9/4/2023,Instagram,Post_70,Video,864,52,433,18873,36392,40,Male,Liechtenstein,Positive,4653,25.98
+5/16/2023,Twitter,Post_98,Text,215,198,17,79832,44255,29,Male,Croatia,Neutral,4504,3.22
+6/2/2023,Instagram,Post_38,Text,107,0,8,70860,37925,50,Female,Taiwan,Negative,4783,15.64
+5/10/2023,Facebook,Post_33,Text,409,58,54,48415,22651,54,Female,South Africa,Negative,1612,62.72
+6/8/2023,Facebook,Post_76,Carousel,945,75,4,58794,59165,47,Female,Hungary,Negative,3382,14.13
+3/21/2023,Facebook,Post_80,Carousel,857,97,101,37961,19007,23,Other,Croatia,Positive,1424,29.14
+5/11/2023,Instagram,Post_17,Image,460,82,142,83697,70873,22,Other,Croatia,Neutral,3003,19.25
+1/29/2023,Facebook,Post_16,Carousel,967,153,430,84286,78890,38,Other,Papua New Guinea,Negative,2195,39.59
+11/2/2023,Twitter,Post_33,Image,976,299,42,33249,6839,24,Other,Brunei Darussalam,Negative,2726,51.76
+3/22/2023,Twitter,Post_33,Video,408,110,4,66424,17901,29,Other,Bulgaria,Positive,820,111.71
+12/5/2023,Instagram,Post_3,Carousel,954,149,6,93114,199046,36,Male,Switzerland,Negative,4360,12.39
+7/17/2023,Instagram,Post_23,Text,56,287,225,91328,170487,27,Male,Benin,Negative,3937,24
+2/9/2023,Facebook,Post_83,Carousel,761,42,372,84964,89766,61,Male,Pitcairn Islands,Neutral,1483,75.32
+11/27/2023,Facebook,Post_6,Image,51,274,361,6711,90817,24,Other,Vanuatu,Positive,2642,28.46
+11/2/2023,Twitter,Post_39,Carousel,647,201,263,18347,46663,32,Other,Portugal,Positive,3028,38.71
+6/28/2023,Twitter,Post_20,Text,63,86,421,60730,24927,40,Female,Germany,Neutral,3184,37.12
+1/1/2023,Twitter,Post_78,Carousel,986,161,480,35808,49041,40,Female,Afghanistan,Neutral,4528,28.51
+9/21/2023,Twitter,Post_13,Carousel,812,46,342,28418,38501,22,Female,Paraguay,Neutral,1354,101.62
+6/20/2023,Facebook,Post_85,Video,521,35,168,36278,43602,21,Other,Azerbaijan,Neutral,1682,36.98
+7/16/2023,Twitter,Post_40,Image,237,261,34,39716,49661,24,Male,Ecuador,Neutral,1024,102.34
+1/30/2023,Instagram,Post_21,Carousel,540,243,72,32033,143202,40,Male,Uganda,Neutral,2873,18.62
+3/13/2023,Facebook,Post_52,Image,473,52,455,4847,38015,30,Other,Wallis and Futuna,Positive,512,54.1
+12/24/2023,Twitter,Post_47,Image,47,128,461,16342,41283,29,Male,Haiti,Negative,1658,68.4
+8/16/2023,Facebook,Post_42,Carousel,393,158,283,96173,42063,25,Other,New Zealand,Negative,3112,23.75
+4/16/2023,Twitter,Post_48,Text,232,285,260,6312,19495,42,Male,Comoros,Neutral,3834,26.4
+9/9/2023,Twitter,Post_78,Video,297,21,223,77775,8664,63,Male,Tonga,Neutral,1482,69.77
+12/20/2023,Twitter,Post_95,Video,76,172,120,94093,28859,62,Other,Moldova,Neutral,4215,17.98
+4/16/2023,Facebook,Post_19,Video,468,276,110,65158,57706,32,Other,Burundi,Neutral,2956,39.34
+12/23/2023,Facebook,Post_79,Text,732,18,461,32969,88365,63,Other,Romania,Negative,655,149.16
+8/13/2023,Facebook,Post_91,Text,351,84,364,37782,15182,49,Other,Belgium,Negative,3580,13.52
+2/19/2023,Instagram,Post_98,Text,798,227,139,22277,89100,39,Other,Bosnia and Herzegovina,Negative,3227,38.27
+10/1/2023,Instagram,Post_95,Video,967,266,182,25305,134205,36,Other,Slovenia,Negative,891,11
+8/3/2023,Instagram,Post_1,Carousel,886,201,457,83296,97327,42,Other,Ukraine,Negative,3566,31.8
+3/26/2023,Twitter,Post_2,Image,993,258,464,81481,42167,39,Male,Jordan,Negative,2200,50.45
+4/12/2023,Instagram,Post_3,Text,966,276,495,91183,65501,48,Other,Oman,Neutral,4835,18.14
+6/18/2023,Facebook,Post_4,Carousel,928,235,423,90067,69641,57,Female,Algeria,Neutral,4411,12.83
+7/21/2023,Facebook,Post_5,Carousel,869,206,465,90748,60790,28,Male,Finland,Neutral,1769,64.73
