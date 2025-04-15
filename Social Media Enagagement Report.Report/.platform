@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Social Media Enagagement Report"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "dbb6d5cf-2265-4fba-92d9-bb51da2c6411"
+  }
+}

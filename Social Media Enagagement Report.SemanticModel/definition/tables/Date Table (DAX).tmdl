@@ -1,0 +1,97 @@
+table 'Date Table (DAX)'
+	lineageTag: 7e2d12c6-96c1-4fb3-8f32-a1a1a295e0b6
+	dataCategory: Time
+
+	column Date
+		isKey
+		formatString: dd/mm/yyyy
+		lineageTag: a5c73c9b-adfd-4895-a913-9469682d592b
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Date]
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column Year = YEAR('Date Table (DAX)'[Date])
+		formatString: 0
+		lineageTag: 71cccb7f-5b95-4ba7-93ad-1ccf77cb46e7
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Month No' = MONTH( 'Date Table (DAX)'[Date])
+		formatString: 0
+		lineageTag: 78d270dd-0b4c-4c49-acc8-a1b4b2354df9
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Date No' = DAY('Date Table (DAX)'[Date])
+		formatString: 0
+		lineageTag: 99ee9f4c-405d-44ca-bfb4-d476baf607b3
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Month Name' = FORMAT('Date Table (DAX)'[Date], "mmm")
+		lineageTag: c5c8e31a-ee10-46b2-a147-6bb848bf8ef8
+		summarizeBy: none
+		sortByColumn: 'Month No'
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Day Name' = FORMAT('Date Table (DAX)'[Date], "ddd")
+		lineageTag: 247257fc-9e5f-4377-9b2b-e8ad8bef48be
+		summarizeBy: none
+		sortByColumn: 'Day Sort Order'
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Year month Name' = FORMAT('Date Table (DAX)'[Date], "mmm-yyyy")
+		lineageTag: ece87ad7-4cb5-40c9-8e07-eadd84172f9c
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	column Quarter = QUARTER('Date Table (DAX)'[Date])
+		lineageTag: 473ba6fd-3f62-4b24-9800-eab239acf35f
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Day Sort Order' =
+			
+			SWITCH(
+			    WEEKDAY([Date], 2),  // Week starts on Monday
+			    1, "1",
+			    2, "2",
+			    3, "3",
+			    4, "4",
+			    5, "5",
+			    6, "6",
+			    7, "7"
+			)
+		lineageTag: 56d6bf0f-5578-4101-ba57-8ed4a1f3fb9c
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Quarter (Q)' = "Q" & 'Date Table (DAX)'[Quarter]
+		lineageTag: 6922cad0-ad8f-492f-8c64-f6172a833bf9
+		summarizeBy: none
+		sortByColumn: Quarter
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Date Table (DAX)' = calculated
+		mode: import
+		source = CALENDAR(DATE(2023,01,01),DATE(2023,12,31))
+
+	annotation PBI_Id = 4bd01947b11a4615b9da53365fb82c7b
+
