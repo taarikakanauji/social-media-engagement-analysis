@@ -75,10 +75,10 @@ As a Business Analyst for a prominent digital brand, I was tasked with developin
         Measure Used: Total likes = SUM('Dataset'[Likes])
 
         Total Comments – Total number of user comments.
-        Measure Used: Total likes = SUM('Dataset'[Likes])
+        Measure Used: Total likes = SUM('Dataset'[Comments])
 
         Total Shares – Total number of times content was shared.
-        Measure Used: SUM('Dataset'[Likes])
+        Measure Used: SUM('Dataset'[Shares])
 
         MoM Engagement % Measure:
         MoM Engagement % = CALCULATE(DIVIDE(([Engagement Current Month (MTD)] - [Engagement Past Month (INPERIOD)]),[Engagement Past Month (INPERIOD)]))
@@ -198,7 +198,8 @@ Finally, I activated the Action feature on the reset icon by setting the Type to
 
 The dashboard for Instagram, as the name suggests, specifically highlights the crucial numbers, trends and targets related to Instagram. The key purpose of this dashboard is to understand what's working and what's not for Instagram, and use that information to make pivotal decisions that will further the growth of the platform in the future.
 
-  ![Instagram Analysis](https://github.com/taarikakanauji/social-media-engagement-analysis/raw/main/images/Power%20BI-IN.jpg)
+  ![Instagram Analysis](https://github.com/taarikakanauji/social-media-engagement-analysis/raw/main/images/Insta-report.jpg)
+
 
 - The `Engagements` bar chart shows the overall engagement during all the months. The fluctuation is fairly stable and indicates that the usage remains at a certain level throughout the year. The last quarter does go a little higher compared to other quarters.
 
@@ -233,7 +234,7 @@ Leverage comment-friendly formats (polls, Q&As) to sustain discussion momentum.
 
 # **Facebook Analysis**  
 
-  ![Facebook Analysis](https://github.com/taarikakanauji/social-media-engagement-analysis/raw/main/images/Power%20BI-FB.jpg)
+  ![Facebook Analysis](https://github.com/taarikakanauji/social-media-engagement-analysis/raw/main/images/Facebook-report.jpg)
 
 Facebook Analysis is designed to track, measure, and interpret engagement trends across content, demographics, and regions. By evaluating performance metrics—such as MoM growth, audience behavior, and geographic distribution—it identifies strengths, weaknesses, and opportunities to refine content strategy, improve audience targeting, and maximize reach.
 
@@ -259,7 +260,7 @@ Benchmark against competitors in these areas to identify gaps
 
 The dashboard for Twitter is designed to spotlight essential metrics, trends, and targets specific to Twitter performance. Its primary goal is to analyze what drives engagement and what doesn’t, helping stakeholders make informed decisions to boost platform growth.
 
-  ![Twitter Analysis](https://github.com/taarikakanauji/social-media-engagement-analysis/raw/main/images/Power%20BI-Twitter.jpg)
+  ![Twitter Analysis](https://github.com/taarikakanauji/social-media-engagement-analysis/raw/main/images/Twitter-report.jpg)
 
 It features visual insights through graphs showing:
 
@@ -313,9 +314,6 @@ Run campaigns specifically targeting comment generation (Q&A sessions, controver
 
 ### **Power BI Service Demo**  
 [Power BI Service Demo (MKV)](https://github.com/taarikakanauji/social-media-engagement-analysis/blob/main/Power-Service-Demo.mkv)  
-
-### **Dataset Folder**  
-[Dataset Files](https://github.com/taarikakanauji/social-media-engagement-analysis/tree/main/dataset)  
 
 ### **PBIP Files**  
 - **Report:** [Report Files](https://github.com/taarikakanauji/social-media-engagement-analysis/tree/main/Social%20Media%20Enagagement%20Report.Report)  
