@@ -268,7 +268,7 @@ It features visual insights through graphs showing:
 
 `Engagement by date and content type` indicates which content type was used how many times in a given day. This may reveal some interesting patterns in how users engage with the platform in regards to special days such as festivals, world events, etc.
 
-`Monthly engagement comparison (current vs. previous month)` shows the month over month comparision of the engagement on the platform. This is essential in monitoring short term engagement and rapidly tackle any sudden dips in the engagement.
+`Monthly engagement comparison (current vs. previous month)` shows the month over month comparison of the engagement on the platform. This is essential in monitoring short term engagement and rapidly tackle any sudden dips in the engagement.
 
 `Engagement trends by day of the week` highlights the trend observed during days of the week.
 
